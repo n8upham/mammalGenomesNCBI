@@ -87,7 +87,7 @@ Query: https://www.ncbi.nlm.nih.gov/data-hub/genome/?taxon=40674
 	- 118 species were aligned from RefSeq
 
 
-### Plotted
+### All plotted.
 
 ![alt text](https://github.com/n8upham/mammalGenomesNCBI/blob/main/figures/Fig1_newSciencePerspective_genomeDist_Mar2023_675genomes.jpg?raw=true)
 
