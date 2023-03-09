@@ -1,0 +1,755 @@
+﻿Assembly.Accession,Assembly.Name,Organism.Name,Assembly.Stats.Total.Sequence.Length,Assembly.Level,Assembly.Submission.Date,WGS.project.accession,Assembly.Stats.Contig.N50,Assembly.Stats.Scaffold.N50,sciName_NCBI,tiplabel,redundantOrNotUsing,synonym,synonymNotes,synonymLink,zoo_Source
+GCA_004027535.1,AcoCah_v1_BIUU,Acomys cahirinus,2306070819,Scaffold,2019-01-16,PVKX01,42476,65411,Acomys_cahirinus,Acomys_cahirinus_MURIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004027895.1,AllBul_v1_BIUU,Orientallactaga bullata,3093575781,Scaffold,2019-01-16,PVKW01,30651,36308,Orientallactaga_bullata,Allactaga_bullata_DIPODIDAE_RODENTIA,0,1,Genus synonym,https://www.mammaldiversity.org/explore.html#genus=Orientallactaga&species=bullata&id=1001963,1. Zoonomia
+GCA_004027835.1,AloPal_v1_BIUU,Alouatta palliata,3033617595,Scaffold,2019-01-16,PVKV01,51304,72427,Alouatta_palliata,Alouatta_palliata_ATELIDAE_PRIMATES,0,0,NA,NA,1. Zoonomia
+GCA_004027475.1,AnoCau_v1_BIUU,Anoura caudifer,2206589520,Scaffold,2019-01-16,PVKU01,143417,185021,Anoura_caudifer,Anoura_caudifer_PHYLLOSTOMIDAE_CHIROPTERA,0,0,NA,NA,1. Zoonomia
+GCA_007570785.1,GSC_phorn_1.0,Antilocapra americana,2509058137,Scaffold,2019-07-12,SRVM01,220431,18739554,Antilocapra_americana,Antilocapra_americana_ANTILOCAPRIDAE_CETARTIODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_004027875.1,AplRuf_v1_BIUU,Aplodontia rufa,3005535537,Scaffold,2019-01-16,PVKS01,33245,37811,Aplodontia_rufa,Aplodontia_rufa_APLODONTIIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004027435.1,ArtJam_v1_BIUU,Artibeus jamaicensis,2424784351,Scaffold,2019-01-16,PVKR01,32365,35347,Artibeus_jamaicensis,Artibeus_jamaicensis_PHYLLOSTOMIDAE_CHIROPTERA,0,0,NA,NA,1. Zoonomia
+GCA_004024785.1,AteGeo_v1_BIUU,Ateles geoffroyi,2897033911,Scaffold,2019-01-15,PVHS01,59033,73111,Ateles_geoffroyi,Ateles_geoffroyi_ATELIDAE_PRIMATES,0,0,NA,NA,1. Zoonomia
+GCA_004027495.1,BeaHun_v1_BIUU,Beatragus hunteri,2697255800,Scaffold,2019-01-16,PVKQ01,57444,69303,Beatragus_hunteri,Beatragus_hunteri_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_004027715.1,CalDon_v1_BIUU,Plecturocebus donacophilus,2959764160,Scaffold,2019-01-16,PVKP01,41149,46445,Plecturocebus_donacophilus,Callicebus_donacophilus_PITHECIIDAE_PRIMATES,0,1,Genus synonym,https://www.mammaldiversity.org/explore.html#genus=Plecturocebus&species=donacophilus&id=1000877,1. Zoonomia
+GCA_007922845.1,UniMelb_Wolf_Refassem_1,Canis lupus,2342421267,Scaffold,2019-08-08,VAWD01,842,64175042,Canis_lupus,Canis_lupus_CANIDAE_CARNIVORA,0,0,NA,NA,1. Zoonomia
+GCA_004027915.1,CapPil_v1_BIUU,Capromys pilorides,3023850356,Scaffold,2019-01-16,PVKN01,4080,4081,Capromys_pilorides,Capromys_pilorides_CAPROMYIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004027735.1,CarPer_v1_BIUU,Carollia perspicillata,2689411905,Scaffold,2019-01-16,PVKM01,10341,10739,Carollia_perspicillata,Carollia_perspicillata_PHYLLOSTOMIDAE_CHIROPTERA,0,0,NA,NA,1. Zoonomia
+GCA_001984765.1,C.can genome v1.0,Castor canadensis,2518306565,Scaffold,2017-02-04,MTKA01,273954,317708,Castor_canadensis,Castor_canadensis_CASTORIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004024745.2,CatWag_v2_BIUU_UCD,Catagonus wagneri,2640067814,Scaffold,2019-07-15,PVHT02,65965,19204659,Catagonus_wagneri,Catagonus_wagneri_TAYASSUIDAE_CETARTIODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_004027695.1,CavTsc_v1_BIUU,Cavia tschudii,3077352510,Scaffold,2019-01-16,PVKK01,64807,91436,Cavia_tschudii,Cavia_tschudii_CAVIIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004027755.1,CebAlb_v1_BIUU,Cebus albifrons,3058667321,Scaffold,2019-01-16,PVKJ01,25652,31156,Cebus_albifrons,Cebus_albifrons_CEBIDAE_PRIMATES,0,0,NA,NA,1. Zoonomia
+GCA_000283155.1,CerSimSim1.0,Ceratotherium simum simum,2464350348,Scaffold,2012-07-31,AKZM01,92960,26277727,Ceratotherium_simum_simum,Ceratotherium_simum_RHINOCEROTIDAE_PERISSODACTYLA,0,1,Subspecies synonym,NA,1. Zoonomia
+GCA_004027615.1,CertNeg_v1_BIUU,Cercopithecus neglectus,3278860052,Scaffold,2019-01-16,PVKI01,9789,10270,Cercopithecus_neglectus,Cercopithecus_neglectus_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,1. Zoonomia
+GCA_004027955.1,ChaVel_v1_BIUU,Chaetophractus vellerosus,5335596729,Scaffold,2019-01-16,PVKH01,1606,1606,Chaetophractus_vellerosus,Chaetophractus_vellerosus_DASYPODIDAE_CINGULATA,0,0,NA,NA,1. Zoonomia
+GCA_004024725.1,CheMed_v1_BIUU,Cheirogaleus medius,2393092913,Scaffold,2019-01-15,PVHR01,90923,118572,Cheirogaleus_medius,Cheirogaleus_medius_CHEIROGALEIDAE_PRIMATES,0,0,NA,NA,1. Zoonomia
+GCA_004027855.1,ChoDid_v1_BIUU,Choloepus didactylus,3390661301,Scaffold,2019-01-16,PVKG01,7167,7289,Choloepus_didactylus,Choloepus_didactylus_MEGALONYCHIDAE_PILOSA,0,0,NA,NA,1. Zoonomia
+GCA_000296735.1,ChrAsi1.0,Chrysochloris asiatica,4210093806,Scaffold,2012-09-19,AMDV01,19632,13470186,Chrysochloris_asiatica,Chrysochloris_asiatica_CHRYSOCHLORIDAE_AFROSORICIDA,0,0,NA,NA,1. Zoonomia
+GCA_004027555.1,CraTho_v1_BIUU,Craseonycteris thonglongyai,2272093077,Scaffold,2019-01-16,PVKE01,23218,25762,Craseonycteris_thonglongyai,Craseonycteris_thonglongyai_CRASEONYCTERIDAE_CHIROPTERA,0,0,NA,NA,1. Zoonomia
+GCA_004027575.1,CriGam_v1_BIUU,Cricetomys gambianus,2397721602,Scaffold,2019-01-16,PVKD01,80761,110049,Cricetomys_gambianus,Cricetomys_gambianus_NESOMYIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004027635.1,CroInd_v1_BIUU,Crocidura indochinensis,3082217326,Scaffold,2019-01-16,PVKC01,4927,4929,Crocidura_indochinensis,Crocidura_indochinensis_SORICIDAE_EULIPOTYPHLA,0,0,NA,NA,1. Zoonomia
+GCA_004023885.1,CryFer_v1_BIUU,Cryptoprocta ferox,2458846334,Scaffold,2019-01-15,PJEU01,128639,173473,Cryptoprocta_ferox,Cryptoprocta_ferox_EUPLERIDAE_CARNIVORA,0,0,NA,NA,1. Zoonomia
+GCA_004027205.1,CteGun_v1_BIUU,Ctenodactylus gundi,2322471743,Scaffold,2019-01-16,PVKB01,218543,354548,Ctenodactylus_gundi,Ctenodactylus_gundi_CTENODACTYLIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004027165.1,CteSoc_v1_BIUU,Ctenomys sociabilis,2834814551,Scaffold,2019-01-16,PVKA01,37562,49073,Ctenomys_sociabilis,Ctenomys_sociabilis_CTENOMYIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004365215.1,CunPac_v1_BIUU,Cuniculus paca,3399583187,Scaffold,2019-03-22,RJWT01,3890,3892,Cuniculus_paca,Cuniculus_paca_CUNICULIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004363535.1,DasPun_v1_BIUU,Dasyprocta punctata,3012098298,Scaffold,2019-03-22,RJWM01,38650,43703,Dasyprocta_punctata,Dasyprocta_punctata_DASYPROCTIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_000241425.1,DauMad_1.0,Daubentonia madagascariensis,2855365987,Scaffold,2012-01-05,AGTM01,3358,3653,Daubentonia_madagascariensis,Daubentonia_madagascariensis_DAUBENTONIIDAE_PRIMATES,0,0,NA,NA,1. Zoonomia
+GCA_004027315.2,DicBicMic_v2_BIUU_UCD,Diceros bicornis,3060207893,Scaffold,2019-07-15,PVJY02,91002,14664201,Diceros_bicornis,Diceros_bicornis_RHINOCEROTIDAE_PERISSODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_004027595.1,DinBra_v1_BIUU,Dinomys branickii,2688563719,Scaffold,2019-01-16,PVLD01,64805,77918,Dinomys_branickii,Dinomys_branickii_DINOMYIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004024685.1,DipSte_v1_BIUU,Dipodomys stephensi,2346418196,Scaffold,2019-01-15,PVHN01,30710,36811,Dipodomys_stephensi,Dipodomys_stephensi_HETEROMYIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004027295.1,DolPat_v1_BIUU,Dolichotis patagonum,3289614431,Scaffold,2019-01-16,PVJX01,27983,31026,Dolichotis_patagonum,Dolichotis_patagonum_CAVIIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_000299155.1,EleEdw1.0,Elephantulus edwardii,3843982861,Scaffold,2012-10-10,AMGZ01,24219,15011382,Elephantulus_edwardii,Elephantulus_edwardii_MACROSCELIDIDAE_MACROSCELIDEA,0,0,NA,NA,1. Zoonomia
+GCA_004027335.1,EryPat_v1_BIUU,Erythrocebus patas,3490485286,Scaffold,2019-01-16,PVJV01,28523,34535,Erythrocebus_patas,Erythrocebus_patas_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,1. Zoonomia
+GCA_002189225.1,ASM218922v1,Eschrichtius robustus,2849453582,Scaffold,2017-06-09,NIPP01,10066,187455,Eschrichtius_robustus,Eschrichtius_robustus_ESCHRICHTIIDAE_CETARTIODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_004363455.1,EubJap_v1_BIUU,Eubalaena japonica,2693575300,Scaffold,2019-03-22,RJWP01,34866,39813,Eubalaena_japonica,Eubalaena_japonica_BALAENIDAE_CETARTIODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_004027275.1,EulFul_v1_BIUU,Eulemur fulvus,2748885701,Scaffold,2019-01-16,PVJU01,21310,22561,Eulemur_fulvus,Eulemur_fulvus_LEMURIDAE_PRIMATES,0,0,NA,NA,1. Zoonomia
+GCA_004023925.1,FelNig_v1_BIUU,Felis nigripes,2428424918,Scaffold,2019-01-15,PISY01,16007,18631,Felis_nigripes,Felis_nigripes_FELIDAE_CARNIVORA,0,0,NA,NA,1. Zoonomia
+GCA_000696425.1,G_variegatus-3.0.2,Galeopterus variegatus,3187643824,Scaffold,2014-06-05,JMZW01,20753,245189,Galeopterus_variegatus,Galeopterus_variegatus_CYNOCEPHALIDAE_DERMOPTERA,0,0,NA,NA,1. Zoonomia
+GCA_004027185.1,GliGli_v1_BIUU,Glis glis,2462087207,Scaffold,2019-01-16,PVJS01,26062,30338,Glis_glis,Glis_glis_GLIRIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004027655.1,GraMur_v1_BIUU,Graphiurus murinus,2815014629,Scaffold,2019-01-16,PVLC01,22138,28463,Graphiurus_murinus,Graphiurus_murinus_GLIRIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004023845.1,HelPar_v1_BIUU,Helogale parvula,2392471390,Scaffold,2019-01-15,PJEM01,113567,179119,Helogale_parvula,Helogale_parvula_HERPESTIDAE_CARNIVORA,0,0,NA,NA,1. Zoonomia
+GCA_004026845.1,HetBruBak_v1_BIUU,Heterohyrax brucei,3618151652,Scaffold,2019-01-16,PVJQ01,62841,67904,Heterohyrax_brucei,Heterohyrax_brucei_PROCAVIIDAE_HYRACOIDEA,0,0,NA,NA,1. Zoonomia
+GCA_002995585.1,ASM299558v1,Hippopotamus amphibius,2425746322,Scaffold,2018-03-13,NKPW01,34064,110752,Hippopotamus_amphibius,Hippopotamus_amphibius_HIPPOPOTAMIDAE_CETARTIODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_004027415.1,HipGal_v1_BIUU,Hipposideros galeritus,2440750851,Scaffold,2019-01-16,PVLB01,33704,37985,Hipposideros_galeritus,Hipposideros_galeritus_HIPPOSIDERIDAE_CHIROPTERA,0,0,NA,NA,1. Zoonomia
+GCA_003009895.1,ASM300989v1,Hyaena hyaena,2374716107,Scaffold,2018-03-19,PEQU01,311202,2001327,Hyaena_hyaena,Hyaena_hyaena_HYAENIDAE_CARNIVORA,0,0,NA,NA,1. Zoonomia
+GCA_004027455.1,HydHyd_v1_BIUU,Hydrochoerus hydrochaeris,2734590088,Scaffold,2019-01-16,PVLA01,148451,202224,Hydrochoerus_hydrochaeris,Hydrochoerus_hydrochaeris_CAVIIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004026905.1,HysCri_v1_BIUU,Hystrix cristata,2470917678,Scaffold,2019-01-16,PVJO01,57102,64768,Hystrix_cristata,Hystrix_cristata_HYSTRICIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004363605.1,IndInd_v1_BIUU,Indri indri,2701849413,Scaffold,2019-03-22,RJWJ01,26447,28620,Indri_indri,Indri_indri_INDRIIDAE_PRIMATES,0,0,NA,NA,1. Zoonomia
+GCA_004363515.1,IniGeo_v1_BIUU,Inia geoffrensis,2596281358,Scaffold,2019-03-22,RJWO01,24570,26707,Inia_geoffrensis,Inia_geoffrensis_INIIDAE_CETARTIODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_004363705.1,KogBre_v1_BIUU,Kogia breviceps,2759698159,Scaffold,2019-03-22,RJWL01,26201,28812,Kogia_breviceps,Kogia_breviceps_PHYSETERIDAE_CETARTIODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_004026805.1,LasBor_v1_BIUU,Lasiurus borealis,2857590849,Scaffold,2019-01-16,PVJN01,35165,38543,Lasiurus_borealis,Lasiurus_borealis_VESPERTILIONIDAE_CHIROPTERA,0,0,NA,NA,1. Zoonomia
+GCA_004024665.1,LemCat_v1_BIUU,Lemur catta,2298449872,Scaffold,2019-01-15,PVHV01,158439,215715,Lemur_catta,Lemur_catta_LEMURIDAE_PRIMATES,0,0,NA,NA,1. Zoonomia
+GCA_004026855.1,LepAme_v1_BIUU,Lepus americanus,3123271264,Scaffold,2019-01-16,PVJM01,15057,16725,Lepus_americanus,Lepus_americanus_LEPORIDAE_LAGOMORPHA,0,0,NA,NA,1. Zoonomia
+GCA_004027375.1,MacSob_v1_BIUU,Macroglossus sobrinus,1897644983,Scaffold,2019-01-16,PVKZ01,338389,453401,Macroglossus_sobrinus,Macroglossus_sobrinus_PTEROPODIDAE_CHIROPTERA,0,0,NA,NA,1. Zoonomia
+GCA_000465345.1,ASM46534v1,Megaderma lyra,1735931796,Scaffold,2013-09-14,AWHB01,7043,16881,Megaderma_lyra,Megaderma_lyra_MEGADERMATIDAE_CHIROPTERA,0,0,NA,NA,1. Zoonomia
+GCA_004024625.1,MelCap_v1_BIUU,Mellivora capensis,3091173380,Scaffold,2019-01-15,PISX01,50213,59143,Mellivora_capensis,Mellivora_capensis_MUSTELIDAE_CARNIVORA,0,0,NA,NA,1. Zoonomia
+GCA_002204375.1,MunDraft-v1.0,Meriones unguiculatus,2523107715,Scaffold,2017-06-21,NHTI01,46546,374687,Meriones_unguiculatus,Meriones_unguiculatus_MURIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004027085.1,MesBid_v1_BIUU,Mesoplodon bidens,2797694783,Scaffold,2019-01-16,PVJJ01,28959,33532,Mesoplodon_bidens,Mesoplodon_bidens_ZIPHIIDAE_CETARTIODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_004026705.1,MicTal_v1_BIUU,Microgale talazaci,3236147583,Scaffold,2019-01-16,PVJH01,56946,65143,Microgale_talazaci,Microgale_talazaci_TENRECIDAE_AFROSORICIDA,0,0,NA,NA,1. Zoonomia
+GCA_004026765.1,MicHir_v1_BIUU,Micronycteris hirsuta,2314654405,Scaffold,2019-01-16,PVJI01,62961,68868,Micronycteris_hirsuta,Micronycteris_hirsuta_PHYLLOSTOMIDAE_CHIROPTERA,0,0,NA,NA,1. Zoonomia
+GCA_004026525.1,MinSch_v1_BIUU,Miniopterus schreibersii,1775846775,Scaffold,2019-01-16,PVJG01,82539,108707,Miniopterus_schreibersii,Miniopterus_schreibersii_VESPERTILIONIDAE_CHIROPTERA,0,0,NA,NA,1. Zoonomia
+GCA_004023865.1,MirAng_v1_BIUU,Mirounga angustirostris,2407319723,Scaffold,2019-01-15,PITE01,52833,64640,Mirounga_angustirostris,Mirounga_angustirostris_PHOCIDAE_CARNIVORA,0,0,NA,NA,1. Zoonomia
+GCA_004024645.1,MizCoq_v1_BIUU,Mirza coquereli,2340865962,Scaffold,2019-01-15,PVHQ01,60596,79947,Mirza_coquereli,Mirza_coquereli_CHEIROGALEIDAE_PRIMATES,0,0,NA,NA,1. Zoonomia
+GCA_004026685.1,MonMon_M_v1_BIUU,Monodon monoceros,2472545502,Scaffold,2019-01-16,PVJE01,67024,86766,Monodon_monoceros,Monodon_monoceros_MONODONTIDAE_CETARTIODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_004026545.1,MorMeg_v1_BIUU,Mormoops blainvillei,2111750309,Scaffold,2019-01-16,PVJD01,142682,156292,Mormoops_blainvillei,Mormoops_blainvillei_MORMOOPIDAE_CHIROPTERA,0,0,NA,NA,1. Zoonomia
+GCA_004024705.2,MosMos_v2_BIUU_UCD,Moschus moschiferus,3069608437,Scaffold,2019-07-15,PVHU02,34785,11728851,Moschus_moschiferus,Moschus_moschiferus_MOSCHIDAE_CETARTIODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_004023785.1,MunMun_v1_BIUU,Mungos mungo,2448211634,Scaffold,2019-01-15,PISW01,180702,236501,Mungos_mungo,Mungos_mungo_HERPESTIDAE_CARNIVORA,0,0,NA,NA,1. Zoonomia
+GCA_004026665.1,MurFea_v1_BIUU,Murina aurata feae,2331551382,Scaffold,2019-01-16,PVJC01,23400,26051,Murina_aurata_feae,Murina_aurata_VESPERTILIONIDAE_CHIROPTERA,0,1,Subspecies synonym,NA,1. Zoonomia
+GCA_004027005.1,MusAve_v1_BIUU,Muscardinus avellanarius,2527147110,Scaffold,2019-01-16,PVJB01,44294,59013,Muscardinus_avellanarius,Muscardinus_avellanarius_GLIRIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004027025.1,MyoCoy_v1_BIUU,Myocastor coypus,2903175784,Scaffold,2019-01-16,PVJA01,28446,35982,Myocastor_coypus,Myocastor_coypus_MYOCASTORIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004026985.1,MyoMyo_v1_BIUU,Myotis myotis,2294472406,Scaffold,2019-01-16,PVIZ01,19322,21824,Myotis_myotis,Myotis_myotis_VESPERTILIONIDAE_CHIROPTERA,0,0,NA,NA,1. Zoonomia
+GCA_004026745.1,MyrTri_v1_BIUU,Myrmecophaga tridactyla,3547273050,Scaffold,2019-01-16,PVIY01,36434,41255,Myrmecophaga_tridactyla,Myrmecophaga_tridactyla_MYRMECOPHAGIDAE_PILOSA,0,0,NA,NA,1. Zoonomia
+GCA_000772465.1,Charlie1.0,Nasalis larvatus,3011966170,Chromosome,2014-11-10,JMHX01,13295,137426304,Nasalis_larvatus,Nasalis_larvatus_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,1. Zoonomia
+GCA_004026825.1,HemHyl_v1_BIUU,Hemitragus hylocrius,2715042536,Scaffold,2019-01-16,PVJR01,66552,85340,Hemitragus_hylocrius,Nilgiritragus_hylocrius_BOVIDAE_CETARTIODACTYLA,0,1,Genus synonym,https://www.mammaldiversity.org/explore.html#genus=Nilgiritragus&species=hylocrius&id=1006200,1. Zoonomia
+GCA_004026585.1,NocLep_v1_BIUU,Noctilio leporinus,2098501394,Scaffold,2019-01-16,PVIW01,135651,191494,Noctilio_leporinus,Noctilio_leporinus_NOCTILIONIDAE_CHIROPTERA,0,0,NA,NA,1. Zoonomia
+GCA_004027815.1,NycCou_v1_BIUU,Nycticebus coucang,3294558825,Scaffold,2019-01-16,PVIV01,17693,19724,Nycticebus_coucang,Nycticebus_coucang_LORISIDAE_PRIMATES,0,0,NA,NA,1. Zoonomia
+GCA_004026605.1,OndZib_v1_BIUU,Ondatra zibethicus,2562752769,Scaffold,2019-01-16,PVIU01,73746,89093,Ondatra_zibethicus,Ondatra_zibethicus_CRICETIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004026725.1,OnyTor_v1_BIUU,Onychomys torridus,3202219269,Scaffold,2019-01-16,PVIT01,18287,20878,Onychomys_torridus,Onychomys_torridus_CRICETIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004365145.1,OryAfe_v1_BIUU,Orycteropus afer,4687958587,Scaffold,2019-03-22,RJWU01,20354,22965,Orycteropus_afer,Orycteropus_afer_ORYCTEROPODIDAE_TUBULIDENTATA,0,0,NA,NA,1. Zoonomia
+GCA_004026945.1,OviCan_v1_BIUU,Ovis canadensis,2863658823,Scaffold,2019-01-16,PVIS01,55973,69397,Ovis_canadensis,Ovis_canadensis_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_004023805.1,PanOnc_v1_BIUU,Panthera onca,2504534411,Scaffold,2019-01-15,PISV01,62836,116574,Panthera_onca,Panthera_onca_FELIDAE_CARNIVORA,0,0,NA,NA,1. Zoonomia
+GCA_004024585.1,ParHer_v1_BIUU,Paradoxurus hermaphroditus,2477229103,Scaffold,2019-01-15,PITB01,62870,71823,Paradoxurus_hermaphroditus,Paradoxurus_hermaphroditus_VIVERRIDAE_CARNIVORA,0,0,NA,NA,1. Zoonomia
+GCA_024363435.1,mPerLon1.0.a,Perognathus longimembris,2257225505,Scaffold,2022-07-21,JANCNE01,10098643,28569105,Perognathus_longimembris,Perognathus_longimembris_HETEROMYIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004026965.1,PetTyp_v1_BIUU,Petromus typicus,2389366989,Scaffold,2019-01-16,PVIR01,29916,35766,Petromus_typicus,Petromus_typicus_PETROMURIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004363495.1,PhoPho_v1_BIUU,Phocoena phocoena,2701010810,Scaffold,2019-03-22,RJWQ01,89111,115969,Phocoena_phocoena,Phocoena_phocoena_PHOCOENIDAE_CETARTIODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_004026625.1,PipPip_v1_BIUU,Pipistrellus pipistrellus,2090670443,Scaffold,2019-01-16,PVIQ01,26707,33992,Pipistrellus_pipistrellus,Pipistrellus_pipistrellus_VESPERTILIONIDAE_CHIROPTERA,0,0,NA,NA,1. Zoonomia
+GCA_004026645.1,PitPit_v1_BIUU,Pithecia pithecia,2933562501,Scaffold,2019-01-16,PVIP01,63292,83104,Pithecia_pithecia,Pithecia_pithecia_PITHECIIDAE_PRIMATES,0,0,NA,NA,1. Zoonomia
+GCA_017311385.1,HRRL_Platanista_gangetica_1.0,Platanista gangetica,2238863808,Contig,2021-03-09,JAFDUW01,3092,NA,Platanista_gangetica,Platanista_gangetica_PLATANISTIDAE_CETARTIODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_000152225.2,Pcap_2.0,Procavia capensis,3602182911,Scaffold,2014-12-16,ABRQ02,35792,905827,Procavia_capensis,Procavia_capensis_PROCAVIIDAE_HYRACOIDEA,0,0,NA,NA,1. Zoonomia
+GCA_004024605.1,PteBra_v1_BIUU,Pteronura brasiliensis,2602275310,Scaffold,2019-01-15,PJEN01,90879,119023,Pteronura_brasiliensis,Pteronura_brasiliensis_MUSTELIDAE_CARNIVORA,0,0,NA,NA,1. Zoonomia
+GCA_004024825.1,PygNem_v1_BIUU,Pygathrix nemaeus,3217150031,Scaffold,2019-01-15,PVHW01,51434,68569,Pygathrix_nemaeus,Pygathrix_nemaeus_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,1. Zoonomia
+GCA_004026565.1,RanTarSib_v1_BIUU,Rangifer tarandus,2897299934,Scaffold,2019-01-16,PVIN01,77671,89062,Rangifer_tarandus,Rangifer_tarandus_CERVIDAE_CETARTIODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_001466805.2,Raegyp2.0,Rousettus aegyptiacus,1910233862,Scaffold,2016-03-17,LOCP02,1488988,2007187,Rousettus_aegyptiacus,Rousettus_aegyptiacus_PTEROPODIDAE_CHIROPTERA,0,0,NA,NA,1. Zoonomia
+GCA_004024885.1,SagImp_v1_BIUU,Saguinus imperator,3493717886,Scaffold,2019-01-15,PVHO01,53787,65636,Saguinus_imperator,Saguinus_imperator_CALLITRICHIDAE_PRIMATES,0,0,NA,NA,1. Zoonomia
+GCA_004024985.1,SaiTat_v1_BIUU,Saiga tatarica,2876186568,Scaffold,2019-01-15,PVIK01,6406,6453,Saiga_tatarica,Saiga_tatarica_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_004024925.1,ScaAqu_v1_BIUU,Scalopus aquaticus,2068871057,Scaffold,2019-01-15,PVIJ01,72421,94879,Scalopus_aquaticus,Scalopus_aquaticus_TALPIDAE_EULIPOTYPHLA,0,0,NA,NA,1. Zoonomia
+GCA_004025065.1,SemEnt_v1_BIUU,Semnopithecus entellus,3033044217,Scaffold,2019-01-15,PVII01,25064,29955,Semnopithecus_entellus,Semnopithecus_entellus_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,1. Zoonomia
+GCA_004025045.1,SigHis_v1_BIUU,Sigmodon hispidus,2730600022,Scaffold,2019-01-15,PVIH01,67983,101373,Sigmodon_hispidus,Sigmodon_hispidus_CRICETIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004363575.1,SolPar_v1_BIUU,Solenodon paradoxus,2109877870,Scaffold,2019-03-22,RJWH01,236847,407682,Solenodon_paradoxus,Solenodon_paradoxus_SOLENODONTIDAE_EULIPOTYPHLA,0,0,NA,NA,1. Zoonomia
+GCA_004023965.1,SpiGra_v1_BIUU,Spilogale gracilis,2463318012,Scaffold,2019-01-15,PITA01,63054,85970,Spilogale_gracilis,Spilogale_gracilis_MEPHITIDAE_CARNIVORA,0,0,NA,NA,1. Zoonomia
+GCA_004023905.1,SurSur_v1_BIUU,Suricata suricatta,2471813441,Scaffold,2019-01-15,PITD01,148487,186735,Suricata_suricatta,Suricata_suricatta_HERPESTIDAE_CARNIVORA,0,0,NA,NA,1. Zoonomia
+GCA_004025005.1,TadBra_v1_BIUU,Tadarida brasiliensis,2709928648,Scaffold,2019-01-15,PVIG01,22617,24311,Tadarida_brasiliensis,Tadarida_brasiliensis_MOLOSSIDAE_CHIROPTERA,0,0,NA,NA,1. Zoonomia
+GCA_004025105.1,TamTet_v1_BIUU,Tamandua tetradactyla,3849374830,Scaffold,2019-01-15,PVIF01,18654,19789,Tamandua_tetradactyla,Tamandua_tetradactyla_MYRMECOPHAGIDAE_PILOSA,0,0,NA,NA,1. Zoonomia
+GCA_004024905.1,TapInd_v1_BIUU,Tapirus indicus,2425203111,Scaffold,2019-01-15,PVIE01,225792,308930,Tapirus_indicus,Tapirus_indicus_TAPIRIDAE_PERISSODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_004025025.1,TapTer_v1_BIUU,Tapirus terrestris,2571458752,Scaffold,2019-01-15,PVID01,164193,186384,Tapirus_terrestris,Tapirus_terrestris_TAPIRIDAE_PERISSODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_004025085.1,ThrSwi_v1_BIUU,Thryonomys swinderianus,2662148533,Scaffold,2019-01-15,PVIC01,18955,21523,Thryonomys_swinderianus,Thryonomys_swinderianus_THRYONOMYIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004025125.1,TolMat_v1_BIUU,Tolypeutes matacus,4115028163,Scaffold,2019-01-15,PVIB01,9441,10217,Tolypeutes_matacus,Tolypeutes_matacus_DASYPODIDAE_CINGULATA,0,0,NA,NA,1. Zoonomia
+GCA_004024845.1,TonSau_v1_BIUU,Tonatia saurophila,2105886965,Scaffold,2019-01-15,PVIA01,141649,165561,Tonatia_saurophila,Tonatia_saurophila_PHYLLOSTOMIDAE_CHIROPTERA,0,0,NA,NA,1. Zoonomia
+GCA_004024965.2,ASM402496v2,Tragulus javanicus,2589955488,Scaffold,2019-07-15,PVHZ02,80230,14082842,Tragulus_javanicus,Tragulus_javanicus_TRAGULIDAE_CETARTIODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_004365275.1,TupTan_v1_BIUU,Tupaia tana,3648908809,Scaffold,2019-03-22,RJWV01,2971,2973,Tupaia_tana,Tupaia_tana_TUPAIIDAE_SCANDENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004024945.1,UroGra_v1_BIUU,Uropsilus gracilis,2112710047,Scaffold,2019-01-15,PVHY01,43618,55035,Uropsilus_gracilis,Uropsilus_gracilis_TALPIDAE_EULIPOTYPHLA,0,0,NA,NA,1. Zoonomia
+GCA_004023825.1,VulLag_v1_BIUU,Vulpes lagopus,2688561625,Scaffold,2019-01-15,PISU01,73976,102053,Vulpes_lagopus,Vulpes_lagopus_CANIDAE_CARNIVORA,0,0,NA,NA,1. Zoonomia
+GCA_004024805.1,XerIna_v1_BIUU,Xerus inauris,2601418404,Scaffold,2019-01-15,PVHX01,64054,83865,Xerus_inauris,Xerus_inauris_SCIURIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_900631625.1,zalCal2.2,Zalophus californianus,2372352887,Scaffold,2018-12-07,UZVU01,97662,143424588,Zalophus_californianus,Zalophus_californianus_OTARIIDAE_CARNIVORA,0,0,NA,NA,1. Zoonomia
+GCA_004024765.1,ZapHud_v1_BIUU,Zapus hudsonius,2611189839,Scaffold,2019-01-15,PVHP01,23350,26350,Zapus_hudsonius,Zapus_hudsonius_DIPODIDAE_RODENTIA,0,0,NA,NA,1. Zoonomia
+GCA_004364475.1,ZipCav_v1_BIUU,Ziphius cavirostris,3150417206,Scaffold,2019-03-22,RJWS01,3606,3608,Ziphius_cavirostris,Ziphius_cavirostris_ZIPHIIDAE_CETARTIODACTYLA,0,0,NA,NA,1. Zoonomia
+GCA_001443585.1,aciJub1,Acinonyx jubatus,2372536860,Scaffold,2015-11-13,LLWD01,35120,3122036,Acinonyx_jubatus,Acinonyx_jubatus_FELIDAE_CARNIVORA,0,0,NA,NA,2. Existing assembly in 241-way
+GCF_000004335.2,AilMel_1.0,Ailuropoda melanoleuca,2299492210,Scaffold,2009-12-15,ACTA01,39886,1281781,Ailuropoda_melanoleuca,Ailuropoda_melanoleuca_URSIDAE_CARNIVORA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_002007465.1,ASM200746v1,Ailurus styani,2342939051,Scaffold,2017-02-28,LNAC01,99577,2983736,Ailurus_styani,Ailurus_fulgens_AILURIDAE_CARNIVORA,0,1,"Species synonym, but now correct as split",https://www.mammaldiversity.org/explore.html#genus=Ailurus&species=styani&id=1005803 ,2. Existing assembly in 241-way
+GCA_002201775.1,ALER1.0,Ammotragus lervia,2650836958,Scaffold,2017-06-20,NIVO01,52017,1301762,Ammotragus_lervia,Ammotragus_lervia_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000952055.2,Anan_2.0,Aotus nancymaae,2861668348,Scaffold,2017-06-09,JYKP02,126456,8268663,Aotus_nancymaae,Aotus_nancymaae_AOTIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000493695.1,BalAcu1.0,Balaenoptera acutorostrata scammoni,2431671281,Scaffold,2013-10-31,ATDI01,22690,12843668,Balaenoptera_acutorostrata_scammoni,Balaenoptera_acutorostrata_BALAENOPTERIDAE_CETARTIODACTYLA,0,1,Subspecies synonym,NA,2. Existing assembly in 241-way
+GCA_000978805.1,ASM97880v1,Balaenoptera bonaerensis,2234641557,Scaffold,2015-03-18,BAUQ01,8410,20082,Balaenoptera_bonaerensis,Balaenoptera_bonaerensis_BALAENOPTERIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000754665.1,Bison_UMD1.0,Bison bison bison,2953606000,Scaffold,2014-10-08,JPYT01,18844,6873254,Bison_bison_bison,Bison_bison_BOVIDAE_CETARTIODACTYLA,0,1,Subspecies synonym,NA,2. Existing assembly in 241-way
+GCA_000247795.2,Bos_indicus_1.0,Bos indicus,2673949103,Chromosome,2014-11-25,AGFL01,28375,106310653,Bos_indicus,Bos_indicus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000298355.1,BosGru_v2.0,Bos mutus,2645145588,Scaffold,2013-01-09,AGSK01,22822,1407960,Bos_mutus,Bos_mutus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000003055.5,Bos_taurus_UMD_3.1.1,Bos taurus,2670123310,Chromosome,2014-11-25,DAAA02,96955,6380747,Bos_taurus,Bos_taurus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000471725.1,UMD_CASPUR_WB_2.0,Bubalus bubalis,2836150610,Scaffold,2013-09-30,AWWX01,21938,1412388,Bubalus_bubalis,Bubalus_arnee_BOVIDAE_CETARTIODACTYLA,0,1,"Species synonym, domestic form of B. arnee",https://www.mammaldiversity.org/explore.html#genus=Bubalus&species=bubalis&id=1006269,2. Existing assembly in 241-way
+GCA_000004665.1,Callithrix jacchus-3.2,Callithrix jacchus,2914958544,Chromosome,2010-01-22,ACFV01,29273,5167444,Callithrix_jacchus,Callithrix_jacchus_CALLITRICHIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000604445.1,CB1,Camelus bactrianus,1568773545,Scaffold,2013-07-03,CAOW01,1717,2814,Camelus_bactrianus,Camelus_bactrianus_CAMELIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000767585.1,PRJNA234474_Ca_dromedarius_V1.0,Camelus dromedarius,2004047047,Scaffold,2014-10-21,JDVD01,69131,4188677,Camelus_dromedarius,Camelus_dromedarius_CAMELIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000311805.2,CB1,Camelus ferus,2009177929,Scaffold,2013-07-30,AGVR01,90263,2005940,Camelus_ferus,Camelus_ferus_CAMELIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000765075.1,Caeg1,Capra aegagrus,2583320943,Scaffold,2014-07-15,CBYH01,51868,1750063,Capra_aegagrus,Capra_aegagrus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000317765.2,CHIR_2.0,Capra hircus,2809418462,Chromosome,2015-09-16,AJPT02,73533,9094169,Capra_hircus,Capra_hircus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000688575.1,CavAp1.0,Cavia aperea,2716396567,Scaffold,2014-01-21,AVPZ01,1039,27928671,Cavia_aperea,Cavia_aperea_CAVIIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000151735.1,Cavpor3.0,Cavia porcellus,2723202840,Scaffold,2008-03-03,AAKN02,80583,27942054,Cavia_porcellus,Cavia_porcellus_CAVIIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_001604975.1,Cebus_imitator-1.0,Cebus imitator,2717703182,Scaffold,2016-04-04,LVWQ01,41196,5274112,Cebus_imitator,Cebus_capucinus_CEBIDAE_PRIMATES,0,1,"Species synonym, but now correct as split",https://www.mammaldiversity.org/explore.html#genus=Cebus&species=imitator&id=1000835,2. Existing assembly in 241-way
+GCA_000955945.1,Caty_1.0,Cercocebus atys,2848246356,Scaffold,2015-03-19,JZLG01,112942,12849131,Cercocebus_atys,Cercocebus_atys_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000276665.1,ChiLan1.0,Chinchilla lanigera,2390852391,Scaffold,2012-07-09,AGCD01,61105,21893125,Chinchilla_lanigera,Chinchilla_lanigera_CHINCHILLIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000409795.2,Chlorocebus_sabeus 1.1,Chlorocebus sabaeus,2789639778,Chromosome,2014-03-25,AQIB01,90449,81825804,Chlorocebus_sabaeus,Chlorocebus_sabaeus_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000164785.2,C_hoffmanni-2.0.1,Choloepus hoffmanni,3286013499,Scaffold,2014-09-30,ABVD02,64490,366442,Choloepus_hoffmanni,Choloepus_hoffmanni_MEGALONYCHIDAE_PILOSA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000951035.1,Cang.pa_1.0,Colobus angolensis palliatus,2970124662,Scaffold,2015-03-12,JYKR01,38363,7840981,Colobus_angolensis_palliatus,Colobus_angolensis_CERCOPITHECIDAE_PRIMATES,0,1,Subspecies synonym,NA,2. Existing assembly in 241-way
+GCA_000260355.1,ConCri1.0,Condylura cristata,1769662895,Scaffold,2012-05-01,AJFV01,46163,55520359,Condylura_cristata,Condylura_cristata_TALPIDAE_EULIPOTYPHLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000223135.1,CriGri_1.0,Cricetulus griseus,2399770464,Scaffold,2011-08-23,AFTD01,39362,1147233,Cricetulus_griseus,Cricetulus_barabensis_CRICETIDAE_RODENTIA,0,1,Species synonym (junior),https://www.mammaldiversity.org/explore.html#genus=Cricetulus&species=barabensis&id=1002204,2. Existing assembly in 241-way
+GCA_000208655.4,Dasnov3.2,Dasypus novemcinctus,3631306433,Scaffold,2012-01-06,AAGV03,26278,1687935,Dasypus_novemcinctus,Dasypus_novemcinctus_DASYPODIDAE_CINGULATA,0,0,NA,NA,2. Existing assembly in 241-way
+GCF_002288925.2,ASM228892v3,Delphinapterus leucas,2362758273,Scaffold,2019-08-29,NQVZ02,196689,31183418,Delphinapterus_leucas,Delphinapterus_leucas_MONODONTIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_002940915.3,ASM294091v3,Desmodus rotundus,2063523408,Scaffold,2018-02-23,PEHR01,80278,26869735,Desmodus_rotundus,Desmodus_rotundus_PHYLLOSTOMIDAE_CHIROPTERA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_002844835.1,ASM284483v1,Dicerorhinus sumatrensis sumatrensis,2949847656,Scaffold,2017-12-19,PEKH01,89455,614498,Dicerorhinus_sumatrensis_sumatrensis,Dicerorhinus_sumatrensis_RHINOCEROTIDAE_PERISSODACTYLA,0,1,Subspecies synonym,NA,2. Existing assembly in 241-way
+GCA_000151885.2,Dord_2.0,Dipodomys ordii,2236368823,Scaffold,2014-12-12,ABRO02,48087,11931245,Dipodomys_ordii,Dipodomys_ordii_HETEROMYIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000313985.2,ASM31398v2,Echinops telfairi,2947103070,Scaffold,2019-07-15,AAIY03,20425,54422506,Echinops_telfairi,Echinops_telfairi_TENRECIDAE_AFROSORICIDA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000465285.1,ASM46528v1,Eidolon helvum,1837754460,Scaffold,2013-09-13,AWHC01,12668,27684,Eidolon_helvum,Eidolon_helvum_PTEROPODIDAE_CHIROPTERA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_002443075.1,Milu1.0,Elaphurus davidianus,2584693296,Scaffold,2017-10-04,JRFZ01,59950,2844142,Elaphurus_davidianus,Elaphurus_davidianus_CERVIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_001685075.1,ASM168507v1,Ellobius lutescens,2353188398,Scaffold,2016-07-14,LOEQ01,11648,242123,Ellobius_lutescens,Ellobius_lutescens_CRICETIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_001685095.1,ETalpinus_0.1,Ellobius talpinus,2265966243,Scaffold,2016-07-14,LOJH01,8259,15246,Ellobius_talpinus,Ellobius_talpinus_CRICETIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_006410715.1,ASM641071v1,Enhydra lutris nereis,2425597608,Scaffold,2019-06-24,QQQE01,23473,9763901,Enhydra_lutris_nereis,Enhydra_lutris_MUSTELIDAE_CARNIVORA,0,1,Subspecies synonym,NA,2. Existing assembly in 241-way
+GCA_000308155.1,EptFus1.0,Eptesicus fuscus,2026629342,Scaffold,2012-11-08,ALEH01,21392,13454942,Eptesicus_fuscus,Eptesicus_fuscus_VESPERTILIONIDAE_CHIROPTERA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_003033725.1,ASM303372v1,Equus asinus asinus,2321044345,Scaffold,2018-04-04,PSZQ01,134070,15144613,Equus_asinus_asinus,Equus_africanus_EQUIDAE_PERISSODACTYLA,0,1,"Species synonym, domestic form of E. africanus",https://www.mammaldiversity.org/explore.html#genus=Equus&species=asinus&id=1006121,2. Existing assembly in 241-way
+GCF_000002305.2,EquCab2.0,Equus caballus,2474912402,Chromosome,2007-10-29,AAWR02,112381,46749900,Equus_caballus,Equus_caballus_EQUIDAE_PERISSODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000696695.1,Burgud,Equus przewalskii,2395937679,Scaffold,2014-06-05,ATBW01,57610,513800,Equus_przewalskii,Equus_ferus_EQUIDAE_PERISSODACTYLA,0,1,Species synonym (junior),https://www.mammaldiversity.org/explore.html#genus=Equus&species=ferus&id=1006123,2. Existing assembly in 241-way
+GCA_000181395.1,ASM18139v1,Erinaceus europaeus,2133117389,Contig,2006-02-17,AANN01,2753,NA,Erinaceus_europaeus,Erinaceus_europaeus_ERINACEIDAE_EULIPOTYPHLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_001262665.1,Eflavifronsk33QCA,Eulemur flavifrons,2115566677,Scaffold,2015-08-06,LGHW01,27331,413352,Eulemur_flavifrons,Eulemur_flavifrons_LEMURIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000003115.1,catChrV17e,Felis catus,3160286939,Chromosome,2009-03-16,ACBE01,4577,16304361,Felis_catus,Felis_catus_FELIDAE_CARNIVORA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000743615.1,DMR_v1.0,Fukomys damarensis,2333892479,Scaffold,2014-09-04,AYUG01,44830,5314287,Fukomys_damarensis,Fukomys_damarensis_BATHYERGIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_006408565.1,GFE,Giraffa camelopardalis,2473180627,Scaffold,2019-06-24,SJXV01,25056,3153258,Giraffa_camelopardalis,Giraffa_camelopardalis_GIRAFFIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000167515.2,ASM16751v2,Gorilla gorilla,3022900,Contig,2006-11-09,AAGL01,684,NA,Gorilla_gorilla,Gorilla_gorilla_HOMINIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000230445.1,HetGla_1.0,Heterocephalus glaber,2643961837,Scaffold,2011-10-14,AFSB01,21750,1603177,Heterocephalus_glaber,Heterocephalus_glaber_HETEROCEPHALIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_001890085.1,ASM189008v1,Hipposideros armiger,2236564388,Scaffold,2016-12-06,JXIK01,39863,2328177,Hipposideros_armiger,Hipposideros_armiger_HIPPOSIDERIDAE_CHIROPTERA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000002115.2,WGSA,Homo sapiens,2863645671,Chromosome,2004-02-25,AADD01,23350,29133171,Homo_sapiens,Homo_sapiens_HOMINIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000181315.1,ASM18131v1,Ictidomys tridecemlineatus,1913367893,Contig,2006-06-06,AAQQ01,2749,NA,Ictidomys_tridecemlineatus,Ictidomys_tridecemlineatus_SCIURIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000280705.1,JacJac1.0,Jaculus jaculus,2835233679,Scaffold,2012-07-30,AKZC01,15675,22080993,Jaculus_jaculus,Jaculus_jaculus_DIPODIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000349705.1,LepWed1.0,Leptonychotes weddellii,3156886159,Scaffold,2013-03-29,APMU01,23664,904068,Leptonychotes_weddellii,Leptonychotes_weddellii_PHOCIDAE_CARNIVORA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000442215.1,Lipotes_vexillifer_v1,Lipotes vexillifer,2429195737,Scaffold,2013-07-31,AUPI01,31902,2419148,Lipotes_vexillifer,Lipotes_vexillifer_INIIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000001905.1,Loxafr3.0,Loxodonta africana,3196738035,Scaffold,2009-07-15,AAGU03,69023,46401353,Loxodonta_africana,Loxodonta_africana_ELEPHANTIDAE_PROBOSCIDEA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_001883655.1,LycPicKen1.0,Lycaon pictus,2356699901,Chromosome,2016-12-01,LPRA01,2695,64190785,Lycaon_pictus,Lycaon_pictus_CANIDAE_CARNIVORA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000222185.1,MacFas_Jun2011,Macaca fascicularis,2878471044,Chromosome,2011-07-23,CAEC01,3658,155658674,Macaca_fascicularis,Macaca_fascicularis_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCF_000002255.3,Mmul_051212,Macaca mulatta,3097370727,Chromosome,2006-02-27,AANU01,25707,6094595,Macaca_mulatta,Macaca_mulatta_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000956065.1,Mnem_1.0,Macaca nemestrina,2948703511,Scaffold,2015-03-19,JZLF01,106897,15219753,Macaca_nemestrina,Macaca_nemestrina_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000951045.1,Mleu.le_1.0,Mandrillus leucophaeus,3061992840,Scaffold,2015-03-12,JYKQ01,31346,3186748,Mandrillus_leucophaeus,Mandrillus_leucophaeus_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_001685135.1,ManJav1.0,Manis javanica,2547379330,Scaffold,2016-07-14,JSZB01,38922,204728,Manis_javanica,Manis_javanica_MANIDAE_PHOLIDOTA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000738955.1,M_pentadactyla-1.1.1,Manis pentadactyla,2204732179,Scaffold,2014-08-11,JPTV01,28718,117920,Manis_pentadactyla,Manis_pentadactyla_MANIDAE_PHOLIDOTA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_001458135.2,marMar,Marmota marmota marmota,2506852125,Scaffold,2019-12-18,CZRN02,66546,31340621,Marmota_marmota_marmota,Marmota_marmota_SCIURIDAE_RODENTIA,0,1,Subspecies synonym,NA,2. Existing assembly in 241-way
+GCA_000349665.1,MesAur1.0,Mesocricetus auratus,2504908775,Scaffold,2013-03-29,APMT01,22512,12753307,Mesocricetus_auratus,Mesocricetus_auratus_CRICETIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000165445.3,Mmur_3.0,Microcebus murinus,2487392024,Chromosome,2017-02-06,ABDC03,210702,108171978,Microcebus_murinus,Microcebus_murinus_CHEIROGALEIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000317375.1,MicOch1.0,Microtus ochrogaster,2287340943,Chromosome,2012-12-07,AHZW01,21250,17270019,Microtus_ochrogaster,Microtus_ochrogaster_CRICETIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_001595765.1,Mnat.v1,Miniopterus natalensis,1803099001,Scaffold,2016-03-22,LDJU01,29777,4315193,Miniopterus_natalensis,Miniopterus_natalensis_VESPERTILIONIDAE_CHIROPTERA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_900094665.2,CAROLI_EIJ_v1.1,Mus caroli,2553112587,Chromosome,2017-04-28,FMAL02,30917,122627250,Mus_caroli,Mus_caroli_MURIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000181195.1,ASM18119v1,Mus musculus,2477636994,Contig,2002-05-15,CAAA01,24821,NA,Mus_musculus,Mus_musculus_MURIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_900095145.2,PAHARI_EIJ_v1.1,Mus pahari,2475012951,Chromosome,2017-04-28,FMBV02,29465,111406228,Mus_pahari,Mus_pahari_MURIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_001624865.1,SPRET_EiJ_v1,Mus spretus,2625571169,Chromosome,2016-04-26,LVXV01,17887,131945496,Mus_spretus,Mus_spretus_MURIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_902207235.1,polecat_10x_lmp_bionano,Mustela putorius,2473818944,Scaffold,2019-08-07,CABITW01,5344676,25826084,Mustela_putorius,Mustela_putorius_MUSTELIDAE_CARNIVORA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000412655.1,ASM41265v1,Myotis brandtii,2107242811,Scaffold,2013-06-28,ANKR01,23289,3225832,Myotis_brandtii,Myotis_brandtii_VESPERTILIONIDAE_CHIROPTERA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000327345.1,ASM32734v1,Myotis davidii,2059799708,Scaffold,2012-12-20,ALWT01,15182,3454484,Myotis_davidii,Myotis_davidii_VESPERTILIONIDAE_CHIROPTERA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000147115.1,Myoluc2.0,Myotis lucifugus,2034575300,Scaffold,2010-09-14,AAPE02,64330,4293315,Myotis_lucifugus,Myotis_lucifugus_VESPERTILIONIDAE_CHIROPTERA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_002201575.2,ASM220157v2,Neomonachus schauinslandi,2419443398,Chromosome,2021-10-20,NINY02,181061,150810825,Neomonachus_schauinslandi,Neomonachus_schauinslandi_PHOCIDAE_CARNIVORA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_003031525.2,Neophocaena_asiaeorientalis_V1.1,Neophocaena asiaeorientalis asiaeorientalis,2284609912,Scaffold,2018-04-03,MKKW01,86003,6341296,Neophocaena_asiaeorientalis_asiaeorientalis,Neophocaena_asiaeorientalis_PHOCOENIDAE_CETARTIODACTYLA,0,1,Subspecies synonym,NA,2. Existing assembly in 241-way
+GCA_000146795.3,Nleu_3.0,Nomascus leucogenys,2962060179,Chromosome,2012-12-08,ADFV01,35148,52956880,Nomascus_leucogenys,Nomascus_leucogenys_HYLOBATIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000164825.1,ASM16482v1,Ochotona princeps,3445784354,Scaffold,2007-08-03,AAYZ01,3265,88760,Ochotona_princeps,Ochotona_princeps_OCHOTONIDAE_LAGOMORPHA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000260255.1,OctDeg1.0,Octodon degus,2995872505,Scaffold,2012-05-01,AJSA01,19847,12091372,Octodon_degus,Octodon_degus_OCTODONTIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000321225.1,Oros_1.0,Odobenus rosmarus divergens,2400133628,Scaffold,2013-01-16,ANOP01,89951,2616778,Odobenus_rosmarus_divergens,Odobenus_rosmarus_ODOBENIDAE_CARNIVORA,0,1,Subspecies synonym,NA,2. Existing assembly in 241-way
+GCA_000191605.1,WTD_RRL,Odocoileus virginianus,15002289,Contig,2011-03-07,AEGY01,362,NA,Odocoileus_virginianus,Odocoileus_virginianus_CERVIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_001660835.1,ASM166083v1,Okapia johnstoni,2878133036,Scaffold,2016-06-08,LVCL01,39571,111538,Okapia_johnstoni,Okapia_johnstoni_GIRAFFIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000331955.2,Oorc_1.1,Orcinus orca,2372903489,Scaffold,2013-01-31,ANOL02,70300,12735091,Orcinus_orca,Orcinus_orca_DELPHINIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCF_000003625.3,OryCun2.0,Oryctolagus cuniculus,2737445565,Chromosome,2009-10-20,AAGW02,64648,35972871,Oryctolagus_cuniculus,Oryctolagus_cuniculus_LEPORIDAE_LAGOMORPHA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000181295.3,OtoGar3,Otolemur garnettii,2519724550,Scaffold,2011-03-16,AAQR03,27100,13852661,Otolemur_garnettii,Otolemur_garnettii_GALAGIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000005525.1,Ovis_aries_1.0,Ovis aries,2860496367,Chromosome,2010-02-25,ACIV01,685,34092587,Ovis_aries,Ovis_aries_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000258655.2,panpan1.1,Pan paniscus,3286627333,Chromosome,2015-08-18,AJFE02,66676,8197324,Pan_paniscus,Pan_paniscus_HOMINIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000325845.1,ASM32584v1,Pan troglodytes,2733948177,Contig,2003-12-05,AADA01,15702,NA,Pan_troglodytes,Pan_troglodytes_HOMINIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_001857705.1,PanPar1.0,Panthera pardus,2578002243,Scaffold,2016-11-16,LQGZ01,20993,21701857,Panthera_pardus,Panthera_pardus_FELIDAE_CARNIVORA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_018350195.2,P.tigris_Pti1_mat1.1,Panthera tigris,2408678698,Chromosome,2021-05-13,JAEQMW01,74391967,146942463,Panthera_tigris,Panthera_tigris_FELIDAE_CARNIVORA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000400835.1,PHO1.0,Pantholops hodgsonii,2696869832,Scaffold,2013-05-28,AGTT01,18674,2772860,Pantholops_hodgsonii,Pantholops_hodgsonii_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000264685.2,Panu_3.0,Papio anubis,2959356508,Chromosome,2017-04-20,AHZZ02,149817,585721,Papio_anubis,Papio_anubis_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_026167925.1,mPerMan1.0.a,Peromyscus maniculatus sonoriensis,2625495359,Scaffold,2022-11-14,JAOPKX01,12308238,63956138,Peromyscus_maniculatus_sonoriensis,Peromyscus_maniculatus_CRICETIDAE_RODENTIA,0,1,Subspecies synonym,NA,2. Existing assembly in 241-way
+GCA_000167535.2,ASM16753v2,Pongo abelii,2351675,Contig,2007-11-09,AAGM01,638,NA,Pongo_abelii,Pongo_abelii_HOMINIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_002776525.4,ASM277652v4,Piliocolobus tephrosceles,2997795033,Chromosome,2019-12-12,PDMG03,100204,131283114,Piliocolobus_tephrosceles,Procolobus_rufomitratus_CERCOPITHECIDAE_PRIMATES,0,1,"Species synonym, but now correct as split",https://en.wikipedia.org/wiki/Ugandan_red_colobus,2. Existing assembly in 241-way
+GCA_000956105.1,Pcoq_1.0,Propithecus coquereli,2798135037,Scaffold,2015-03-23,JZKE01,28129,5604909,Propithecus_coquereli,Propithecus_coquereli_INDRIIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_002215935.2,ASM221593v2,Psammomys obesus,2365774835,Scaffold,2020-02-10,NESX02,76389,10472398,Psammomys_obesus,Psammomys_obesus_MURIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000465405.1,ASM46540v1,Pteronotus parnellii,1960317893,Scaffold,2013-09-13,AWGZ01,9502,22675,Pteronotus_parnellii,Pteronotus_parnellii_MORMOOPIDAE_CHIROPTERA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000325575.1,ASM32557v1,Pteropus alecto,1985958707,Scaffold,2012-12-20,ALWS01,31842,15954802,Pteropus_alecto,Pteropus_alecto_PTEROPODIDAE_CHIROPTERA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000151845.2,Pvam_2.0,Pteropus vampyrus,2198284804,Scaffold,2014-12-05,ABRP02,21866,5954017,Pteropus_vampyrus,Pteropus_vampyrus_PTEROPODIDAE_CHIROPTERA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_003327715.1,PumCon1.0,Puma concolor,2432949531,Scaffold,2018-07-19,QAVW01,27187,100532876,Puma_concolor,Puma_concolor_FELIDAE_CARNIVORA,0,0,NA,NA,2. Existing assembly in 241-way
+GCF_000002265.2,Rn_Celera,Rattus norvegicus,2616422528,Chromosome,2006-12-06,AAHX01,39779,27430032,Rattus_norvegicus,Rattus_norvegicus_MURIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_001888835.1,ASM188883v1,Rhinolophus sinicus,2073344508,Scaffold,2016-12-04,LVEH01,37803,3754400,Rhinolophus_sinicus,Rhinolophus_sinicus_RHINOLOPHIDAE_CHIROPTERA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_001698545.2,ASM169854v2,Rhinopithecus bieti,2975774845,Scaffold,2016-08-03,MCGX01,36437,2229159,Rhinopithecus_bieti,Rhinopithecus_bieti_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000769185.1,Rrox_v1,Rhinopithecus roxellana,2899535590,Scaffold,2014-10-28,JABR01,77151,1549224,Rhinopithecus_roxellana,Rhinopithecus_roxellana_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000235385.1,SaiBol1.0,Saimiri boliviensis boliviensis,2608572064,Scaffold,2011-11-17,AGCE01,38823,18744880,Saimiri_boliviensis_boliviensis,Saimiri_boliviensis_CEBIDAE_PRIMATES,0,1,Subspecies synonym,NA,2. Existing assembly in 241-way
+GCA_000181275.2,SorAra2.0,Sorex araneus,2423158183,Scaffold,2012-08-27,AALT02,22623,22794405,Sorex_araneus,Sorex_araneus_SORICIDAE_EULIPOTYPHLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000622305.1,S.galili_v1.0,Nannospalax galili,3061408210,Scaffold,2014-06-05,AXCS01,30353,3618479,Nannospalax_galili,Spalax_ehrenbergi_SPALACIDAE_RODENTIA,0,1,"Genus synonym, Species synonym (junior)",https://www.mammaldiversity.org/explore.html#genus=Nannospalax&species=ehrenbergi&id=1003793,2. Existing assembly in 241-way
+GCA_002406435.1,ASM240643v1,Spermophilus dauricus,3106271744,Scaffold,2017-09-28,AXRT01,34849,1761345,Spermophilus_dauricus,Spermophilus_dauricus_SCIURIDAE_RODENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000331475.1,SscrofaMinipig,Sus scrofa,2358017222,Contig,2013-01-10,AOCR01,22008,NA,Sus_scrofa,Sus_scrofa_SUIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000243295.1,TriManLat1.0,Trichechus manatus latirostris,3103791524,Scaffold,2012-01-23,AHIN01,37750,14442683,Trichechus_manatus_latirostris,Trichechus_manatus_TRICHECHIDAE_SIRENIA,0,1,Subspecies synonym,NA,2. Existing assembly in 241-way
+GCA_000181375.1,ASM18137v1,Tupaia belangeri,2137225476,Contig,2006-06-08,AAPY01,2974,NA,Tupaia_belangeri,Tupaia_belangeri_TUPAIIDAE_SCANDENTIA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000151865.3,Ttru_1.4,Tursiops truncatus,2551401796,Scaffold,2012-01-02,ABRN02,11821,116287,Tursiops_truncatus,Tursiops_truncatus_DELPHINIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000687225.1,UrsMar_1.0,Ursus maritimus,2301362327,Scaffold,2014-05-09,AVOR01,46506,15940661,Ursus_maritimus,Ursus_maritimus_URSIDAE_CARNIVORA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_000164845.5,VicPac3.2,Vicugna pacos,2118853581,Scaffold,2019-07-15,ABRR03,29521,24022313,Vicugna_pacos,Vicugna_pacos_CAMELIDAE_CETARTIODACTYLA,0,0,NA,NA,2. Existing assembly in 241-way
+GCA_007922775.1,AntPal_v1_BIUU,Antrozous pallidus,2597469403,Scaffold,2019-08-08,VMDP01,13442,13958,Antrozous_pallidus,Antrozous_pallidus_VESPERTILIONIDAE_CHIROPTERA,0,0,NA,NA,3. Zoonomia (not in alignment)
+GCA_004027775.1,BraVar_v1_BIUU,Bradypus variegatus,1502475299,Scaffold,2019-01-16,PVKY01,1900,1900,Bradypus_variegatus,Bradypus_variegatus_BRADYPODIDAE_PILOSA,0,0,NA,NA,3. Zoonomia (not in alignment)
+GCA_007922815.1,MacCal_v1_BIUU,Macrotus californicus,2160653756,Scaffold,2019-08-08,VMDR01,16404,16948,Macrotus_californicus,Macrotus_californicus_PHYLLOSTOMIDAE_CHIROPTERA,0,0,NA,NA,3. Zoonomia (not in alignment)
+GCA_007922795.1,NycHum_v1_BIUU,Nycticeius humeralis,2779565143,Scaffold,2019-08-08,VMDQ01,14267,15095,Nycticeius_humeralis,Nycticeius_humeralis_VESPERTILIONIDAE_CHIROPTERA,0,0,NA,NA,3. Zoonomia (not in alignment)
+GCA_007922755.1,PedCap_v1_BIUU,Pedetes capensis,2850076812,Scaffold,2019-08-08,VMDO01,54009,74432,Pedetes_capensis,Pedetes_capensis_PEDETIDAE_RODENTIA,0,0,NA,NA,3. Zoonomia (not in alignment)
+GCA_004765945.2,mPhaTri1,Phataginus tricuspis,3031505349,Scaffold,2022-11-10,SOZM02,23744,9929315,Phataginus_tricuspis,Phataginus_tricuspis_MANIDAE_PHOLIDOTA,0,0,NA,NA,3. Zoonomia (not in alignment)
+GCA_004363935.1,PonBla_v1_BIUU,Pontoporia blainvillei,1685099017,Scaffold,2019-03-22,RJWI01,2541,2541,Pontoporia_blainvillei,Pontoporia_blainvillei_INIIDAE_CETARTIODACTYLA,0,0,NA,NA,3. Zoonomia (not in alignment)
+GCA_000465495.1,ASM46549v1,Rhinolophus ferrumequinum,1926439238,Scaffold,2013-09-15,AWHA01,11659,21151,Rhinolophus_ferrumequinum,Rhinolophus_ferrumequinum_RHINOLOPHIDAE_CHIROPTERA,0,0,NA,NA,3. Zoonomia (not in alignment)
+GCA_004026225.1,RhiPru_v1_BIUU,Rhizomys pruinosus,3937265448,Scaffold,2019-01-16,PVIM01,2627,2627,Rhizomys_pruinosus,Rhizomys_pruinosus_SPALACIDAE_RODENTIA,0,0,NA,NA,3. Zoonomia (not in alignment)
+GCA_907164435.1,mAcoDim1_REL_1905,Acomys dimidiatus,2302401611,Chromosome,2021-07-06,CAJQZA01,33040,124365287,Acomys_dimidiatus,Acomys_dimidiatus_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_907164505.1,mAcoKem2_REL_1905,Acomys kempi,2162154686,Chromosome,2021-07-06,,33625,125230826,Acomys_kempi,Acomys_kempi_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_907169655.1,mAcoPer2_REL_1905,Acomys percivali,2302049166,Chromosome,2021-07-06,CAJRSG01,26477,126270630,Acomys_percivali,Acomys_percivali_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_903995435.1,mAcoRus1.1,Acomys russatus,2301522284,Chromosome,2020-08-21,CAJFAB01,4450755,66475698,Acomys_russatus,Acomys_russatus_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_904813335.1,ERS5079794 MarsupialExonCaptKit,Acrobates pygmaeus,2500727,Contig,2021-09-24,CAJGQL01,1368,NA,Acrobates_pygmaeus,Acrobates_pygmaeus_ACROBATIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_019593525.1,ASM1959352v1,Addax nasomaculatus,2795170309,Scaffold,2021-08-13,JAIEZW01,17026,20757513,Addax_nasomaculatus,Addax_nasomaculatus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_006408695.1,IMP,Aepyceros melampus,2631303056,Scaffold,2019-06-24,SJXQ01,82459,344542,Aepyceros_melampus,Aepyceros_melampus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_904813175.1,ERS5079784 MarsupialExonCaptKit,Aepyprymnus rufescens,2295016,Contig,2021-09-24,CAJGQB01,1163,NA,Aepyprymnus_rufescens,Aepyprymnus_rufescens_POTOROIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_006408545.1,HBT,Alcelaphus buselaphus,3882338275,Scaffold,2019-06-24,SJXN01,889,12034,Alcelaphus_buselaphus,Alcelaphus_buselaphus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_007570765.1,GSC_moose_1.0,Alces alces,2743728988,Scaffold,2019-07-12,SSNK01,45091,4131188,Alces_alces,Alces_alces_CERVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_904810915.1,ERS5079555 MarsupialExonCaptKit,Antechinomys laniger,1677561,Contig,2021-09-24,CAJGJB01,988,NA,Antechinomys_laniger,Antechinomys_laniger_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904814085.1,ERS5079871 MarsupialExonCaptKit,Antechinus agilis,1767894,Contig,2021-09-24,CAJGTJ01,946,NA,Antechinus_agilis,Antechinus_agilis_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813565.1,ERS5079823 MarsupialExonCaptKit,Antechinus bellus,1557310,Contig,2021-09-24,CAJGRL01,837,NA,Antechinus_bellus,Antechinus_bellus_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_016432865.2,AdamAnt_v2,Antechinus flavipes,3192643918,Chromosome,2021-01-06,JADWMD01,51843704,636717922,Antechinus_flavipes,Antechinus_flavipes_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810635.1,ERS5079535 MarsupialExonCaptKit,Antechinus godmani,2136916,Contig,2021-09-24,CAJGIF01,1130,NA,Antechinus_godmani,Antechinus_godmani_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813635.1,ERS5079827 MarsupialExonCaptKit,Antechinus leo,1726168,Contig,2021-09-24,CAJGRT01,922,NA,Antechinus_leo,Antechinus_leo_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904814075.1,ERS5079872 MarsupialExonCaptKit,Antechinus minimus,1665354,Contig,2021-09-24,CAJGTL01,892,NA,Antechinus_minimus,Antechinus_minimus_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_016696395.1,USYD_AStu_M,Antechinus stuartii,3307090682,Scaffold,2021-01-15,JACYGW01,77883,72733491,Antechinus_stuartii,Antechinus_stuartii_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810935.1,ERS5079557 MarsupialExonCaptKit,Antechinus mimetes,1506544,Contig,2021-09-24,CAJGJC01,814,NA,Antechinus_mimetes,Antechinus_swainsonii_DASYURIDAE_DASYUROMORPHIA,0,1,"Species synonym, but now correct as split",https://www.mammaldiversity.org/explore.html#genus=Antechinus&species=mimetes&id=1000175 ,NA
+GCA_006408585.1,SGB,Antidorcas marsupialis,3024612899,Scaffold,2019-06-24,SJYB01,42749,694905,Antidorcas_marsupialis,Antidorcas_marsupialis_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_002335545.1,Aspe_assembly01,Apodemus speciosus,3494287372,Scaffold,2017-09-12,BDUI01,4003,49031,Apodemus_speciosus,Apodemus_speciosus_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_001305905.1,ASM130590v1,Apodemus sylvaticus,3758143898,Scaffold,2015-10-02,LIPJ01,1208,245982,Apodemus_sylvaticus,Apodemus_sylvaticus_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_900500725.1,ArcGazv1.4,Arctocephalus gazella,2313485084,Scaffold,2018-08-22,UIRR01,538754,6207322,Arctocephalus_gazella,Arctocephalus_gazella_OTARIIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_011750645.1,mArvNil1.mat,Arvicanthis niloticus,2486141644,Scaffold,2020-03-25,JAAOME01,8920743,80178650,Arvicanthis_niloticus,Arvicanthis_niloticus_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_903992525.1,mArvAmp1.1 alternate haplotype,Arvicola amphibius,1764008884,Scaffold,2020-08-04,CAJEUE01,147871,147918,Arvicola_amphibius,Arvicola_amphibius_CRICETIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_916098195.1,ORGONE_01,Ateles hybridus,2643274663,Scaffold,2021-09-22,CAJZLT01,50515269,50515269,Ateles_hybridus,Ateles_hybridus_ATELIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_003798545.1,ASM379854v1,Axis porcinus,2676163295,Scaffold,2018-11-20,QQTR01,172761,20764858,Axis_porcinus,Axis_porcinus_CERVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_028017805.1,mBalRic1.hap1,Balaenoptera ricei,2844045133,Scaffold,2023-01-26,JAQMHA01,36002000,109386820,Balaenoptera_ricei,Balaenoptera_edeni_BALAENOPTERIDAE_CETARTIODACTYLA,0,1,"Species synonym, but now correct as split",https://doi.org/10.1111/mms.12776,NA
+GCA_008658375.2,mBalMus1.alt.v2,Balaenoptera musculus,1835388607,Scaffold,2020-09-30,VNFD02,275582,275582,Balaenoptera_musculus,Balaenoptera_musculus_BALAENOPTERIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_008795845.1,Baphy,Balaenoptera physalus,2462774868,Scaffold,2019-10-01,SGJD01,4493,871016,Balaenoptera_physalus,Balaenoptera_physalus_BALAENOPTERIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_904810735.1,ERS5079539 MarsupialExonCaptKit,Bettongia gaimardi,671903,Contig,2021-09-24,CAJGIM01,450,NA,Bettongia_gaimardi,Bettongia_gaimardi_POTOROIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904813165.1,ERS5079780 MarsupialExonCaptKit,Bettongia lesueur,2158403,Contig,2021-09-24,CAJGQA01,1079,NA,Bettongia_lesueur,Bettongia_lesueur_POTOROIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904813155.1,ERS5079779 MarsupialExonCaptKit,Bettongia penicillata,2238793,Contig,2021-09-24,CAJGPW01,1131,NA,Bettongia_penicillata,Bettongia_penicillata_POTOROIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904814315.1,ERS5079895 MarsupialExonCaptKit,Bettongia tropica,1385949,Contig,2021-09-24,CAJGUF01,729,NA,Bettongia_tropica,Bettongia_tropica_POTOROIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_007844835.1,NRC_Mithun_1,Bos frontalis,3002445034,Scaffold,2019-08-05,RBVW01,28709,1003348,Bos_frontalis,Bos_frontalis_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_014182915.2,ARS_UOA_Gaur_1.1,Bos gaurus,2717333235,Chromosome,2020-08-14,JACAOC01,13340585,104471907,Bos_gaurus,Bos_gaurus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_005887515.3,BosGru3.1,Bos grunniens,2831460571,Chromosome,2019-06-10,VBZB01,44716738,114386978,Bos_grunniens,Bos_grunniens_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_025584935.1,MNHNYannick_LA_1,Bubalus depressicornis,2617462608,Scaffold,2022-10-05,JAMXBS01,34173,37876,Bubalus_depressicornis,Bubalus_depressicornis_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_023091745.2,Takin1.1,Budorcas taxicolor,2851638285,Chromosome,2022-04-22,JAKGDW01,68053581,109747698,Budorcas_taxicolor,Budorcas_taxicolor_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_904813065.1,ERS5079774 MarsupialExonCaptKit,Burramys parvus,2651331,Contig,2021-09-24,CAJGPN01,1381,NA,Burramys_parvus,Burramys_parvus_BURRAMYIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_003265705.1,ASM326570v1,Callorhinus ursinus,2706852204,Scaffold,2018-06-26,QLOG01,133024,31506801,Callorhinus_ursinus,Callorhinus_ursinus_OTARIIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_904811975.1,ERS5079573 MarsupialExonCaptKit,Caloprymnus campestris,1319643,Contig,2021-09-24,CAJGNK01,703,NA,Caloprymnus_campestris,Caloprymnus_campestris_POTOROIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904810665.1,ERS5079519 MarsupialExonCaptKit,Caluromys derbianus,810843,Contig,2021-09-24,CAJGHU01,434,NA,Caluromys_derbianus,Caluromys_derbianus_DIDELPHIDAE_DIDELPHIMORPHIA,0,0,NA,NA,NA
+GCA_006410555.1,IBX,Capra ibex,2701356656,Scaffold,2019-06-24,SJYO01,380983,61905114,Capra_ibex,Capra_ibex_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_003182615.2,ASM318261v2,Capra sibirica,2733031394,Scaffold,2018-10-30,NIYN02,376582,15190720,Capra_sibirica,Capra_sibirica_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_000751575.1,kmer631,Capreolus capreolus,2785377831,Scaffold,2014-09-09,CCMK01,4167,10458,Capreolus_capreolus,Capreolus_capreolus_CERVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_012922965.1,ASM1292296v1,Capreolus pygargus,2607832873,Scaffold,2020-04-28,SNSB01,80310,6067221,Capreolus_pygargus,Capreolus_pygargus_CERVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_016801355.1,CarCar1.0,Caracal caracal,2420801777,Scaffold,2021-02-02,JACGTZ01,32916,2085423,Caracal_caracal,Caracal_caracal_FELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_006410635.1,HVD,Cephalophus harveyi,2816643069,Scaffold,2019-06-24,SJYT01,61368,365466,Cephalophus_harveyi,Cephalophus_harveyi_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_904811095.1,ERS5079576 MarsupialExonCaptKit,Cercartetus caudatus,2045816,Contig,2021-09-24,CAJGJN01,1051,NA,Cercartetus_caudatus,Cercartetus_caudatus_BURRAMYIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904810795.1,ERS5079553 MarsupialExonCaptKit,Cercartetus concinnus,1132234,Contig,2021-09-24,CAJGIV01,684,NA,Cercartetus_concinnus,Cercartetus_concinnus_BURRAMYIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904810685.1,ERS5079522 MarsupialExonCaptKit,Cercartetus lepidus,1768180,Contig,2021-09-24,CAJGHS01,1050,NA,Cercartetus_lepidus,Cercartetus_lepidus_BURRAMYIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904813375.1,ERS5079800 MarsupialExonCaptKit,Cercartetus nanus,2502348,Contig,2021-09-24,CAJGQR01,1281,NA,Cercartetus_nanus,Cercartetus_nanus_BURRAMYIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_023783535.1,ASM2378353v1,Cercopithecus albogularis,2793074534,Contig,2022-06-17,JAKFHW01,13914891,NA,Cercopithecus_albogularis,Cercopithecus_mitis_CERCOPITHECIDAE_PRIMATES,0,1,Species synonym (junior),https://www.mammaldiversity.org/explore.html#genus=Cercopithecus&species=mitis&id=1000574,NA
+GCA_014849445.1,KIZ_CMon_1.0,Cercopithecus mona,2902804697,Scaffold,2020-10-05,JABBCR01,22791723,22791723,Cercopithecus_mona,Cercopithecus_mona_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_006408465.1,WLD,Cervus albirostris,2692225130,Scaffold,2019-06-24,SJXR01,39627,3769372,Cervus_albirostris,Cervus_albirostris_CERVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_910593805.1,mCerEla1.1 alternate haplotype,Cervus elaphus,2903978491,Scaffold,2021-07-07,CAJVBA01,2236403,2259288,Cervus_elaphus,Cervus_elaphus_CERVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_023783515.1,ASM2378351v1,Chlorocebus aethiops,2823242415,Contig,2022-06-17,JAKFHV01,9639656,NA,Chlorocebus_aethiops,Chlorocebus_aethiops_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_023065765.1,ASM2306576v1,Hexaprotodon liberiensis,2374626208,Chromosome,2022-04-22,JAKVTR01,20244513,142594368,Hexaprotodon_liberiensis,Choeropsis_liberiensis_HIPPOPOTAMIDAE_CETARTIODACTYLA,0,1,Genus synonym,https://www.mammaldiversity.org/explore.html#genus=Choeropsis&species=liberiensis&id=1006389,NA
+GCA_024262425.1,ASM2426242v1,Chrysocyon brachyurus,2457343285,Contig,2022-07-14,JALPRZ01,26543,NA,Chrysocyon_brachyurus,Chrysocyon_brachyurus_CANIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_021498455.1,ASM2149845v1,Colobus guereza,2963339203,Chromosome,2022-01-19,JAKFGS01,15612012,145964134,Colobus_guereza,Colobus_guereza_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_006408615.1,BWD,Connochaetes taurinus,2644042816,Scaffold,2019-06-24,SJXO01,70608,366224,Connochaetes_taurinus,Connochaetes_taurinus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_026230045.1,mCorTow1.0.hap2,Corynorhinus townsendii,1961562149,Scaffold,2022-11-18,JAPDVU01,22150609,177756282,Corynorhinus_townsendii,Corynorhinus_townsendii_VESPERTILIONIDAE_CHIROPTERA,0,0,NA,NA,NA
+GCA_026225945.1,Cans_v1.0_COR,Cricetomys ansorgei,2527461426,Scaffold,2022-11-17,JAMJFZ01,12847143,12847143,Cricetomys_ansorgei,Cricetomys_emini_NESOMYIDAE_RODENTIA,0,1,"Species synonym, but now correct as split",https://www.mammaldiversity.org/explore.html#genus=Cricetomys&species=ansorgei&id=1003704,NA
+GCA_008692635.1,BGI_CrCroc_1.0,Crocuta crocuta,2348360376,Scaffold,2019-10-07,VOAJ01,97873,7236831,Crocuta_crocuta,Crocuta_crocuta_HYAENIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_021461705.1,Cryptotis parva assembly 1.0,Cryptotis parvus,2196365350,Contig,2022-01-13,JAJIBD01,112257,NA,Cryptotis_parvus,Cryptotis_parva_SORICIDAE_EULIPOTYPHLA,0,1,Spelling change,https://www.mammaldiversity.org/explore.html#genus=Cryptotis&species=parvus&id=1004165,NA
+GCA_027409165.1,mCynVol1.alt,Cynocephalus volans,2453279509,Contig,2022-12-27,JAPWCQ01,4372305,NA,Cynocephalus_volans,Cynocephalus_volans_CYNOCEPHALIDAE_DERMOPTERA,0,0,NA,NA,NA
+GCA_011316645.1,ASM1131664v1,Cynomys gunnisoni,2674371627,Scaffold,2020-03-16,WBRW01,687762,824613,Cynomys_gunnisoni,Cynomys_gunnisoni_SCIURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_009793145.1,ASM979314v1,Cynopterus brachyotis,1758935687,Scaffold,2019-12-23,SSHV01,16627,251278,Cynopterus_brachyotis,Cynopterus_brachyotis_PTEROPODIDAE_CHIROPTERA,0,0,NA,NA,NA
+GCA_904810675.1,ERS5079526 MarsupialExonCaptKit,Dactylopsila palpator,1181341,Contig,2021-09-24,CAJGIH01,707,NA,Dactylopsila_palpator,Dactylonax_palpator_PETAURIDAE_DIPROTODONTIA,0,1,Genus synonym,https://www.mammaldiversity.org/explore.html#genus=Dactylopsila&species=palpator&id=1000336,NA
+GCA_904811055.1,ERS5079588 MarsupialExonCaptKit,Dactylopsila trivirgata,1982737,Contig,2021-09-24,CAJGJP01,1012,NA,Dactylopsila_trivirgata,Dactylopsila_trivirgata_PETAURIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_006408505.1,CTB,Damaliscus lunatus,3127764384,Scaffold,2019-06-24,SJXP01,38843,1166796,Damaliscus_lunatus,Damaliscus_lunatus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_904814135.1,ERS5079874 MarsupialExonCaptKit,Dasycercus blythi,1647707,Contig,2021-09-24,CAJGTO01,890,NA,Dasycercus_blythi,Dasycercus_blythi_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813795.1,ERS5079844 MarsupialExonCaptKit,Dasycercus cristicauda,1678179,Contig,2021-09-24,CAJGSI01,887,NA,Dasycercus_cristicauda,Dasycercus_cristicauda_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810525.1,ERS5079531 MarsupialExonCaptKit,Dasykaluta rosamondae,1011914,Contig,2021-09-24,CAJGHZ01,623,NA,Dasykaluta_rosamondae,Dasykaluta_rosamondae_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810555.1,ERS5079521 MarsupialExonCaptKit,Dasyuroides byrnei,1996114,Contig,2021-09-24,CAJGIC01,1185,NA,Dasyuroides_byrnei,Dasyuroides_byrnei_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813945.1,ERS5079853 MarsupialExonCaptKit,Dasyurus albopunctatus,1797674,Contig,2021-09-24,CAJGSS01,960,NA,Dasyurus_albopunctatus,Dasyurus_albopunctatus_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813095.1,ERS5079771 MarsupialExonCaptKit,Dasyurus geoffroii,2109710,Contig,2021-09-24,CAJGPQ01,1060,NA,Dasyurus_geoffroii,Dasyurus_geoffroii_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810955.1,ERS5079559 MarsupialExonCaptKit,Dasyurus hallucatus,557637,Contig,2021-09-24,CAJGJE01,439,NA,Dasyurus_hallucatus,Dasyurus_hallucatus_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813185.1,ERS5079781 MarsupialExonCaptKit,Dasyurus maculatus,2126471,Contig,2021-09-24,CAJGPX01,1072,NA,Dasyurus_maculatus,Dasyurus_maculatus_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_020854095.1,UniMelb_DasViv_v1.0,Dasyurus viverrinus,3139221772,Chromosome,2021-11-12,JAJAFV01,13753271,628486596,Dasyurus_viverrinus,Dasyurus_viverrinus_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810745.1,ERS5079541 MarsupialExonCaptKit,Dendrolagus dorianus notatus,1727212,Contig,2021-01-28,CAJGIN01,1171,NA,Dendrolagus_dorianus_notatus,Dendrolagus_notatus_MACROPODIDAE_DIPROTODONTIA,0,1,"Subspecies synonym, but now elevated",https://www.mammaldiversity.org/explore.html#genus=Dendrolagus&species=notatus&id=1000260,NA
+GCA_024711525.1,mDipMer1.0.a,Dipodomys merriami,2921273682,Scaffold,2022-08-18,JANKKK01,6846911,12075247,Dipodomys_merriami,Dipodomys_merriami_HETEROMYIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_019054845.1,ASM1905484v1,Dipodomys spectabilis,2844766008,Contig,2021-06-29,JAHHPX01,9612466,NA,Dipodomys_spectabilis,Dipodomys_spectabilis_HETEROMYIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_904813465.1,ERS5079812 MarsupialExonCaptKit,Distoechurus pennatus,2289475,Contig,2021-09-24,CAJGQZ01,1153,NA,Distoechurus_pennatus,Distoechurus_pennatus_ACROBATIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904813915.1,ERS5079856 MarsupialExonCaptKit,Dorcopsis hageni,1594794,Contig,2021-09-24,CAJGSX01,831,NA,Dorcopsis_hageni,Dorcopsis_hageni_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904813395.1,ERS5079802 MarsupialExonCaptKit,Dorcopsulus vanheurni,2191042,Contig,2021-09-24,CAJGQT01,1093,NA,Dorcopsulus_vanheurni,Dorcopsulus_vanheurni_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_019395325.1,mDroGli1.alt,Dromiciops gliroides,2818512018,Scaffold,2021-07-29,JAHYBS01,490192,490192,Dromiciops_gliroides,Dromiciops_gliroides_MICROBIOTHERIIDAE_MICROBIOTHERIA,0,0,NA,NA,NA
+GCA_015147995.1,D_dugong_scaffold_01,Dugong dugon,2620890670,Scaffold,2020-08-31,BMBL01,19047,31096,Dugong_dugon,Dugong_dugon_DUGONGIDAE_SIRENIA,0,0,NA,NA,NA
+GCA_904812085.1,ERS5079574 MarsupialExonCaptKit,Echymipera clara,1937246,Contig,2021-09-24,CAJGNI01,1054,NA,Echymipera_clara,Echymipera_clara_PERAMELIDAE_PERAMELEMORPHIA,0,0,NA,NA,NA
+GCA_904813385.1,ERS5079801 MarsupialExonCaptKit,Echymipera kalubu,2144988,Contig,2021-09-24,CAJGQS01,1151,NA,Echymipera_kalubu,Echymipera_kalubu_PERAMELIDAE_PERAMELEMORPHIA,0,0,NA,NA,NA
+GCA_904811145.1,ERS5079581 MarsupialExonCaptKit,Echymipera rufescens,1695803,Contig,2021-09-24,CAJGJX01,932,NA,Echymipera_rufescens,Echymipera_rufescens_PERAMELIDAE_PERAMELEMORPHIA,0,0,NA,NA,NA
+GCA_020311275.1,ASM2031127v1,Eira barbara,2469724418,Scaffold,2021-10-05,JAHRIG01,285064,42537617,Eira_barbara,Eira_barbara_MUSTELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_014332765.1,ASM1433276v1,Elephas maximus,3128770357,Scaffold,2020-08-28,JABTCH01,76227,2767252,Elephas_maximus,Elephas_maximus_ELEPHANTIDAE_PROBOSCIDEA,0,0,NA,NA,NA
+GCA_003508835.1,Espe.v1,Eonycteris spelaea,1966861576,Contig,2018-09-07,PUFA01,8002591,NA,Eonycteris_spelaea,Eonycteris_spelaea_PTEROPODIDAE_CHIROPTERA,0,0,NA,NA,NA
+GCA_021613505.1,UCLA_HA_Equagga_1.0,Equus quagga,2500914156,Chromosome,2022-01-31,JAKJSB01,427941,122556673,Equus_quagga,Equus_quagga_EQUIDAE_PERISSODACTYLA,0,0,NA,NA,NA
+GCA_006547115.1,GSC_porc_1.0,Erethizon dorsatum,2436547097,Scaffold,2019-07-01,SWEC01,118744,16680019,Erethizon_dorsatum,Erethizon_dorsatum_ERETHIZONTIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_006408755.1,TMG,Eudorcas thomsonii,2904272043,Scaffold,2019-06-24,SJYE01,137476,1581717,Eudorcas_thomsonii,Eudorcas_thomsonii_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_001262655.1,Emacaco_refEf_BWA_oneround,Eulemur macaco,2119866805,Scaffold,2015-08-06,LGHX01,20038,405987,Eulemur_macaco,Eulemur_macaco_LEMURIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_004028035.1,ASM402803v1,Eumetopias jubatus,2418246527,Scaffold,2019-01-15,SBAQ01,242372,14018600,Eumetopias_jubatus,Eumetopias_jubatus_OTARIIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_019924945.1,FelChav1.0,Felis chaus,2428287114,Chromosome,2021-09-14,JAGKTF01,91188488,148552997,Felis_chaus,Felis_chaus_FELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_023783435.1,ASM2378343v1,Galago moholi,2543917194,Contig,2022-06-17,JAKFHS01,583552,NA,Galago_moholi,Galago_moholi_GALAGIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_019455555.1,Gpyr_1.0,Galemys pyrenaicus,1828347170,Scaffold,2021-08-05,JAGFMF01,64544,8503682,Galemys_pyrenaicus,Galemys_pyrenaicus_TALPIDAE_EULIPOTYPHLA,0,0,NA,NA,NA
+GCA_020662805.1,ASM2066280v1,Glaucomys volans,2582196772,Scaffold,2021-10-28,JAJEJO01,75533,452493,Glaucomys_volans,Glaucomys_volans_SCIURIDAE_RODENTIA,0,0,NA,NA,NA
+GCF_006547405.1,ASM654740v1,Globicephala melas,2333854592,Scaffold,2019-07-01,SWEB01,332801,18102937,Globicephala_melas,Globicephala_melas_DELPHINIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_016433145.1,AgileGrace,Gracilinanus agilis,3701017385,Chromosome,2021-01-06,JADWME01,73170,683521856,Gracilinanus_agilis,Gracilinanus_agilis_DIDELPHIDAE_DIDELPHIMORPHIA,0,0,NA,NA,NA
+GCA_019843835.1,ASM1984383v1,Grammomys dolichurus,2089776775,Scaffold,2021-09-01,JADRCF01,5404,5810,Grammomys_dolichurus,Grammomys_dolichurus_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_900006375.2,Gulo_2.2_annotated,Gulo gulo,2423180524,Scaffold,2018-12-06,CYRY02,3657,178272,Gulo_gulo,Gulo_gulo_MUSTELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_011680675.1,LBP_v1,Gymnobelideus leadbeateri,3469281398,Scaffold,2020-03-23,WOXC01,500778,502495,Gymnobelideus_leadbeateri,Gymnobelideus_leadbeateri_PETAURIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCF_012393455.1,Tufts_HGry_1.1,Halichoerus grypus,2338243510,Scaffold,2020-04-15,JAAXOB01,1011981,1033864,Halichoerus_grypus,Halichoerus_grypus_PHOCIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_904810875.1,ERS5079545 MarsupialExonCaptKit,Hemibelideus lemuroides,700924,Contig,2021-09-24,CAJGIW01,442,NA,Hemibelideus_lemuroides,Hemibelideus_lemuroides_PSEUDOCHEIRIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_014898765.1,PumYag,Puma yagouaroundi,2473123098,Scaffold,2020-10-20,JACEOH01,100211,49273425,Puma_yagouaroundi,Herpailurus_yagouaroundi_FELIDAE_CARNIVORA,0,1,Genus synonym,https://www.mammaldiversity.org/explore.html#genus=Herpailurus&species=yagouaroundi&id=1005991,NA
+GCA_021464545.1,ASM2146454v1,Hipposideros pendleburyi,2171761792,Scaffold,2022-01-14,JAHQIX01,72646,15398518,Hipposideros_pendleburyi,Hipposideros_turpis_HIPPOSIDERIDAE_CHIROPTERA,0,1,"Species synonym, but now correct as split",https://www.mammaldiversity.org/explore.html#genus=Hipposideros&species=pendleburyi&id=1004627,NA
+GCA_016433095.1,ASM1643309v1,Hippotragus equinus,2603408352,Scaffold,2020-12-29,JAEFBM01,237164,8357620,Hippotragus_equinus,Hippotragus_equinus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_006942125.1,SCBI_HNig_1.0,Hippotragus niger niger,2595326149,Scaffold,2019-07-12,VHQK01,45501,4586323,Hippotragus_niger_niger,Hippotragus_niger_BOVIDAE_CETARTIODACTYLA,0,1,Subspecies synonym,NA,NA
+GCA_023748175.1,ASM2374817v1,Hoolock leuconedys,2784997387,Scaffold,2022-06-16,JAKGGE01,22338800,22338800,Hoolock_leuconedys,Hoolock_leuconedys_HYLOBATIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_013391785.1,H_Gigas_1.0,Hydrodamalis gigas,1239941981,Scaffold,2020-07-08,JACANZ01,1345,1430,Hydrodamalis_gigas,Hydrodamalis_gigas_DUGONGIDAE_SIRENIA,0,0,NA,NA,NA
+GCA_006459105.1,NPU_HINE_1.0,Hydropotes inermis,2530176423,Scaffold,2019-06-25,SPDZ01,131446,13818975,Hydropotes_inermis,Hydropotes_inermis_CERVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_009828535.2,HMol_V2,Hylobates moloch,2848329432,Scaffold,2020-02-13,WKKJ02,265822,125196221,Hylobates_moloch,Hylobates_moloch_HYLOBATIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_021498465.1,ASM2149846v1,Hylobates pileatus,2851401333,Chromosome,2022-01-19,JAKFGR01,17385161,131825309,Hylobates_pileatus,Hylobates_pileatus_HYLOBATIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_019843855.1,ASM1984385v1,Hylomyscus alleni,2183244924,Scaffold,2021-09-01,JADRCC01,4202,4568,Hylomyscus_alleni,Hylomyscus_alleni_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_024363105.1,DAL_HAmp_1,Hyperoodon ampullatus,2351343742,Scaffold,2022-07-21,JALGBC01,55734,132887,Hyperoodon_ampullatus,Hyperoodon_ampullatus_ZIPHIIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_904813425.1,ERS5079805 MarsupialExonCaptKit,Hypsiprymnodon moschatus,2385849,Contig,2021-09-24,CAJGQX01,1218,NA,Hypsiprymnodon_moschatus,Hypsiprymnodon_moschatus_HYPSIPRYMNODONTIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_016801275.1,DSBC_Hbra_1.0,Hystrix brachyura,2257332368,Scaffold,2021-02-02,QZML01,29439,2980431,Hystrix_brachyura,Hystrix_brachyura_HYSTRICIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_025583905.1,NENU_Iio_1.0,Ia io,2099745439,Scaffold,2022-10-05,JAJQQW01,62415887,105833403,Ia_io,Ia_io_VESPERTILIONIDAE_CHIROPTERA,0,0,NA,NA,NA
+GCA_904811175.1,ERS5079591 MarsupialExonCaptKit,Isoodon auratus auratus,1499966,Contig,2021-01-28,CAJGJZ01,927,NA,Isoodon_auratus_auratus,Isoodon_auratus_PERAMELIDAE_PERAMELEMORPHIA,0,1,Subspecies synonym,NA,NA
+GCA_904812165.1,ERS5079680 MarsupialExonCaptKit,Isoodon macrourus,1641615,Contig,2021-09-24,CAJGNV01,901,NA,Isoodon_macrourus,Isoodon_macrourus_PERAMELIDAE_PERAMELEMORPHIA,0,0,NA,NA,NA
+GCA_904811945.1,ERS5079672 MarsupialExonCaptKit,Isoodon obesulus,1624035,Contig,2021-09-24,CAJGNC01,907,NA,Isoodon_obesulus,Isoodon_obesulus_PERAMELIDAE_PERAMELEMORPHIA,0,0,NA,NA,NA
+GCA_006410655.1,DFW,Kobus ellipsiprymnus,2895340485,Scaffold,2019-06-24,SJYR01,26169,779552,Kobus_ellipsiprymnus,Kobus_ellipsiprymnus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_014926565.1,Klec_v1.0,Kobus leche leche,2771252237,Scaffold,2020-10-23,JACEGT01,66923,3233651,Kobus_leche_leche,Kobus_leche_BOVIDAE_CETARTIODACTYLA,0,1,Subspecies synonym,NA,NA
+GCA_003676395.1,ASM367639v1,Lagenorhynchus obliquidens,2334450779,Scaffold,2018-10-23,RCWK01,255779,28371583,Lagenorhynchus_obliquidens,Lagenorhynchus_obliquidens_DELPHINIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_904810835.1,ERS5079548 MarsupialExonCaptKit,Lagorchestes conspicillatus,1493609,Contig,2021-09-24,CAJGIR01,1017,NA,Lagorchestes_conspicillatus,Lagorchestes_conspicillatus_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904810805.1,ERS5079549 MarsupialExonCaptKit,Lagorchestes hirsutus,1427406,Contig,2021-09-24,CAJGIU01,1012,NA,Lagorchestes_hirsutus,Lagorchestes_hirsutus_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904811075.1,ERS5079595 MarsupialExonCaptKit,Lagostrophus fasciatus,2160933,Contig,2021-09-24,CAJGKB01,1095,NA,Lagostrophus_fasciatus,Lagostrophus_fasciatus_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_013239585.1,ASM1323958v1,Lama glama chaku,2035800238,Scaffold,2020-06-02,PNXU01,111519,3269186,Lama_glama_chaku,Lama_glama_CAMELIDAE_CETARTIODACTYLA,0,1,Subspecies synonym,NA,NA
+GCA_013239625.1,ASM1323962v1,Lama guanicoe cacsilensis,2050533365,Scaffold,2020-06-02,PNXV01,343812,14786206,Lama_guanicoe_cacsilensis,Lama_guanicoe_CAMELIDAE_CETARTIODACTYLA,0,1,Subspecies synonym,NA,NA
+GCA_904813145.1,ERS5079778 MarsupialExonCaptKit,Lasiorhinus latifrons,2405765,Contig,2021-09-24,CAJGPV01,1198,NA,Lasiorhinus_latifrons,Lasiorhinus_latifrons_VOMBATIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_011751065.1,L.cinereus_Cryan_1219_p1.0,Aeorestes cinereus,2149060452,Scaffold,2020-03-25,JAAGEH01,120638,35075546,Aeorestes_cinereus,Lasiurus_cinereus_VESPERTILIONIDAE_CHIROPTERA,0,1,Genus synonym,https://doi.org/10.5281/zenodo.7696844 ,NA
+GCA_018350155.1,O.geoffroyi_Oge1_pat1.0,Leopardus geoffroyi,2426370816,Chromosome,2021-05-13,JAFEKB01,104474415,152606360,Leopardus_geoffroyi,Leopardus_geoffroyi_FELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_009760805.1,CIBIO-ISEM_LeTim_1.1,Lepus timidus,2703257108,Chromosome,2019-12-17,VUAX01,18458,116271063,Lepus_timidus,Lepus_timidus_LEPORIDAE_LAGOMORPHA,0,0,NA,NA,NA
+GCA_006410535.1,GRK,Litocranius walleri,2979336167,Scaffold,2019-06-24,SJYG01,62351,3126223,Litocranius_walleri,Litocranius_walleri_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_010015895.1,GSC_riverotter_1.0,Lontra canadensis,2405748306,Scaffold,2020-01-27,WMAJ01,691969,18460785,Lontra_canadensis,Lontra_canadensis_MUSTELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_907164525.1,mLopImh1.curated_primary_1811,Lophiomys imhausi,2920431132,Scaffold,2021-06-03,CAJQZJ01,35791,6438253,Lophiomys_imhausi,Lophiomys_imhausi_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_023783235.1,ASM2378323v1,Lophocebus aterrimus,2903351443,Contig,2022-06-17,JAKFHR01,6802059,NA,Lophocebus_aterrimus,Lophocebus_aterrimus_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_023783135.1,ASM2378313v1,Loris tardigradus,2737732475,Contig,2022-06-17,JAKFHQ01,7727436,NA,Loris_tardigradus,Loris_tardigradus_LORISIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_902653095.1,mLutLut1.1 alternate haplotype,Lutra lutra,1081484062,Contig,2019-12-09,CACRWF01,174900,NA,Lutra_lutra,Lutra_lutra_MUSTELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_007474575.2,mLynCan4.alt.v2,Lynx canadensis,1416309019,Scaffold,2020-06-12,VHLF02,130146,130159,Lynx_canadensis,Lynx_canadensis_FELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_900661375.1,LYPA1.0,Lynx pardinus,2413208909,Scaffold,2019-03-28,CAAGRJ01,99542,1519745,Lynx_pardinus,Lynx_pardinus_FELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_022079265.1,mLynRuf1.p,Lynx rufus,2439239374,Scaffold,2022-02-08,JAJSDN01,66217191,142134035,Lynx_rufus,Lynx_rufus_FELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_021188215.1,Marc_1.0,Macaca arctoides,2840312651,Scaffold,2021-12-15,JAJNBW01,72158,2128367,Macaca_arctoides,Macaca_arctoides_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_023783095.1,ASM2378309v1,Macaca assamensis,2759375986,Contig,2022-06-17,JAKFHP01,27348716,NA,Macaca_assamensis,Macaca_assamensis_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_026956025.1,MCyc01,Macaca cyclopis,2846042475,Chromosome,2022-12-19,JAHZQV01,7139826,152979943,Macaca_cyclopis,Macaca_cyclopis_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_003118495.1,macFus_1.0,Macaca fuscata fuscata,2930706173,Contig,2018-04-04,BFBW01,94905,NA,Macaca_fuscata_fuscata,Macaca_fuscata_CERCOPITHECIDAE_PRIMATES,0,1,Subspecies synonym,NA,NA
+GCA_928851695.1,mMacNir1.1,Macaca nigra,2821714050,Scaffold,2022-02-09,CAKMXP01,60712129,60712129,Macaca_nigra,Macaca_nigra_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_023807365.1,ASM2380736v1,Macaca silenus,2778791713,Contig,2022-06-20,JAKFHO01,25691658,NA,Macaca_silenus,Macaca_silenus_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_024542745.1,ASM2454274v1,Macaca thibetana thibetana,2822383045,Chromosome,2022-08-09,JANHGW01,48622411,150623419,Macaca_thibetana_thibetana,Macaca_thibetana_CERCOPITHECIDAE_PRIMATES,0,1,Subspecies synonym,NA,NA
+GCA_904814285.1,ERS5079889 MarsupialExonCaptKit,Notamacropus agilis,1486693,Contig,2021-09-24,CAJGUL01,791,NA,Notamacropus_agilis,Macropus_agilis_MACROPODIDAE_DIPROTODONTIA,0,1,Genus synonym,https://www.mammaldiversity.org/explore.html#genus=Notamacropus&species=agilis&id=1000278,NA
+GCA_904810945.1,ERS5079558 MarsupialExonCaptKit,Osphranter antilopinus,1264433,Contig,2021-09-24,CAJGJH01,703,NA,Osphranter_antilopinus,Macropus_antilopinus_MACROPODIDAE_DIPROTODONTIA,0,1,Genus synonym,https://www.mammaldiversity.org/explore.html#genus=Osphranter&species=antilopinus&id=1000289,NA
+GCA_000004035.1,Meug_1.1,Notamacropus eugenii,3075184024,Scaffold,2009-11-06,ABQO01,2602,36602,Notamacropus_eugenii,Macropus_eugenii_MACROPODIDAE_DIPROTODONTIA,0,1,Genus synonym,https://www.mammaldiversity.org/explore.html#genus=Notamacropus&species=eugenii&id=1000280,NA
+GCA_904811135.1,ERS5079586 MarsupialExonCaptKit,Macropus fuliginosus,2228690,Contig,2021-09-24,CAJGJW01,1145,NA,Macropus_fuliginosus,Macropus_fuliginosus_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904810925.1,ERS5079556 MarsupialExonCaptKit,Macropus giganteus,1718739,Contig,2021-09-24,CAJGJD01,1073,NA,Macropus_giganteus,Macropus_giganteus_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904814355.1,ERS5079900 MarsupialExonCaptKit,Notamacropus irma,1475730,Contig,2021-09-24,CAJGUN01,802,NA,Notamacropus_irma,Macropus_irma_MACROPODIDAE_DIPROTODONTIA,0,1,Genus synonym,NA,NA
+GCA_904813695.1,ERS5079834 MarsupialExonCaptKit,Osphranter robustus,1599726,Contig,2021-09-24,CAJGRZ01,837,NA,Osphranter_robustus,Macropus_robustus_MACROPODIDAE_DIPROTODONTIA,0,1,Genus synonym,https://www.mammaldiversity.org/explore.html#genus=Osphranter&species=robustus&id=1000291,NA
+GCA_904810775.1,ERS5079538 MarsupialExonCaptKit,Notamacropus rufogriseus rufogriseus,1052921,Contig,2021-01-28,CAJGII01,625,NA,Notamacropus_rufogriseus_rufogriseus,Macropus_rufogriseus_MACROPODIDAE_DIPROTODONTIA,0,1,Subspecies synonym,NA,NA
+GCA_904811025.1,ERS5079584 MarsupialExonCaptKit,Osphranter rufus,2221471,Contig,2021-09-24,CAJGJU01,1110,NA,Osphranter_rufus,Macropus_rufus_MACROPODIDAE_DIPROTODONTIA,0,1,Genus synonym,https://www.mammaldiversity.org/explore.html#genus=Osphranter&species=rufus&id=1000292,NA
+GCA_904813115.1,ERS5079777 MarsupialExonCaptKit,Macrotis lagotis,2040099,Contig,2021-09-24,CAJGPT01,1070,NA,Macrotis_lagotis,Macrotis_lagotis_THYLACOMYIDAE_PERAMELEMORPHIA,0,0,NA,NA,NA
+GCA_006408675.1,KDD,Madoqua kirkii,2648126871,Scaffold,2019-06-24,SJYC01,27722,27730,Madoqua_kirkii,Madoqua_kirkii_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_004802615.1,BGI_mandrill_1.0,Mandrillus sphinx,2860576561,Scaffold,2019-04-22,SRPC01,21683,3577924,Mandrillus_sphinx,Mandrillus_sphinx_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_016801295.1,DSBC_Mcra_1.0,Manis crassicaudata,2124325914,Scaffold,2021-02-02,QZMM01,7447,14162,Manis_crassicaudata,Manis_crassicaudata_MANIDAE_PHOLIDOTA,0,0,NA,NA,NA
+GCA_003676075.3,GSC_YBM_2.1,Marmota flaviventris,2579522885,Scaffold,2019-05-24,QZWP02,143798,11407078,Marmota_flaviventris,Marmota_flaviventris_SCIURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_005280165.1,ASM528016v1,Marmota himalayana,2471704417,Scaffold,2019-05-10,RAQP01,102162,1497034,Marmota_himalayana,Marmota_himalayana_SCIURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_901343595.1,MONAX5,Marmota monax,2626060708,Scaffold,2019-09-13,CABDUW01,189547,892188,Marmota_monax,Marmota_monax_SCIURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_005458795.1,GSC_VIM_1.0,Marmota vancouverensis,2504036567,Scaffold,2019-05-16,SAYX01,11502,1590947,Marmota_vancouverensis,Marmota_vancouverensis_SCIURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_012583365.1,ASM1258336v1,Martes zibellina,2420676913,Scaffold,2020-04-20,RDFD01,62196,5199373,Martes_zibellina,Martes_zibellina_MUSTELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_008632895.1,UCSF_Mcou_1,Mastomys coucha,2507168619,Chromosome,2019-09-24,VSBT01,30483,118621203,Mastomys_coucha,Mastomys_coucha_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_019843795.1,ASM1984379v1,Mastomys natalensis,2485459324,Scaffold,2021-09-01,JADRCE01,11395,16557,Mastomys_natalensis,Mastomys_natalensis_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_905120125.1,ERS5330600,Megaloceros giganteus,15499,Scaffold,2022-11-15,CAJHNY01,1182,15439,Megaloceros_giganteus,Megaloceros_giganteus_CERVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_004329385.1,megNov1,Megaptera novaeangliae,2265788366,Scaffold,2019-03-06,RYZJ01,12321,9138802,Megaptera_novaeangliae,Megaptera_novaeangliae_BALAENOPTERIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_922990625.1,mMelMel3.1 maternal haplotype uncurated,Meles meles,2692729365,Scaffold,2021-12-18,CAKLPQ01,65751393,118701898,Meles_meles,Meles_meles_MUSTELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_025094165.1,mMesDen1 alternate haplotype,Mesoplodon densirostris,2376281363,Scaffold,2022-09-08,JANXIM01,1393376,1393376,Mesoplodon_densirostris,Mesoplodon_densirostris_ZIPHIIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_008750995.1,Mgri_1.0,Microcebus griseorufus,2838334889,Scaffold,2019-09-30,VSMI01,16653,16816,Microcebus_griseorufus,Microcebus_griseorufus_CHEIROGALEIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_008750955.1,Mmit_1.0,Microcebus mittermeieri,3012906786,Scaffold,2019-09-30,VSMH01,15314,15314,Microcebus_mittermeieri,Microcebus_mittermeieri_CHEIROGALEIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_008750975.1,Mrav_1.0,Microcebus ravelobensis,2416211825,Scaffold,2019-09-30,VSMG01,21473,21495,Microcebus_ravelobensis,Microcebus_ravelobensis_CHEIROGALEIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_008750935.1,Mtav_1.0,Microcebus tavaratra,2583971501,Scaffold,2019-09-30,VSME01,29527,30039,Microcebus_tavaratra,Microcebus_tavaratra_CHEIROGALEIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_904812025.1,ERS5079575 MarsupialExonCaptKit,Microperoryctes longicauda,2043133,Contig,2021-09-24,CAJGNO01,1105,NA,Microperoryctes_longicauda,Microperoryctes_longicauda_PERAMELIDAE_PERAMELEMORPHIA,0,0,NA,NA,NA
+GCA_904814235.1,ERS5079886 MarsupialExonCaptKit,Microperoryctes papuensis,1377936,Contig,2021-09-24,CAJGUA01,764,NA,Microperoryctes_papuensis,Microperoryctes_papuensis_PERAMELIDAE_PERAMELEMORPHIA,0,0,NA,NA,NA
+GCA_001305995.1,ASM130599v1,Microtus agrestis,3124140565,Scaffold,2015-10-02,LIQJ01,1380,896668,Microtus_agrestis,Microtus_agrestis_CRICETIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_007455615.1,ASM745561v1,Microtus arvalis,2620579938,Scaffold,2019-07-25,VIIT01,34797,52876,Microtus_arvalis,Microtus_arvalis_CRICETIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_014885135.2,M_Fortis_MF-2015_v1.1,Microtus fortis,2189376753,Scaffold,2020-10-13,NMRL01,90683,9992017,Microtus_fortis,Microtus_fortis_CRICETIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_020392405.1,ASM2039240v1,Microtus montanus,2335504509,Scaffold,2021-10-08,JAEPQX01,2896,2716299,Microtus_montanus,Microtus_montanus_CRICETIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_007455595.1,ASM745559v1,Microtus oeconomus,2306554743,Scaffold,2019-07-25,VIIU01,51221,114768,Microtus_oeconomus,Microtus_oeconomus_CRICETIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_018167655.1,Mior012,Microtus oregoni,3017107361,Contig,2021-04-26,JAGKIF01,34833828,NA,Microtus_oregoni,Microtus_oregoni_CRICETIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_019206885.1,ASM1920688v1,Microtus richardsoni,2537622786,Scaffold,2021-07-13,JAGDQN01,11059,12442,Microtus_richardsoni,Microtus_richardsoni_CRICETIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_011800145.1,KU_Mleo_1.0,Mirounga leonina,2417303335,Scaffold,2020-03-31,JAAMPH01,197952,54232831,Mirounga_leonina,Mirounga_leonina_PHOCIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_008750895.1,Mzaz_1.0,Mirza zaza,2359344610,Scaffold,2019-09-30,VSMD01,73499,75843,Mirza_zaza,Mirza_zaza_CHEIROGALEIDAE_PRIMATES,0,0,NA,NA,NA
+GCF_014108415.1,mMolMol1.p,Molossus molossus,2315568481,Scaffold,2020-08-07,JACASF01,22174888,110665204,Molossus_molossus,Molossus_molossus_MOLOSSIDAE_CHIROPTERA,0,0,NA,NA,NA
+GCA_026936385.1,BBF_mMolNig1_v1,Molossus nigricans,2407891554,Scaffold,2022-12-16,JAPNNZ01,21886250,81933988,Molossus_nigricans,Molossus_rufus_MOLOSSIDAE_CHIROPTERA,0,1,"Species synonym, but now correct as split",https://www.mammaldiversity.org/explore.html#genus=Molossus&species=nigricans&id=1005203,NA
+GCA_000002295.1,MonDom5,Monodelphis domestica,3600487649,Chromosome,2007-01-25,AAFR03,107990,527952102,Monodelphis_domestica,Monodelphis_domestica_DIDELPHIDAE_DIDELPHIMORPHIA,0,0,NA,NA,NA
+GCA_006459085.1,FMD,Moschus berezovskii,2818010997,Scaffold,2019-06-25,SGQJ01,57706,2509225,Moschus_berezovskii,Moschus_berezovskii_MOSCHIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_006461725.1,NPU_MCHR_1.0,Moschus chrysogaster,4972482505,Scaffold,2019-06-25,SPDY01,3769,100428,Moschus_chrysogaster,Moschus_chrysogaster_MOSCHIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_006408485.1,BMJ,Muntiacus crinifrons,2681196170,Scaffold,2019-06-24,SJXS01,8265,1305444,Muntiacus_crinifrons,Muntiacus_crinifrons_CERVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_020226025.1,ASM2022602v1,Muntiacus gongshanensis,2475743641,Scaffold,2021-10-04,JAGTXU01,24226309,24473636,Muntiacus_gongshanensis,Muntiacus_gongshanensis_CERVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_006409035.1,CMJ,Muntiacus muntjak,2703710594,Scaffold,2019-06-24,SJXU01,23470,1258210,Muntiacus_muntjak,Muntiacus_muntjak_CERVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_006408525.1,CIJ,Muntiacus reevesi,2601888952,Scaffold,2019-06-24,SJXT01,72382,1221377,Muntiacus_reevesi,Muntiacus_reevesi_CERVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_904810545.1,ERS5079527 MarsupialExonCaptKit,Murexia habbema,956221,Contig,2021-09-24,CAJGHW01,595,NA,Murexia_habbema,Murexia_habbema_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904811165.1,ERS5079578 MarsupialExonCaptKit,Murexia longicaudata,2172413,Contig,2021-09-24,CAJGJQ01,1126,NA,Murexia_longicaudata,Murexia_longicaudata_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810885.1,ERS5079550 MarsupialExonCaptKit,Murexia melanurus,1740698,Contig,2021-09-24,CAJGIQ01,944,NA,Murexia_melanurus,Murexia_melanurus_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810575.1,ERS5079529 MarsupialExonCaptKit,Murexia naso,2291932,Contig,2021-09-24,CAJGIE01,1272,NA,Murexia_naso,Murexia_naso_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810855.1,ERS5079551 MarsupialExonCaptKit,Murexia rothschildi,884116,Contig,2021-09-24,CAJGIO01,542,NA,Murexia_rothschildi,Murexia_rothschildi_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_902729475.2,Mus_minutoides_I6164_v1,Mus minutoides,2672390815,Scaffold,2020-09-25,CACVCK01,74168,6564238,Mus_minutoides,Mus_minutoides_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_003336285.1,MUSP714,Mus spicilegus,2496083520,Scaffold,2018-07-23,QGOO01,30918,2198966,Mus_spicilegus,Mus_spicilegus_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_009829155.1,mMusErm1.Pri,Mustela erminea,2445200799,Chromosome,2020-01-03,WNLY01,36329944,130149454,Mustela_erminea,Mustela_erminea_MUSTELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_022355385.1,MUSNIG.SB6536,Mustela nigripes,2498532951,Chromosome,2022-02-24,JABTCS01,148763,145433501,Mustela_nigripes,Mustela_nigripes_MUSTELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_019141135.1,MusNiv_alt1.0,Mustela nivalis,2500964999,Scaffold,2021-07-06,JAGENC01,195311,24868770,Mustela_nivalis,Mustela_nivalis_MUSTELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_001305785.1,ASM130578v1,Myodes glareolus,3443072068,Scaffold,2015-10-02,LIPI01,1591,364535,Myodes_glareolus,Myodes_glareolus_CRICETIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_904813865.1,ERS5079850 MarsupialExonCaptKit,Myoictis leucura,1794581,Contig,2021-09-24,CAJGSO01,934,NA,Myoictis_leucura,Myoictis_leucura_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810995.1,ERS5079580 MarsupialExonCaptKit,Myoictis melas,2116691,Contig,2021-09-24,CAJGJJ01,1142,NA,Myoictis_melas,Myoictis_melas_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813925.1,ERS5079858 MarsupialExonCaptKit,Myoictis wallacei,1607620,Contig,2021-09-24,CAJGSY01,847,NA,Myoictis_wallacei,Myoictis_wallacei_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813975.1,ERS5079861 MarsupialExonCaptKit,Myoictis wavicus,1688108,Contig,2021-09-24,CAJGTB01,887,NA,Myoictis_wavicus,Myoictis_wavicus_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813275.1,ERS5079787 MarsupialExonCaptKit,Myrmecobius fasciatus,2299952,Contig,2021-09-24,CAJGQI01,1151,NA,Myrmecobius_fasciatus,Myrmecobius_fasciatus_MYRMECOBIIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_917880005.1,ORGONE_02,Nanger dama,2695171530,Scaffold,2021-11-18,CAKJTW01,37125998,37125998,Nanger_dama,Nanger_dama_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_006408635.1,GTG,Nanger granti,3032779593,Scaffold,2019-06-24,SJYD01,7454,528456,Nanger_granti,Nanger_granti_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_027422475.1,ASM2742247v1,Neofelis diardi,2402909801,Scaffold,2022-12-27,JAPTHY01,49020,1386763,Neofelis_diardi,Neofelis_diardi_FELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_027422525.1,ASM2742252v1,Neofelis nebulosa,2412500541,Scaffold,2022-12-27,JAPTHZ01,76652,1367838,Neofelis_nebulosa,Neofelis_nebulosa_FELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_904810695.1,ERS5079528 MarsupialExonCaptKit,Neophascogale lorentzii,1394603,Contig,2021-09-24,CAJGHY01,941,NA,Neophascogale_lorentzii,Neophascogale_lorentzii_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_001675575.1,ASM167557v1,Neotoma lepida,2353855022,Scaffold,2016-06-23,LZPO01,9584,151693,Neotoma_lepida,Neotoma_lepida_CRICETIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_006410875.1,RAL,Neotragus pygmaeus,2895867692,Scaffold,2019-06-24,SJYV01,30751,363895,Neotragus_pygmaeus,Neotragus_pygmaeus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_900108605.1,NNQGG.v01,Neogale vison,2447189291,Scaffold,2018-01-02,FNWR01,32336,6814223,Neogale_vison,Neovison_vison_MUSTELIDAE_CARNIVORA,0,1,Genus synonym,https://www.mammaldiversity.org/explore.html#genus=Neogale&species=vison&id=1005879,NA
+GCA_006410615.1,SUN,Neotragus moschatus,2675729750,Scaffold,2019-06-24,SJYA01,59277,952090,Neotragus_moschatus,Nesotragus_moschatus_BOVIDAE_CETARTIODACTYLA,0,1,Genus synonym,https://www.mammaldiversity.org/explore.html#genus=Nesotragus&species=moschatus&id=1006243,NA
+GCA_904812055.1,ERS5079568 MarsupialExonCaptKit,Ningaui ridei,606369,Contig,2021-09-24,CAJGNE01,508,NA,Ningaui_ridei,Ningaui_ridei_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810535.1,ERS5079530 MarsupialExonCaptKit,Ningaui timealeyi,535066,Contig,2021-09-24,CAJGHV01,392,NA,Ningaui_timealeyi,Ningaui_timealeyi_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813685.1,ERS5079832 MarsupialExonCaptKit,Ningaui yvonnae,1543096,Contig,2021-09-24,CAJGRX01,916,NA,Ningaui_yvonnae,Ningaui_yvonneae_DASYURIDAE_DASYUROMORPHIA,0,1,Spelling change,https://www.mammaldiversity.org/explore.html#genus=Ningaui&species=yvonneae&id=1000198,NA
+GCA_023783065.1,ASM2378306v1,Nomascus siki,2783093170,Scaffold,2022-06-17,JAKFHL01,8523852,19995890,Nomascus_siki,Nomascus_siki_HYLOBATIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_904811115.1,ERS5079589 MarsupialExonCaptKit,Notoryctes caurinus,1442232,Contig,2021-09-24,CAJGJY01,805,NA,Notoryctes_caurinus,Notoryctes_caurinus_NOTORYCTIDAE_NOTORYCTEMORPHIA,0,0,NA,NA,NA
+GCA_904813125.1,ERS5079776 MarsupialExonCaptKit,Notoryctes typhlops,1941517,Contig,2021-09-24,CAJGPS01,1045,NA,Notoryctes_typhlops,Notoryctes_typhlops_NOTORYCTIDAE_NOTORYCTEMORPHIA,0,0,NA,NA,NA
+GCA_905146905.1,NYPRO_anot_genome,Nyctereutes procyonoides,2387080870,Scaffold,2021-02-14,CAJHUB01,35077230,53959811,Nyctereutes_procyonoides,Nyctereutes_procyonoides_CANIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_023898255.1,ASM2389825v1,Nycticebus bengalensis,2856254458,Chromosome,2022-06-27,JAKFHK01,19794679,128767214,Nycticebus_bengalensis,Nycticebus_bengalensis_LORISIDAE_PRIMATES,0,0,NA,NA,NA
+GCF_017591425.1,NIBS_Ocur_1.0,Ochotona curzoniae,2086111946,Scaffold,2021-03-26,JAADBW01,29562832,33876933,Ochotona_curzoniae,Ochotona_curzoniae_OCHOTONIDAE_LAGOMORPHA,0,0,NA,NA,NA
+GCA_002564305.1,Oct_mimax_AO248_v1,Octomys mimax,2591288717,Scaffold,2017-10-17,NDGM01,4478,4874,Octomys_mimax,Octomys_mimax_OCTODONTIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_020976825.1,BYU_Ohem_2021,Odocoileus hemionus,2609301826,Chromosome,2021-11-30,JAJLRB01,28570879,72140960,Odocoileus_hemionus,Odocoileus_hemionus_CERVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_904813405.1,ERS5079804 MarsupialExonCaptKit,Onychogalea fraenata,1879257,Contig,2021-09-24,CAJGQV01,1031,NA,Onychogalea_fraenata,Onychogalea_fraenata_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904810985.1,ERS5079579 MarsupialExonCaptKit,Onychogalea unguifera,2278738,Contig,2021-09-24,CAJGJI01,1165,NA,Onychogalea_unguifera,Onychogalea_unguifera_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_009758055.1,ASM975805v1,Oreamnos americanus,2506012843,Scaffold,2019-12-16,WJNR01,24510,66616962,Oreamnos_americanus,Oreamnos_americanus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_006410675.1,KSP,Oreotragus oreotragus,3247632364,Scaffold,2019-06-24,SJYX01,42127,339390,Oreotragus_oreotragus,Oreotragus_oreotragus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_000002275.2,ASM227v2,Ornithorhynchus anatinus,1996809494,Chromosome,2007-02-14,AAPN01,11544,991605,Ornithorhynchus_anatinus,Ornithorhynchus_anatinus_ORNITHORHYNCHIDAE_MONOTREMATA,0,0,NA,NA,NA
+GCA_014754425.2,SCBI_Odam_1.1,Oryx dammah,2707165964,Scaffold,2020-09-25,JABAEV01,374342,100398400,Oryx_dammah,Oryx_dammah_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_003945745.1,UCDavis_Ogaz_1,Oryx gazella,2762920344,Scaffold,2018-12-14,RAWW01,19498,1579191,Oryx_gazella,Oryx_gazella_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_017311455.1,Otocyon_megalotis_TS305_17_09_2019,Otocyon megalotis megalotis,2374659532,Scaffold,2021-03-09,JAEUCK01,718012,728073,Otocyon_megalotis_megalotis,Otocyon_megalotis_CANIDAE_CARNIVORA,0,1,Subspecies synonym,NA,NA
+GCA_006417275.1,ORB,Ourebia ourebi,2524866914,Scaffold,2019-06-24,SJXZ01,1259,1259,Ourebia_ourebi,Ourebia_ourebi_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_021462335.1,ASM2146233v1,Ovibos moschatus,2615815021,Scaffold,2022-01-13,JAJUWZ01,843055,46819416,Ovibos_moschatus,Ovibos_moschatus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_003121645.1,O_ammon_KGZ_v1.0,Ovis ammon,2643433589,Scaffold,2018-05-11,NIWH01,151569,72289505,Ovis_ammon,Ovis_ammon_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_903231385.1,OvNiv1.0,Ovis nivicola lydekkeri,2618977458,Scaffold,2020-06-16,CAFBRR01,1765443,2011554,Ovis_nivicola_lydekkeri,Ovis_nivicola_BOVIDAE_CETARTIODACTYLA,0,1,Subspecies synonym,NA,NA
+GCA_014523465.1,CAU_Oori_1.0,Ovis orientalis,2652567896,Chromosome,2020-09-11,JACSDQ01,42163491,103690580,Ovis_orientalis,Ovis_orientalis_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_008795835.1,PanLeo1.0,Panthera leo,2406807619,Chromosome,2019-10-07,VOCV01,286703,136051765,Panthera_leo,Panthera_leo_FELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_023721935.1,Puncia_PCG_1.0,Panthera uncia,2433972596,Chromosome,2022-06-16,JAJAOB01,179517,112063229,Panthera_uncia,Panthera_uncia_FELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_023781915.1,ASM2378191v1,Papio hamadryas,3054335410,Contig,2022-06-17,JAKFHJ01,24989958,NA,Papio_hamadryas,Papio_hamadryas_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_904810715.1,ERS5079534 MarsupialExonCaptKit,Parantechinus apicalis,507974,Contig,2021-09-24,CAJGIA01,405,NA,Parantechinus_apicalis,Parantechinus_apicalis_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810595.1,ERS5079518 MarsupialExonCaptKit,Perameles bougainville,1314739,Contig,2021-09-24,CAJGIG01,903,NA,Perameles_bougainville,Perameles_bougainville_PERAMELIDAE_PERAMELEMORPHIA,0,0,NA,NA,NA
+GCA_904813075.1,ERS5079772 MarsupialExonCaptKit,Perameles gunnii,2179313,Contig,2021-09-24,CAJGPO01,1157,NA,Perameles_gunnii,Perameles_gunnii_PERAMELIDAE_PERAMELEMORPHIA,0,0,NA,NA,NA
+GCA_904813225.1,ERS5079786 MarsupialExonCaptKit,Perameles nasuta,2118531,Contig,2021-09-24,CAJGQD01,1238,NA,Perameles_nasuta,Perameles_nasuta_PERAMELIDAE_PERAMELEMORPHIA,0,0,NA,NA,NA
+GCA_902168425.1,Patt_10x_v1,Peromyscus attwateri,2494792707,Scaffold,2019-08-20,CABHPP01,20477,40046,Peromyscus_attwateri,Peromyscus_attwateri_CRICETIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_902168405.1,Pazt_10x_v1,Peromyscus aztecus,2488400533,Scaffold,2019-08-22,CABHPQ01,19239,34920,Peromyscus_aztecus,Peromyscus_aztecus_CRICETIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_007827085.3,ASM782708v3,Peromyscus californicus insignis,2467923528,Scaffold,2022-04-27,VALE03,8224858,115047232,Peromyscus_californicus_insignis,Peromyscus_californicus_CRICETIDAE_RODENTIA,0,1,Subspecies synonym,NA,NA
+GCA_902702925.1,Peer1.7.4,Peromyscus eremicus,2713541378,Scaffold,2019-11-26,CACRXM01,64291,119957392,Peromyscus_eremicus,Peromyscus_eremicus_CRICETIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_004664715.2,UCI_PerLeu_2.1,Peromyscus leucopus,2475164510,Chromosome,2020-10-02,NMRJ02,3487364,114273790,Peromyscus_leucopus,Peromyscus_leucopus_CRICETIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_902168415.1,Pmel_10x_v1,Peromyscus melanophrys,2403713740,Scaffold,2019-08-20,CABHPR01,15784,32296,Peromyscus_melanophrys,Peromyscus_melanophrys_CRICETIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_902168325.1,Pnud_10x_v1,Peromyscus nudipes,2440382953,Scaffold,2019-08-20,CABHPH01,19831,38248,Peromyscus_nudipes,Peromyscus_mexicanus_CRICETIDAE_RODENTIA,0,1,"Species synonym, but now correct as split",https://www.mammaldiversity.org/explore.html#genus=Peromyscus&species=nudipes&id=1002320,NA
+GCA_003704135.2,HU_Ppol_1.3.3,Peromyscus polionotus subgriseus,2645110392,Chromosome,2019-04-26,RCWS02,13217,117603569,Peromyscus_polionotus_subgriseus,Peromyscus_polionotus_CRICETIDAE_RODENTIA,0,1,Subspecies synonym,NA,NA
+GCA_904813055.1,ERS5079768 MarsupialExonCaptKit,Peroryctes raffrayana,1976065,Contig,2021-09-24,CAJGPM01,1094,NA,Peroryctes_raffrayana,Peroryctes_raffrayana_PERAMELIDAE_PERAMELEMORPHIA,0,0,NA,NA,NA
+GCA_904813455.1,ERS5079808 MarsupialExonCaptKit,Petauroides volans,2220189,Contig,2021-09-24,CAJGRA01,1120,NA,Petauroides_volans,Petauroides_volans_PSEUDOCHEIRIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904811125.1,ERS5079577 MarsupialExonCaptKit,Petaurus abidi,2185437,Contig,2021-09-24,CAJGJR01,1126,NA,Petaurus_abidi,Petaurus_abidi_PETAURIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904814245.1,ERS5079890 MarsupialExonCaptKit,Petaurus australis,1084391,Contig,2021-09-24,CAJGUD01,638,NA,Petaurus_australis,Petaurus_australis_PETAURIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904810845.1,ERS5079552 MarsupialExonCaptKit,Petaurus breviceps,994581,Contig,2021-09-24,CAJGIZ01,534,NA,Petaurus_breviceps,Petaurus_breviceps_PETAURIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904813745.1,ERS5079837 MarsupialExonCaptKit,Petaurus norfolcensis,1479187,Contig,2021-09-24,CAJGSH01,771,NA,Petaurus_norfolcensis,Petaurus_norfolcensis_PETAURIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904812595.1,ERS5079733 MarsupialExonCaptKit,Petrogale brachyotis victoriae,2252051,Contig,2021-01-28,CAJGOW01,1117,NA,Petrogale_brachyotis_victoriae,Petrogale_brachyotis_MACROPODIDAE_DIPROTODONTIA,0,1,Subspecies synonym,NA,NA
+GCA_904812605.1,ERS5079725 MarsupialExonCaptKit,Petrogale coenensis,2496131,Contig,2021-09-24,CAJGOX01,1241,NA,Petrogale_coenensis,Petrogale_coenensis_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904812235.1,ERS5079690 MarsupialExonCaptKit,Petrogale concinna monastria,2361957,Contig,2021-01-28,CAJGOJ01,1170,NA,Petrogale_concinna_monastria,Petrogale_concinna_MACROPODIDAE_DIPROTODONTIA,0,1,Subspecies synonym,NA,NA
+GCA_904812675.1,ERS5079727 MarsupialExonCaptKit,Petrogale godmani,2489831,Contig,2021-09-24,CAJGOU01,1227,NA,Petrogale_godmani,Petrogale_godmani_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904812525.1,ERS5079722 MarsupialExonCaptKit,Petrogale inornata,2373163,Contig,2021-09-24,CAJGOS01,1184,NA,Petrogale_inornata,Petrogale_inornata_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_913248055.1,ERZ1641775,Petrogale lateralis pearsoni,2273257,Contig,2021-08-20,CAJYCG01,1115,NA,Petrogale_lateralis_pearsoni,Petrogale_lateralis_MACROPODIDAE_DIPROTODONTIA,0,1,Subspecies synonym,NA,NA
+GCA_904812495.1,ERS5079714 MarsupialExonCaptKit,Petrogale mareeba,2308187,Contig,2021-09-24,CAJGOP01,1150,NA,Petrogale_mareeba,Petrogale_mareeba_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904812475.1,ERS5079709 MarsupialExonCaptKit,Petrogale persephone,2316556,Contig,2021-09-24,CAJGOQ01,1146,NA,Petrogale_persephone,Petrogale_persephone_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904812335.1,ERS5079697 MarsupialExonCaptKit,Petrogale purpureicollis,2385124,Contig,2021-09-24,CAJGOL01,1178,NA,Petrogale_purpureicollis,Petrogale_purpureicollis_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904812265.1,ERS5079692 MarsupialExonCaptKit,Petrogale rothschildi,2433757,Contig,2021-09-24,CAJGOE01,1200,NA,Petrogale_rothschildi,Petrogale_rothschildi_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904812505.1,ERS5079715 MarsupialExonCaptKit,Petrogale sharmani,2254755,Contig,2021-09-24,CAJGOO01,1118,NA,Petrogale_sharmani,Petrogale_sharmani_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904812225.1,ERS5079695 MarsupialExonCaptKit,Petrogale xanthopus xanthopus,2405472,Contig,2021-01-28,CAJGOB01,1180,NA,Petrogale_xanthopus_xanthopus,Petrogale_xanthopus_MACROPODIDAE_DIPROTODONTIA,0,1,Subspecies synonym,NA,NA
+GCA_904810825.1,ERS5079547 MarsupialExonCaptKit,Petropseudes dahli,1573554,Contig,2021-09-24,CAJGJA01,1021,NA,Petropseudes_dahli,Petropseudes_dahli_PSEUDOCHEIRIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_016906955.1,ROS_Pafr_v1,Phacochoerus africanus,2435083091,Chromosome,2021-02-19,JACMRZ01,10602503,141887063,Phacochoerus_africanus,Phacochoerus_africanus_SUIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_904813505.1,ERS5079815 MarsupialExonCaptKit,Phalanger carmelitae,2521790,Contig,2021-09-24,CAJGRJ01,1269,NA,Phalanger_carmelitae,Phalanger_carmelitae_PHALANGERIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904810815.1,ERS5079543 MarsupialExonCaptKit,Phalanger gymnotis,602116,Contig,2021-09-24,CAJGIY01,478,NA,Phalanger_gymnotis,Phalanger_gymnotis_PHALANGERIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904814195.1,ERS5079883 MarsupialExonCaptKit,Phalanger lullulae,1054838,Contig,2021-09-24,CAJGTW01,594,NA,Phalanger_lullulae,Phalanger_lullulae_PHALANGERIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904813025.1,ERS5079766 MarsupialExonCaptKit,Phalanger orientalis,2335628,Contig,2021-09-24,CAJGPJ01,1185,NA,Phalanger_orientalis,Phalanger_orientalis_PHALANGERIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904814185.1,ERS5079882 MarsupialExonCaptKit,Phalanger sericeus,644975,Contig,2021-09-24,CAJGTV01,609,NA,Phalanger_sericeus,Phalanger_sericeus_PHALANGERIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904813955.1,ERS5079854 MarsupialExonCaptKit,Phalanger vestitus,1568732,Contig,2021-09-24,CAJGSU01,833,NA,Phalanger_vestitus,Phalanger_vestitus_PHALANGERIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904813325.1,ERS5079796 MarsupialExonCaptKit,Phascogale calura,2605760,Contig,2021-09-24,CAJGQK01,1351,NA,Phascogale_calura,Phascogale_calura_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813255.1,ERS5079789 MarsupialExonCaptKit,Phascogale tapoatafa,2405033,Contig,2021-09-24,CAJGQH01,1241,NA,Phascogale_tapoatafa,Phascogale_tapoatafa_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_002099425.1,phaCin_unsw_v4.1,Phascolarctos cinereus,3192565135,Contig,2017-04-18,MSTS01,11587828,NA,Phascolarctos_cinereus,Phascolarctos_cinereus_PHASCOLARCTIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904810645.1,ERS5079525 MarsupialExonCaptKit,Phascolosorex dorsalis,554327,Contig,2021-09-24,CAJGHT01,427,NA,Phascolosorex_dorsalis,Phascolosorex_dorsalis_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_006410695.1,MXD,Philantomba maxwellii,3145938691,Scaffold,2019-06-24,SJYS01,11377,383899,Philantomba_maxwellii,Philantomba_maxwellii_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_004348235.1,GSC_HSeal_1.0,Phoca vitulina,2363579318,Scaffold,2019-02-11,RXNX01,283887,41024070,Phoca_vitulina,Phoca_vitulina_PHOCIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_008692045.1,mPhoSin1.alt,Phocoena sinus,995426950,Scaffold,2019-09-24,VOSV01,137866,137866,Phocoena_sinus,Phocoena_sinus_PHOCOENIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_943737965.1,PHOROB,Phodopus roborovskii,2384223288,Contig,2022-07-01,CALSGD01,25775705,NA,Phodopus_roborovskii,Phodopus_roborovskii_CRICETIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_001707965.1,Psun0.5,Phodopus sungorus,2003225912,Contig,2016-08-18,MCBN01,2392,NA,Phodopus_sungorus,Phodopus_sungorus_CRICETIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_004115245.2,mPhyDis1.alti.v3,Phyllostomus discolor,2051656167,Scaffold,2020-05-11,RXPB02,931872,931872,Phyllostomus_discolor,Phyllostomus_discolor_PHYLLOSTOMIDAE_CHIROPTERA,0,0,NA,NA,NA
+GCA_019186645.2,TTU_PhHast_1.1,Phyllostomus hastatus,2089223459,Scaffold,2021-07-09,JAHKBD01,31525663,39158280,Phyllostomus_hastatus,Phyllostomus_hastatus_PHYLLOSTOMIDAE_CHIROPTERA,0,0,NA,NA,NA
+GCA_000472045.1,Physeter_macrocephalus-2.0.2,Physeter catodon,2280711356,Scaffold,2013-09-30,AWZP01,35258,427290,Physeter_catodon,Physeter_macrocephalus_PHYSETERIDAE_CETARTIODACTYLA,0,1,Species synonym (junior),https://www.mammaldiversity.org/explore.html#genus=Physeter&species=macrocephalus&id=1006461,NA
+GCF_014108245.1,mPipKuh1.p,Pipistrellus kuhlii,1775688541,Scaffold,2020-08-07,JACAGB01,10591995,80237350,Pipistrellus_kuhlii,Pipistrellus_kuhlii_VESPERTILIONIDAE_CHIROPTERA,0,0,NA,NA,NA
+GCA_904811035.1,ERS5079582 MarsupialExonCaptKit,Planigale gilesi,2155618,Contig,2021-09-24,CAJGKA01,1093,NA,Planigale_gilesi,Planigale_gilesi_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813785.1,ERS5079842 MarsupialExonCaptKit,Planigale ingrami,1611056,Contig,2021-09-24,CAJGSD01,882,NA,Planigale_ingrami,Planigale_ingrami_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904811815.1,ERS5079656 MarsupialExonCaptKit,Planigale maculata,1878484,Contig,2021-09-24,CAJGMN01,987,NA,Planigale_maculata,Planigale_maculata_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813295.1,ERS5079798 MarsupialExonCaptKit,Planigale tenuirostris,2334129,Contig,2021-09-24,CAJGQM01,1250,NA,Planigale_tenuirostris,Planigale_tenuirostris_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_900086635.1,NGS12,Pongo pygmaeus,136302887,Chromosome,2016-07-09,,17285,136302887,Pongo_pygmaeus,Pongo_pygmaeus_HOMINIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_904812075.1,ERS5079564 MarsupialExonCaptKit,Potorous longipes,596453,Contig,2021-09-24,CAJGNJ01,407,NA,Potorous_longipes,Potorous_longipes_POTOROIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904813305.1,ERS5079793 MarsupialExonCaptKit,Potorous tridactylus,2330508,Contig,2021-09-24,CAJGQO01,1187,NA,Potorous_tridactylus,Potorous_tridactylus_POTOROIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_015708855.1,Pflavus_platanus500,Potos flavus,2208169465,Scaffold,2020-12-01,JAABKN01,20854,3555714,Potos_flavus,Potos_flavus_PROCYONIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_019843815.1,ASM1984381v1,Praomys delectorum,2406247807,Scaffold,2021-09-01,JADRCD01,13907,22327,Praomys_delectorum,Praomys_delectorum_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_016509475.2,Fcat_Pben_1.1_paternal_pri,Prionailurus bengalensis,2435702060,Chromosome,2021-01-06,JADZGN01,82622880,148587958,Prionailurus_bengalensis,Prionailurus_bengalensis_FELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_018119265.1,PriViv1.0,Prionailurus viverrinus,2445563378,Scaffold,2021-04-21,JACGXT01,33715,3068410,Prionailurus_viverrinus,Prionailurus_viverrinus_FELIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_006410515.1,PLG,Procapra przewalskii,2692986855,Scaffold,2019-06-24,SJYF01,10405,5522907,Procapra_przewalskii,Procapra_przewalskii_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_015708975.1,Plotor_platanus500,Procyon lotor,2251262987,Scaffold,2020-12-01,JAABKC01,12040,1449398,Procyon_lotor,Procyon_lotor_PROCYONIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_003258685.1,Prosim_1.0,Prolemur simus,2411593676,Scaffold,2018-06-20,MPIZ01,47757,2710671,Prolemur_simus,Prolemur_simus_LEMURIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_017311185.1,Proteles_cristatus_TS307_19_07_2019,Proteles cristata cristata,2388965834,Scaffold,2021-03-09,JAESUZ01,1258344,1308801,Proteles_cristata_cristata,Proteles_cristata_HYAENIDAE_CARNIVORA,0,1,Subspecies synonym,NA,NA
+GCA_904812015.1,ERS5079567 MarsupialExonCaptKit,Pseudantechinus bilarni,2422447,Contig,2021-09-24,CAJGNM01,1240,NA,Pseudantechinus_bilarni,Pseudantechinus_bilarni_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810615.1,ERS5079523 MarsupialExonCaptKit,Pseudantechinus macdonnellensis,2072508,Contig,2021-09-24,CAJGID01,1135,NA,Pseudantechinus_macdonnellensis,Pseudantechinus_macdonnellensis_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813655.1,ERS5079829 MarsupialExonCaptKit,Pseudantechinus ningbing,1646918,Contig,2021-09-24,CAJGRU01,872,NA,Pseudantechinus_ningbing,Pseudantechinus_ningbing_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904814015.1,ERS5079864 MarsupialExonCaptKit,Pseudantechinus roryi,1724214,Contig,2021-09-24,CAJGTE01,926,NA,Pseudantechinus_roryi,Pseudantechinus_roryi_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810565.1,ERS5079532 MarsupialExonCaptKit,Pseudantechinus woolleyae,1025965,Contig,2021-09-24,CAJGIB01,621,NA,Pseudantechinus_woolleyae,Pseudantechinus_woolleyae_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813445.1,ERS5079810 MarsupialExonCaptKit,Pseudocheirus occidentalis,2200390,Contig,2021-09-24,CAJGRD01,1230,NA,Pseudocheirus_occidentalis,Pseudocheirus_occidentalis_PSEUDOCHEIRIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904813195.1,ERS5079783 MarsupialExonCaptKit,Pseudocheirus peregrinus,2232370,Contig,2021-09-24,CAJGPY01,1138,NA,Pseudocheirus_peregrinus,Pseudocheirus_peregrinus_PSEUDOCHEIRIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904810865.1,ERS5079542 MarsupialExonCaptKit,Pseudochirops albertisii,1601935,Contig,2021-09-24,CAJGIS01,927,NA,Pseudochirops_albertisii,Pseudochirops_albertisii_PSEUDOCHEIRIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904810905.1,ERS5079546 MarsupialExonCaptKit,Pseudochirops archeri,784658,Contig,2021-09-24,CAJGIP01,465,NA,Pseudochirops_archeri,Pseudochirops_archeri_PSEUDOCHEIRIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904813105.1,ERS5079770 MarsupialExonCaptKit,Pseudochirops corinnae,1513666,Contig,2021-09-24,CAJGPR01,911,NA,Pseudochirops_corinnae,Pseudochirops_corinnae_PSEUDOCHEIRIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904813895.1,ERS5079855 MarsupialExonCaptKit,Pseudochirops cupreus,1359315,Contig,2021-09-24,CAJGST01,722,NA,Pseudochirops_cupreus,Pseudochirops_cupreus_PSEUDOCHEIRIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904813875.1,ERS5079851 MarsupialExonCaptKit,Pseudochirulus canescens,1436948,Contig,2021-09-24,CAJGSR01,748,NA,Pseudochirulus_canescens,Pseudochirulus_canescens_PSEUDOCHEIRIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904814125.1,ERS5079877 MarsupialExonCaptKit,Pseudochirulus caroli,763420,Contig,2021-09-24,CAJGTN01,531,NA,Pseudochirulus_caroli,Pseudochirulus_caroli_PSEUDOCHEIRIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904813045.1,ERS5079767 MarsupialExonCaptKit,Pseudochirulus forbesi,2600256,Contig,2021-09-24,CAJGPK01,1316,NA,Pseudochirulus_forbesi,Pseudochirulus_forbesi_PSEUDOCHEIRIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904810725.1,ERS5079540 MarsupialExonCaptKit,Pseudochirulus herbertensis,1596017,Contig,2021-09-24,CAJGIJ01,989,NA,Pseudochirulus_herbertensis,Pseudochirulus_herbertensis_PSEUDOCHEIRIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_003182575.1,ASM318257v1,Pseudois nayaur,2584167189,Scaffold,2018-05-31,NIZD01,20979,21385,Pseudois_nayaur,Pseudois_nayaur_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_902729225.1,Ma_sr-lr_union100,Pteropus giganteus,1985219947,Scaffold,2020-04-15,CACVBW01,255763,18871253,Pteropus_giganteus,Pteropus_giganteus_PTEROPODIDAE_CHIROPTERA,0,0,NA,NA,NA
+GCA_014363405.1,P_pselaphon_scaffold_01,Pteropus pselaphon,1933220355,Scaffold,2020-08-23,BMBI01,394964,770409,Pteropus_pselaphon,Pteropus_pselaphon_PTEROPODIDAE_CHIROPTERA,0,0,NA,NA,NA
+GCA_023764695.1,ASM2376469v1,Pygathrix nigripes,2896204080,Contig,2022-06-17,JAKFHG01,14260291,NA,Pygathrix_nigripes,Pygathrix_nigripes_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_006410735.1,SNB,Raphicerus campestris,3137860433,Scaffold,2019-06-24,SJYW01,25050,537161,Raphicerus_campestris,Raphicerus_campestris_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_011064425.1,Rrattus_CSIRO_v1,Rattus rattus,2382770976,Chromosome,2020-03-04,JAAIVD01,1635336,158824752,Rattus_rattus,Rattus_rattus_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_006410935.1,BHR,Redunca redunca,2724978760,Scaffold,2019-06-24,SJYQ01,39282,423407,Redunca_redunca,Redunca_redunca_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_019844195.1,ASM1984419v1,Rhabdomys dilectus,2257796536,Scaffold,2021-09-01,JADRCG01,27270,2320431,Rhabdomys_dilectus,Rhabdomys_pumilio_MURIDAE_RODENTIA,0,1,"Species synonym, but now correct as split",https://www.mammaldiversity.org/explore.html#genus=Rhabdomys&species=dilectus&id=1003110,NA
+GCA_019022865.1,ASM1902286v1,Rhinoceros unicornis,2523368007,Scaffold,2021-06-24,JAFHKO01,139644,27289007,Rhinoceros_unicornis,Rhinoceros_unicornis_RHINOCEROTIDAE_PERISSODACTYLA,0,0,NA,NA,NA
+GCA_023764705.1,ASM2376470v1,Rhinopithecus strykeri,2934203727,Contig,2022-06-17,JAKFHF01,16766498,NA,Rhinopithecus_strykeri,Rhinopithecus_strykeri_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_010120015.1,ASM1012001v1,Rhombomys opimus,2376008858,Scaffold,2020-02-04,REGO01,56880,3610217,Rhombomys_opimus,Rhombomys_opimus_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_904812095.1,ERS5079572 MarsupialExonCaptKit,Rhynchomeles prattorum,1105538,Contig,2021-09-24,CAJGNQ01,626,NA,Rhynchomeles_prattorum,Rhynchomeles_prattorum_PERAMELIDAE_PERAMELEMORPHIA,0,0,NA,NA,NA
+GCA_019843965.1,ASM1984396v1,Rhynchomys soricoides,2183375489,Scaffold,2021-09-01,JADRCH01,79773,7860034,Rhynchomys_soricoides,Rhynchomys_soricoides_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_015472975.1,rouLes_1.0,Rousettus leschenaultii,1918041062,Scaffold,2020-10-30,BNJM01,40477,32720144,Rousettus_leschenaultii,Rousettus_leschenaultii_PTEROPODIDAE_CHIROPTERA,0,0,NA,NA,NA
+GCA_021498475.1,ASM2149847v1,Saguinus midas,2968536278,Chromosome,2022-01-19,JAKFGQ01,10987047,143273090,Saguinus_midas,Saguinus_midas_CALLITRICHIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_009761245.1,GSC_monkey_1.0,Sapajus apella,2729201088,Scaffold,2019-12-17,WRPQ01,144042,23742480,Sapajus_apella,Sapajus_apella_CEBIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_000189315.1,Devil_ref v7.0,Sarcophilus harrisii,3174693010,Scaffold,2011-02-17,AEFK01,20139,1847106,Sarcophilus_harrisii,Sarcophilus_harrisii_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_902685475.1,mSciCar1.1 alternate haplotype,Sciurus carolinensis,2057949030,Scaffold,2019-11-26,CACRXG01,492513,492513,Sciurus_carolinensis,Sciurus_carolinensis_SCIURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_020740815.1,VCOM_Snig_1.0,Sciurus niger,2985236946,Scaffold,2021-11-04,JAHUXG01,182340,183784,Sciurus_niger,Sciurus_niger_SCIURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_902685485.1,mSciVul1.1 alternate haplotype,Sciurus vulgaris,1366022868,Scaffold,2019-11-26,CACRXH01,192948,193053,Sciurus_vulgaris,Sciurus_vulgaris_SCIURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_904810585.1,ERS5079901 MarsupialExonCaptKit,Setonix brachyurus,1371286,Contig,2021-09-24,CAJGHQ01,776,NA,Setonix_brachyurus,Setonix_brachyurus_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904814065.1,ERS5079870 MarsupialExonCaptKit,Sminthopsis aitkeni,1756631,Contig,2021-09-24,CAJGTK01,924,NA,Sminthopsis_aitkeni,Sminthopsis_aitkeni_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813735.1,ERS5079839 MarsupialExonCaptKit,Sminthopsis bindi,1770044,Contig,2021-09-24,CAJGSA01,930,NA,Sminthopsis_bindi,Sminthopsis_bindi_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810895.1,ERS5079554 MarsupialExonCaptKit,Sminthopsis crassicaudata,957341,Contig,2021-09-24,CAJGIX01,580,NA,Sminthopsis_crassicaudata,Sminthopsis_crassicaudata_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904814115.1,ERS5079875 MarsupialExonCaptKit,Sminthopsis dolichura,1562285,Contig,2021-09-24,CAJGTR01,836,NA,Sminthopsis_dolichura,Sminthopsis_dolichura_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904814045.1,ERS5079868 MarsupialExonCaptKit,Sminthopsis gilberti,1433797,Contig,2021-09-24,CAJGTH01,781,NA,Sminthopsis_gilberti,Sminthopsis_gilberti_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813645.1,ERS5079828 MarsupialExonCaptKit,Sminthopsis granulipes,1588824,Contig,2021-09-24,CAJGRS01,844,NA,Sminthopsis_granulipes,Sminthopsis_granulipes_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810975.1,ERS5079560 MarsupialExonCaptKit,Sminthopsis griseoventer,877635,Contig,2021-09-24,CAJGJG01,544,NA,Sminthopsis_griseoventer,Sminthopsis_griseoventer_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810655.1,ERS5079524 MarsupialExonCaptKit,Sminthopsis hirtipes,459759,Contig,2021-09-24,CAJGHP01,504,NA,Sminthopsis_hirtipes,Sminthopsis_hirtipes_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813665.1,ERS5079831 MarsupialExonCaptKit,Sminthopsis leucopus,1776034,Contig,2021-09-24,CAJGRV01,937,NA,Sminthopsis_leucopus,Sminthopsis_leucopus_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810755.1,ERS5079536 MarsupialExonCaptKit,Sminthopsis longicaudata,1980396,Contig,2021-09-24,CAJGIL01,1210,NA,Sminthopsis_longicaudata,Sminthopsis_longicaudata_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813265.1,ERS5079791 MarsupialExonCaptKit,Sminthopsis macroura,2458978,Contig,2021-09-24,CAJGQE01,1248,NA,Sminthopsis_macroura,Sminthopsis_macroura_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813715.1,ERS5079841 MarsupialExonCaptKit,Sminthopsis murina,1655069,Contig,2021-09-24,CAJGSG01,896,NA,Sminthopsis_murina,Sminthopsis_murina_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810625.1,ERS5079520 MarsupialExonCaptKit,Sminthopsis ooldea,2066147,Contig,2021-09-24,CAJGHX01,1149,NA,Sminthopsis_ooldea,Sminthopsis_ooldea_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904810705.1,ERS5079533 MarsupialExonCaptKit,Sminthopsis psammophila,2143548,Contig,2021-09-24,CAJGHR01,1203,NA,Sminthopsis_psammophila,Sminthopsis_psammophila_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813775.1,ERS5079840 MarsupialExonCaptKit,Sminthopsis virginiae,1366484,Contig,2021-09-24,CAJGSB01,817,NA,Sminthopsis_virginiae,Sminthopsis_virginiae_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904813815.1,ERS5079845 MarsupialExonCaptKit,Sminthopsis youngsoni,1730768,Contig,2021-09-24,CAJGSK01,919,NA,Sminthopsis_youngsoni,Sminthopsis_youngsoni_DASYURIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_026122425.1,SC2_V1,Sorex cinereus,2283226199,Scaffold,2022-11-10,JAOANZ01,52203,2625934,Sorex_cinereus,Sorex_cinereus_SORICIDAE_EULIPOTYPHLA,0,0,NA,NA,NA
+GCA_003521335.2,S_chinensis_fine_genome_map,Sousa chinensis,2339085850,Scaffold,2019-02-01,QWLN02,182701,9008636,Sousa_chinensis,Sousa_chinensis_DELPHINIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_023170115.1,Speothos_venaticus_v01,Speothos venaticus,2317707308,Scaffold,2022-04-01,BLYH01,39174,111912,Speothos_venaticus,Speothos_venaticus_CANIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_904812975.1,ERS5079765 MarsupialExonCaptKit,Spilocuscus maculatus,2346755,Contig,2021-09-24,CAJGPE01,1216,NA,Spilocuscus_maculatus,Spilocuscus_maculatus_PHALANGERIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904813855.1,ERS5079848 MarsupialExonCaptKit,Spilocuscus rufoniger,1306991,Contig,2021-09-24,CAJGSP01,695,NA,Spilocuscus_rufoniger,Spilocuscus_rufoniger_PHALANGERIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_023159085.1,UWYO_SpInte_0.1,Spilogale interrupta,2367125822,Contig,2022-04-27,JAKZGT01,16718385,NA,Spilogale_interrupta,Spilogale_putorius_MEPHITIDAE_CARNIVORA,0,1,"Species synonym, but now correct as split",https://www.mammaldiversity.org/explore.html#genus=Spilogale&species=interrupta&id=1006600,NA
+GCA_904812005.1,ERS5079569 MarsupialExonCaptKit,Strigocuscus celebensis,1339181,Contig,2021-09-24,CAJGNP01,853,NA,Strigocuscus_celebensis,Strigocuscus_celebensis_PHALANGERIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904813245.1,ERS5079788 MarsupialExonCaptKit,Strigocuscus pelengensis,2099428,Contig,2021-09-24,CAJGQF01,1061,NA,Strigocuscus_pelengensis,Strigocuscus_pelengensis_PHALANGERIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_014824575.2,WHU_Shon_v2.1,Sturnira hondurensis,2096623354,Scaffold,2020-09-30,VSFL01,2136421,10164808,Sturnira_hondurensis,Sturnira_hondurensis_PHYLLOSTOMIDAE_CHIROPTERA,0,0,NA,NA,NA
+GCA_024140225.1,mSunEtr1.alt.cur,Suncus etruscus,1515382512,Scaffold,2022-07-05,JAMYDY01,140198,140719,Suncus_etruscus,Suncus_etruscus_SORICIDAE_EULIPOTYPHLA,0,0,NA,NA,NA
+GCA_905335845.1,Sus_cebifrons.v1,Sus cebifrons,2459270091,Scaffold,2022-09-22,CAJOYB01,159795,141782568,Sus_cebifrons,Sus_cebifrons_SUIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_006408735.1,CMD,Sylvicapra grimmia,3145094493,Scaffold,2019-06-24,SJYH01,9720,583330,Sylvicapra_grimmia,Sylvicapra_grimmia_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_015711505.1,Sylvilagus_bachmani_HiC,Sylvilagus bachmani,2686379823,Chromosome,2020-12-04,JADBBT01,58367,110456461,Sylvilagus_bachmani,Sylvilagus_bachmani_LEPORIDAE_LAGOMORPHA,0,0,NA,NA,NA
+GCA_023761135.1,ASM2376113v1,Symphalangus syndactylus,2774050050,Scaffold,2022-06-17,JAKFHD01,13408629,13408629,Symphalangus_syndactylus,Symphalangus_syndactylus_HYLOBATIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_902500845.1,africanbuffalo,Syncerus caffer,2652966730,Scaffold,2019-11-26,CABVSG01,2018310,69160875,Syncerus_caffer,Syncerus_caffer_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_015598185.1,mTacAcu1,Tachyglossus aculeatus,2168405530,Chromosome,2020-11-19,JADPHF01,25012,38566698,Tachyglossus_aculeatus,Tachyglossus_aculeatus_TACHYGLOSSIDAE_MONOTREMATA,0,0,NA,NA,NA
+GCA_014898055.1,MPIMG_talOcc4,Talpa occidentalis,2098003508,Scaffold,2020-10-19,RCFO01,2611711,119794413,Talpa_occidentalis,Talpa_occidentalis_TALPIDAE_EULIPOTYPHLA,0,0,NA,NA,NA
+GCA_025594165.1,ASM2559416v1,Tamias sibiricus,2643750606,Chromosome,2022-10-06,JAKELJ01,9422552,172614981,Tamias_sibiricus,Tamias_sibiricus_SCIURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_904813485.1,ERS5079811 MarsupialExonCaptKit,Tarsipes rostratus,1902276,Contig,2021-09-24,CAJGRB01,992,NA,Tarsipes_rostratus,Tarsipes_rostratus_TARSIPEDIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_027257055.1,ASM2725705v1,Cephalopachus bancanus,2940222822,Contig,2022-12-23,JAPVLO01,5252243,NA,Cephalopachus_bancanus,Tarsius_bancanus_TARSIIDAE_PRIMATES,0,1,Genus synonym,https://www.mammaldiversity.org/explore.html#genus=Cephalopachus&species=bancanus&id=1000916,NA
+GCA_000164805.2,Tarsius_syrichta-2.0.1,Carlito syrichta,3453847770,Scaffold,2013-09-18,ABRT02,38165,401181,Carlito_syrichta,Tarsius_syrichta_TARSIIDAE_PRIMATES,0,1,Genus synonym,https://www.mammaldiversity.org/explore.html#genus=Carlito&species=syrichta&id=1000915,NA
+GCA_003697995.1,ASM369799v1,Taxidea taxus jeffersonii,2416005247,Scaffold,2018-10-30,RCUC01,37750,54556,Taxidea_taxus_jeffersonii,Taxidea_taxus_MUSTELIDAE_CARNIVORA,0,1,Subspecies synonym,NA,NA
+GCA_003255815.1,Tgel_1.0,Theropithecus gelada,2889614139,Chromosome,2018-06-19,QGDE01,310061,130230028,Theropithecus_gelada,Theropithecus_gelada_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_024803775.1,mThoBot1.0.a,Thomomys bottae,3469049410,Scaffold,2022-08-31,JANJXW01,11283157,19408772,Thomomys_bottae,Thomomys_bottae_GEOMYIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_007646695.3,UniMelb_ThyCyn2.0_hybrid_assembly,Thylacinus cynocephalus,3376725167,Chromosome,2022-04-04,VAHE03,15023,629085701,Thylacinus_cynocephalus,Thylacinus_cynocephalus_THYLACINIDAE_DASYUROMORPHIA,0,0,NA,NA,NA
+GCA_904811155.1,ERS5079583 MarsupialExonCaptKit,Thylogale billardierii,2296779,Contig,2021-09-24,CAJGJT01,1193,NA,Thylogale_billardierii,Thylogale_billardierii_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904813725.1,ERS5079833 MarsupialExonCaptKit,Thylogale browni,601095,Contig,2021-09-24,CAJGRY01,606,NA,Thylogale_browni,Thylogale_browni_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_027943515.1,T_osimensis_1.0,Tokudaia osimensis,2437800474,Scaffold,2022-11-01,BPMZ01,52400,10966626,Tokudaia_osimensis,Tokudaia_osimensis_MURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_009764315.1,Tfra_2.0,Trachypithecus francoisi,2875554650,Scaffold,2019-12-18,VVIV01,16182741,130977661,Trachypithecus_francoisi,Trachypithecus_francoisi_CERCOPITHECIDAE_PRIMATES,0,0,NA,NA,NA
+GCA_023762245.1,ASM2376224v1,Trachypithecus phayrei crepuscula,2870799684,Contig,2022-06-17,JAKFHC01,14781066,NA,Trachypithecus_phayrei_crepuscula,Trachypithecus_phayrei_CERCOPITHECIDAE_PRIMATES,0,1,Subspecies synonym,NA,NA
+GCA_006411685.1,MTN,Tragelaphus buxtoni,3267488234,Scaffold,2019-06-24,SJYJ01,1286,7367,Tragelaphus_buxtoni,Tragelaphus_buxtoni_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_006410755.1,BNG,Tragelaphus eurycerus,2962040965,Scaffold,2019-06-24,SJYI01,1974,12574,Tragelaphus_eurycerus,Tragelaphus_eurycerus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_006410775.1,LEK,Tragelaphus imberbis,4038235010,Scaffold,2019-06-24,SJYM01,12858,1775046,Tragelaphus_imberbis,Tragelaphus_imberbis_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_006416875.1,CME,Tragelaphus oryx,2837493372,Scaffold,2019-06-24,SJYK01,1262,1262,Tragelaphus_oryx,Tragelaphus_oryx_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_006410495.1,BUB,Tragelaphus scriptus,2873326854,Scaffold,2019-06-24,SJXY01,28350,890554,Tragelaphus_scriptus,Tragelaphus_scriptus_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_006411015.1,STG,Tragelaphus spekii,3725951127,Scaffold,2019-06-24,SJYL01,9477,46427,Tragelaphus_spekii,Tragelaphus_spekii_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_006410795.1,GTK,Tragelaphus strepsiceros,2867754166,Scaffold,2019-06-24,SJYU01,33649,511483,Tragelaphus_strepsiceros,Tragelaphus_strepsiceros_BOVIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_006408655.1,LMD,Tragulus kanchil,3053423192,Scaffold,2019-06-24,SJXW01,13850,243497,Tragulus_kanchil,Tragulus_kanchil_TRAGULIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_018398825.1,TreOrn1.0,Tremarctos ornatus,2232736945,Scaffold,2021-05-19,WMLG01,23521,21115316,Tremarctos_ornatus,Tremarctos_ornatus_URSIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_011100645.1,mTriVul1.alt,Trichosurus vulpecula,2591928569,Scaffold,2020-03-09,JAANDF01,551016,551016,Trichosurus_vulpecula,Trichosurus_vulpecula_PHALANGERIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_003227395.1,ASM322739v1,Tursiops aduncus,2503928010,Scaffold,2018-06-14,NCQN01,206065,1235788,Tursiops_aduncus,Tursiops_aduncus_DELPHINIDAE_CETARTIODACTYLA,0,0,NA,NA,NA
+GCA_002564285.1,Tym_barrerae_AO245_v1,Tympanoctomys barrerae,2651634209,Scaffold,2017-10-17,NDGN01,4179,4698,Tympanoctomys_barrerae,Tympanoctomys_barrerae_OCTODONTIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_023101885.1,KIZ_TCIN_v1.0,Typhlomys cinereus,2677101931,Scaffold,2022-04-25,JALPQD01,1971523,4558085,Typhlomys_cinereus,Typhlomys_cinereus_PLATACANTHOMYIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_003426925.1,ASM342692v1,Urocitellus parryii,2520505282,Scaffold,2018-08-24,QVIC01,91013,3964291,Urocitellus_parryii,Urocitellus_parryii_SCIURIDAE_RODENTIA,0,0,NA,NA,NA
+GCA_003344425.1,ASM334442v1,Ursus americanus,2588393916,Scaffold,2018-07-27,LZNR01,27247,189900,Ursus_americanus,Ursus_americanus_URSIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_000612945.1,CS3220,Ursus arctos,775393,Scaffold,2014-03-31,CBZK01,6019,391865,Ursus_arctos,Ursus_arctos_URSIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_009660055.1,ASM966005v1,Ursus thibetanus thibetanus,2373594928,Scaffold,2019-11-13,WEIE01,145966,26803000,Ursus_thibetanus_thibetanus,Ursus_thibetanus_URSIDAE_CARNIVORA,0,1,Subspecies synonym,NA,NA
+GCA_013265495.1,ASM1326549v1,Vicugna vicugna mensalis,2026803740,Scaffold,2020-06-02,PNXW01,340839,6158010,Vicugna_vicugna_mensalis,Vicugna_vicugna_CAMELIDAE_CETARTIODACTYLA,0,1,Subspecies synonym,NA,NA
+GCA_900497805.2,bare-nosed wombat genome assembly,Vombatus ursinus,3486580222,Scaffold,2018-12-10,UNPS02,113054,28503419,Vombatus_ursinus,Vombatus_ursinus_VOMBATIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_024500485.1,ASM2450048v1,Vulpes ferrilata,2379658649,Chromosome,2022-08-01,JAJBZS01,52909674,133960477,Vulpes_ferrilata,Vulpes_ferrilata_CANIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_003160815.1,VulVul2.2,Vulpes vulpes,2421551259,Scaffold,2018-05-25,NBDQ01,55450,12472085,Vulpes_vulpes,Vulpes_vulpes_CANIDAE_CARNIVORA,0,0,NA,NA,NA
+GCA_904813435.1,ERS5079809 MarsupialExonCaptKit,Wallabia bicolor,2260631,Contig,2021-09-24,CAJGQY01,1133,NA,Wallabia_bicolor,Wallabia_bicolor_MACROPODIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_904810785.1,ERS5079544 MarsupialExonCaptKit,Wyulda squamicaudata,1682451,Contig,2021-09-24,CAJGIT01,1075,NA,Wyulda_squamicaudata,Wyulda_squamicaudata_PHALANGERIDAE_DIPROTODONTIA,0,0,NA,NA,NA
+GCA_012295265.1,UNSW_AlpineDingo_1.0,Canis lupus dingo,2398209015,Chromosome,2020-04-15,JAASLC01,23108747,64752584,Canis_lupus_dingo,Canis_lupus_CANIDAE_CARNIVORA,1,1,Subspecies synonym,NA,1. Zoonomia
+GCA_000181415.1,ASM18141v1,Canis lupus familiaris,1517481071,Contig,2003-09-27,AACN01,1516,NA,Canis_lupus_familiaris,Canis_lupus_CANIDAE_CARNIVORA,1,1,Subspecies synonym,NA,1. Zoonomia
+GCA_004027795.1,CerCot_v1_BIUU,Ceratotherium simum cottoni,2666617437,Scaffold,2019-01-16,PVLE01,21199,23005,Ceratotherium_simum_cottoni,Ceratotherium_simum_RHINOCEROTIDAE_PERISSODACTYLA,1,1,Subspecies synonym,NA,1. Zoonomia
+GCA_013634535.1,ASM1363453v1,Diceros bicornis minor,2331669150,Scaffold,2020-07-24,JACDTQ01,6035,28520426,Diceros_bicornis_minor,Diceros_bicornis_RHINOCEROTIDAE_PERISSODACTYLA,1,1,Subspecies synonym,NA,1. Zoonomia
+GCA_000298275.1,OryAfe1.0,Orycteropus afer afer,4444063711,Scaffold,2012-09-20,ALYB01,17683,7875832,Orycteropus_afer_afer,Orycteropus_afer_ORYCTEROPODIDAE_TUBULIDENTATA,1,1,Subspecies synonym,NA,1. Zoonomia
+GCA_001039535.1,ASM103953v1,Ovis canadensis canadensis,2590545282,Chromosome,2015-06-25,,8067,100190483,Ovis_canadensis_canadensis,Ovis_canadensis_BOVIDAE_CETARTIODACTYLA,1,1,Subspecies synonym,NA,1. Zoonomia
+GCA_004363475.1,PerLonPac_v1_BIUU,Perognathus longimembris pacificus,2601695796,Scaffold,2019-03-22,RJWR01,17686,24714,Perognathus_longimembris_pacificus,Perognathus_longimembris_HETEROMYIDAE_RODENTIA,1,1,Subspecies synonym,NA,1. Zoonomia
+GCA_004363435.1,PlaMin_v1_BIUU,Platanista minor,2671072510,Scaffold,2019-03-22,RJWK01,20879,23933,Platanista_minor,Platanista_gangetica_PLATANISTIDAE_CETARTIODACTYLA,1,1,"Species synonym, but now correct as split",https://www.mammaldiversity.org/explore.html#genus=Platanista&species=minor&id=1006547,1. Zoonomia
+GCA_019903745.1,ULRtarCaribou_2,Rangifer tarandus caribou,2584912043,Scaffold,2021-09-08,JAHWTM01,167694,29228715,Rangifer_tarandus_caribou,Rangifer_tarandus_CERVIDAE_CETARTIODACTYLA,1,1,Subspecies synonym,NA,1. Zoonomia
+GCA_014898785.1,LSU_RangTar_1.0,Rangifer tarandus granti,2537205796,Scaffold,2020-10-21,JACGUM01,231342,9347320,Rangifer_tarandus_granti,Rangifer_tarandus_CERVIDAE_CETARTIODACTYLA,1,1,Subspecies synonym,NA,1. Zoonomia
+GCA_902712895.1,Rtarandus_v2.1,Rangifer tarandus tarandus,2490329208,Scaffold,2021-09-21,CACTHY01,195709,20747807,Rangifer_tarandus_tarandus,Rangifer_tarandus_CERVIDAE_CETARTIODACTYLA,1,1,Subspecies synonym,NA,1. Zoonomia
+GCA_002901085.1,ASM290108v1,Solenodon paradoxus woodi,2049415269,Scaffold,2018-01-26,NKTL01,89121,110915,Solenodon_paradoxus_woodi,Solenodon_paradoxus_SOLENODONTIDAE_EULIPOTYPHLA,1,1,Subspecies synonym,NA,1. Zoonomia
+GCA_905249985.1,Buffalo_MAGs,Bubalus bubalis bubalis,10613571626,Scaffold,2021-07-07,CAJNOS01,33096,33672,Bubalus_bubalis_bubalis,Bubalus_arnee_BOVIDAE_CETARTIODACTYLA,1,1,"Species synonym, domestic form of B. arnee",https://www.mammaldiversity.org/explore.html#genus=Bubalus&species=bubalis&id=1006269,2. Existing assembly
+GCA_014189135.1,NRM_Dsumatrensis_v1.fasta,Dicerorhinus sumatrensis harrissoni,2442438657,Scaffold,2020-08-14,JABWHU01,70892,54482381,Dicerorhinus_sumatrensis_harrissoni,Dicerorhinus_sumatrensis_RHINOCEROTIDAE_PERISSODACTYLA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_002288905.2,ASM228890v2,Enhydra lutris kenyoni,2455260235,Scaffold,2017-09-11,NSES01,244548,38751465,Enhydra_lutris_kenyoni,Enhydra_lutris_MUSTELIDAE_CARNIVORA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_001305755.1,ASM130575v1,Equus asinus,2391034547,Scaffold,2015-10-02,JREZ01,66737,3776412,Equus_asinus,Equus_africanus_EQUIDAE_PERISSODACTYLA,1,1,"Species synonym, domestic form of E. africanus",https://www.mammaldiversity.org/explore.html#genus=Equus&species=asinus&id=1006121,2. Existing assembly
+GCA_018282235.1,ASM1828223v1,Giraffa camelopardalis antiquorum,2463975216,Scaffold,2021-05-05,JABSTO01,228443,27504022,Giraffa_camelopardalis_antiquorum,Giraffa_camelopardalis_GIRAFFIDAE_CETARTIODACTYLA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_017591445.1,ASM1759144v1,Giraffa camelopardalis rothschildi,2441480433,Chromosome,2021-03-30,JABCKX01,11323477,158234173,Giraffa_camelopardalis_rothschildi,Giraffa_camelopardalis_GIRAFFIDAE_CETARTIODACTYLA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_001651235.1,ASM165123v1,Giraffa tippelskirchi,2705072464,Scaffold,2016-05-20,LVKQ01,47894,212164,Giraffa_tippelskirchi,Giraffa_camelopardalis_GIRAFFIDAE_CETARTIODACTYLA,1,1,"Species synonym, but now correct as split",https://www.mammaldiversity.org/explore.html#genus=Giraffa&species=tippelskirchi&id=1006342,2. Existing assembly
+GCA_000151905.3,gorGor4,Gorilla gorilla gorilla,3063346382,Chromosome,2014-12-19,CABD03,52934,81227029,Gorilla_gorilla_gorilla,Gorilla_gorilla_HOMINIDAE_PRIMATES,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_001624445.1,CAST_EiJ_v1,Mus musculus castaneus,2653974351,Chromosome,2016-04-26,LVXN01,11642,133752109,Mus_musculus_castaneus,Mus_musculus_MURIDAE_RODENTIA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_001624835.1,WSB_EiJ_v1,Mus musculus domesticus,2689641256,Chromosome,2016-04-26,LVXW01,11777,133184209,Mus_musculus_domesticus,Mus_musculus_MURIDAE_RODENTIA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_921999095.2,JF1_MsJ_v3,Mus musculus molossinus,2727417884,Chromosome,2022-07-01,CAKLHU02,14400882,133124609,Mus_musculus_molossinus,Mus_musculus_MURIDAE_RODENTIA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_001624775.1,PWK_PhJ_v1,Mus musculus musculus,2559971091,Chromosome,2016-04-26,LVXU01,5105,128387505,Mus_musculus_musculus,Mus_musculus_MURIDAE_RODENTIA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_000215625.1,MusPutFur1.0,Mustela putorius furo,2410863155,Scaffold,2011-06-02,AEYP01,44823,9335154,Mustela_putorius_furo,Mustela_putorius_MUSTELIDAE_CARNIVORA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_026225855.1,ASM2622585v1,Neophocaena asiaeorientalis sunameri,2497825093,Chromosome,2022-11-18,JANJGR01,84691504,122398165,Neophocaena_asiaeorientalis_sunameri,Neophocaena_asiaeorientalis_PHOCOENIDAE_CETARTIODACTYLA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_002102435.1,Ovir.te_1.0,Odocoileus virginianus texanus,2380489210,Scaffold,2017-04-20,MLBE01,122019,850721,Odocoileus_virginianus_texanus,Odocoileus_virginianus_CERVIDAE_CETARTIODACTYLA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_013371645.1,OryCun3.0,Oryctolagus cuniculus cuniculus,2780373160,Chromosome,2020-06-24,JABWOR01,1879078,140390130,Oryctolagus_cuniculus_cuniculus,Oryctolagus_cuniculus_LEPORIDAE_LAGOMORPHA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_000765115.1,Oori1,Ovis aries musimon,2589834840,Scaffold,2014-07-15,CBYI01,39721,2217029,Ovis_aries_musimon,Ovis_aries_BOVIDAE_CETARTIODACTYLA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_000002175.2,CCYSCv1,Pan troglodytes verus,12263273,Chromosome,2006-04-20,,10257935,10257935,Pan_troglodytes_verus,Pan_troglodytes_HOMINIDAE_PRIMATES,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_000464555.1,PanTig1.0,Panthera tigris altaica,2391065193,Scaffold,2013-09-06,ATCQ01,30032,8860407,Panthera_tigris_altaica,Panthera_tigris_FELIDAE_CARNIVORA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_019348595.1,Maltig1.0,Panthera tigris jacksoni,2424644036,Scaffold,2021-07-26,JAFELI01,102497,21297815,Panthera_tigris_jacksoni,Panthera_tigris_FELIDAE_CARNIVORA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_021130815.1,PanTigT.MC.v3,Panthera tigris tigris,2406136656,Chromosome,2021-12-09,JAHFZI01,4405323,145476184,Panthera_tigris_tigris,Panthera_tigris_FELIDAE_CARNIVORA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_000500345.1,Pman_1.0,Peromyscus maniculatus bairdii,2630541020,Scaffold,2013-12-03,AYHN01,36367,3760915,Peromyscus_maniculatus_bairdii,Peromyscus_maniculatus_CRICETIDAE_RODENTIA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_021234165.1,CSHL_Meso_final,Pteronotus parnellii mesoamericanus,2074649091,Scaffold,2021-12-20,JAIWKQ01,31477943,31477943,Pteronotus_parnellii_mesoamericanus,Pteronotus_parnellii_MORMOOPIDAE_CHIROPTERA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_017957985.1,ASM1795798v1,Sus scrofa domesticus,2510037796,Chromosome,2021-04-15,JABTCQ01,51011532,138968154,Sus_scrofa_domesticus,Sus_scrofa_SUIDAE_CETARTIODACTYLA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_006511355.2,NSME_pig_1.2,Sus scrofa scrofa,2479314267,Chromosome,2021-04-09,,594997,142372574,Sus_scrofa_scrofa,Sus_scrofa_SUIDAE_CETARTIODACTYLA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_000334495.1,TupChi_1.0,Tupaia chinensis,2846580235,Scaffold,2013-01-31,ALAR01,25938,3670124,Tupaia_chinensis,Tupaia_belangeri_TUPAIIDAE_SCANDENTIA,1,1,Species synonym (junior),https://www.mammaldiversity.org/explore.html#genus=Tupaia&species=belangeri&id=1000540,2. Existing assembly
+GCA_000767525.1,Vi_pacos_V1.0,Vicugna pacos huacaya,2013701362,Scaffold,2015-02-11,JEMW01,213649,5303709,Vicugna_pacos_huacaya,Vicugna_pacos_CAMELIDAE_CETARTIODACTYLA,1,1,Subspecies synonym,NA,2. Existing assembly
+GCA_946052875.1,ARS_Pied_mat1.0,Bos gaurus x Bos taurus,3030544191,Chromosome,2022-09-11,CAMGDQ01,66457535,88543157,Bos_gaurus_x_Bos,_notUsing_hybrid,1,NA,NA,NA,NA
+GCA_009493645.1,ARS_UNL_BGru_maternal_1.0_p,Bos grunniens x Bos taurus,2677156012,Chromosome,2019-11-04,VLPI01,72336424,104384344,Bos_grunniens_x_Bos,_notUsing_hybrid,1,NA,NA,NA,NA
+GCA_003369685.2,UOA_Angus_1,Bos indicus x Bos taurus,2580764822,Chromosome,2018-11-30,PUFT02,37061043,102763607,Bos_indicus_x_Bos,_notUsing_hybrid,1,NA,NA,NA,NA
+GCA_018282365.1,ARS-UCSC_bison1.0,Bos taurus x Bison bison,2651593212,Chromosome,2021-05-06,JAEQBK01,68474646,87753233,Bos_taurus_x_Bison,_notUsing_hybrid,1,NA,NA,NA,NA
+GCA_023701655.1,CAU_F1_paternal_1.0,Ovis ammon polii x Ovis aries,2647058259,Chromosome,2022-06-10,JALAIX01,80500000,104794038,Ovis_ammon_polii_x,_notUsing_hybrid,1,NA,NA,NA,NA
+GCA_008750915.1,Mjon_1.0,Microcebus sp. 3 GT-2019,2499225679,Scaffold,2019-09-30,VSMF01,38130,38968,Microcebus_sp._3_GT-2019,_notUsing_nameApparentlyNotPublished,1,NA,NA,NA,NA
+GCA_025134845.1,SAF_Nshe_1.1,Neodon shergylaensis,2252564450,Scaffold,2022-09-02,JABTXL01,52341,10847872,Neodon_shergylaensis,_notUsing_preprintNotPublished,1,NA,NA,NA,NA
+GCA_904812045.1,ERS5079571 MarsupialExonCaptKit,Bettongia anhydra,828129,Contig,2021-09-24,CAJGNN01,515,NA,Bettongia_anhydra,Bettongia_penicillata_POTOROIDAE_DIPROTODONTIA,1,1,"Species synonym, but now correct as split",https://www.mammaldiversity.org/explore.html#genus=Bettongia&species=anhydra&id=1000320,NA
+GCA_023548195.1,mBetpen1.pri.20210916,Bettongia penicillata ogilbyi,3393487416,Scaffold,2022-05-25,JAJHZJ01,1995330,6939976,Bettongia_penicillata_ogilbyi,Bettongia_penicillata_POTOROIDAE_DIPROTODONTIA,1,1,Subspecies synonym,NA,NA
+GCA_019320065.1,ASM1932006v1,Cervus canadensis,2526613007,Chromosome,2021-07-26,JACTMD01,914577,77654944,Cervus_canadensis,Cervus_elaphus_CERVIDAE_CETARTIODACTYLA,1,1,"Species synonym, but now correct as split",https://www.mammaldiversity.org/explore.html#genus=Cervus&species=canadensis&id=1006312,NA
+GCA_002197005.1,CerEla1.0,Cervus elaphus hippelaphus,3438623608,Chromosome,2017-06-19,MKHE01,7944,107358006,Cervus_elaphus_hippelaphus,Cervus_elaphus_CERVIDAE_CETARTIODACTYLA,1,1,Subspecies synonym,NA,NA
+GCA_010411085.1,CEY_v1,Cervus hanglu yarkandensis,2594114534,Chromosome,2020-02-12,WMHW01,268660,77688133,Cervus_hanglu_yarkandensis,Cervus_elaphus_CERVIDAE_CETARTIODACTYLA,1,1,"Species synonym, but now correct as split",https://www.mammaldiversity.org/explore.html#genus=Cervus&species=hanglu&id=1006314,NA
+GCA_024166345.1,mEleMax1 alternate haplotype,Elephas maximus indicus,2952809375,Contig,2022-07-05,JAMZQV01,1512750,NA,Elephas_maximus_indicus,Elephas_maximus_ELEPHANTIDAE_PROBOSCIDEA,1,1,Subspecies synonym,NA,NA
+GCA_026770645.1,ASM2677064v1,Equus quagga burchellii,2391103778,Scaffold,2022-12-09,NHRG01,43811,1445668,Equus_quagga_burchellii,Equus_quagga_EQUIDAE_PERISSODACTYLA,1,1,Subspecies synonym,NA,NA
+GCA_004785775.1,NIH_TR_1.0,Grammomys surdaster,2412664998,Scaffold,2019-04-12,SRMG01,51731,8094907,Grammomys_surdaster,Grammomys_dolichurus_MURIDAE_RODENTIA,1,1,Species synonym (junior),https://www.mammaldiversity.org/explore.html#genus=Grammomys&species=dolichurus&id=1003072,NA
+GCA_023973185.1,Gulo_gulo_luscus_A-V1.0,Gulo gulo luscus,2249482025,Scaffold,2022-06-29,JAMKPV01,15877,50310,Gulo_gulo_luscus,Gulo_gulo_MUSTELIDAE_CARNIVORA,1,1,Subspecies synonym,NA,NA
+GCA_904811015.1,ERS5079592 MarsupialExonCaptKit,Isoodon auratus barrowensis,1812545,Contig,2021-01-28,CAJGJO01,987,NA,Isoodon_auratus_barrowensis,Isoodon_auratus_PERAMELIDAE_PERAMELEMORPHIA,1,1,Subspecies synonym,https://www.mammaldiversity.org/explore.html#genus=Isoodon&species=auratus&id=1000233,NA
+GCA_904811065.1,ERS5079590 MarsupialExonCaptKit,Isoodon macrourus macrourus,2115724,Contig,2021-01-28,CAJGJS01,1137,NA,Isoodon_macrourus_macrourus,Isoodon_macrourus_PERAMELIDAE_PERAMELEMORPHIA,1,1,Subspecies synonym,NA,NA
+GCA_904811005.1,ERS5079593 MarsupialExonCaptKit,Isoodon fusciventer,1533507,Contig,2021-09-24,CAJGJL01,894,NA,Isoodon_fusciventer,Isoodon_obesulus_PERAMELIDAE_PERAMELEMORPHIA,1,1,"Species synonym, but now correct as split",https://www.mammaldiversity.org/explore.html#genus=Isoodon&species=fusciventer&id=1000234,NA
+GCA_904810965.1,ERS5079561 MarsupialExonCaptKit,Isoodon obesulus affinis,615147,Contig,2021-01-28,CAJGJF01,422,NA,Isoodon_obesulus_affinis,Isoodon_obesulus_PERAMELIDAE_PERAMELEMORPHIA,1,1,Subspecies synonym,NA,NA
+GCA_904811845.1,ERS5079661 MarsupialExonCaptKit,Isoodon obesulus nauticus,1657949,Contig,2021-01-28,CAJGMS01,924,NA,Isoodon_obesulus_nauticus,Isoodon_obesulus_PERAMELIDAE_PERAMELEMORPHIA,1,1,Subspecies synonym,NA,NA
+GCA_904811805.1,ERS5079670 MarsupialExonCaptKit,Isoodon obesulus obesulus,1625068,Contig,2021-01-28,CAJGML01,916,NA,Isoodon_obesulus_obesulus,Isoodon_obesulus_PERAMELIDAE_PERAMELEMORPHIA,1,1,Subspecies synonym,NA,NA
+GCA_904811835.1,ERS5079668 MarsupialExonCaptKit,Isoodon obesulus peninsulae,1711797,Contig,2021-01-28,CAJGMM01,951,NA,Isoodon_obesulus_peninsulae,Isoodon_obesulus_PERAMELIDAE_PERAMELEMORPHIA,1,1,"Subspecies synonym, but now elevated",https://www.mammaldiversity.org/explore.html#genus=Isoodon&species=peninsulae&id=1000237,NA
+GCA_904811105.1,ERS5079594 MarsupialExonCaptKit,Notamacropus eugenii derbianus,2202122,Contig,2021-01-28,CAJGJK01,1114,NA,Notamacropus_eugenii_derbianus,Macropus_eugenii_MACROPODIDAE_DIPROTODONTIA,1,1,Subspecies synonym,https://www.mammaldiversity.org/explore.html#genus=Notamacropus&species=eugenii&id=1000280,NA
+GCA_904811045.1,ERS5079585 MarsupialExonCaptKit,Notamacropus eugenii eugenii,2220498,Contig,2021-01-28,CAJGJV01,1118,NA,Notamacropus_eugenii_eugenii,Macropus_eugenii_MACROPODIDAE_DIPROTODONTIA,1,1,Subspecies synonym,https://www.mammaldiversity.org/explore.html#genus=Notamacropus&species=eugenii&id=1000280,NA
+GCA_904811085.1,ERS5079587 MarsupialExonCaptKit,Notamacropus rufogriseus banksianus,1735974,Contig,2021-01-28,CAJGJM01,938,NA,Notamacropus_rufogriseus_banksianus,Macropus_rufogriseus_MACROPODIDAE_DIPROTODONTIA,1,1,Subspecies synonym,NA,NA
+GCA_904814325.1,ERS5079888 MarsupialExonCaptKit,Microperoryctes longicauda magnus,1353126,Contig,2021-01-28,CAJGUH01,743,NA,Microperoryctes_longicauda_magnus,Microperoryctes_longicauda_PERAMELIDAE_PERAMELEMORPHIA,1,1,Subspecies synonym,NA,NA
+GCA_020387435.1,ASM2038743v1,Microtus richardsoni arvicoloides,2362086622,Scaffold,2021-10-08,JAEPQW01,38579,2298463,Microtus_richardsoni_arvicoloides,Microtus_richardsoni_CRICETIDAE_RODENTIA,1,1,Subspecies synonym,NA,NA
+GCA_019969365.1,SCBI_Ndam_1.0,Nanger dama ruficollis,3008822536,Scaffold,2021-09-14,JAHTZZ01,270765,156272796,Nanger_dama_ruficollis,Nanger_dama_BOVIDAE_CETARTIODACTYLA,1,1,Subspecies synonym,NA,NA
+GCA_004115125.1,UofA_Ohem_1.0,Odocoileus hemionus hemionus,2343684856,Scaffold,2019-01-30,RCHL01,113295,838758,Odocoileus_hemionus_hemionus,Odocoileus_hemionus_CERVIDAE_CETARTIODACTYLA,1,1,Subspecies synonym,NA,NA
+GCA_003697985.1,ASM369798v1,Odocoileus hemionus sitkensis,2324921134,Scaffold,2018-10-30,RFLZ01,9488,9678,Odocoileus_hemionus_sitkensis,Odocoileus_hemionus_CERVIDAE_CETARTIODACTYLA,1,1,Subspecies synonym,NA,NA
+GCA_904812765.1,ERS5079736 MarsupialExonCaptKit,Petrogale wilkinsi,2530893,Contig,2021-09-24,CAJGOY01,1249,NA,Petrogale_wilkinsi,Petrogale_brachyotis_MACROPODIDAE_DIPROTODONTIA,1,1,"Species synonym, but now correct as split",https://www.mammaldiversity.org/explore.html#genus=Petrogale&species=wilkinsi&id=1000308,NA
+GCA_904812245.1,ERS5079689 MarsupialExonCaptKit,Petrogale concinna canescens,2359479,Contig,2021-01-28,CAJGOF01,1170,NA,Petrogale_concinna_canescens,Petrogale_concinna_MACROPODIDAE_DIPROTODONTIA,1,1,Subspecies synonym,NA,NA
+GCA_904812425.1,ERS5079702 MarsupialExonCaptKit,Petrogale lateralis hacketti,2033086,Contig,2021-01-28,CAJGON01,1016,NA,Petrogale_lateralis_hacketti,Petrogale_lateralis_MACROPODIDAE_DIPROTODONTIA,1,1,Subspecies synonym,NA,NA
+GCA_904812275.1,ERS5079693 MarsupialExonCaptKit,Petrogale xanthopus celeris,2284607,Contig,2021-01-28,CAJGOG01,1122,NA,Petrogale_xanthopus_celeris,Petrogale_xanthopus_MACROPODIDAE_DIPROTODONTIA,1,1,Subspecies synonym,NA,NA
+GCA_005406085.2,Prionailurus_bengalensis_euptilurus_v03,Prionailurus bengalensis euptilurus,2421863388,Scaffold,2020-09-15,BIMV02,20431,214455,Prionailurus_bengalensis_euptilurus,Prionailurus_bengalensis_FELIDAE_CARNIVORA,1,1,Subspecies synonym,NA,NA
+GCA_018403415.1,P_iriomotensis_scaffold_01,Prionailurus iriomotensis,2382008360,Scaffold,2021-03-31,BOSP01,27846,102082,Prionailurus_iriomotensis,Prionailurus_bengalensis_FELIDAE_CARNIVORA,1,1,Species synonym (junior),https://www.mammaldiversity.org/explore.html#genus=Prionailurus&species=bengalensis&id=1006012,NA
+GCA_904811895.1,ERS5079657 MarsupialExonCaptKit,Trichosurus arnhemensis,1915975,Contig,2021-01-28,CAJGMQ01,986,NA,Trichosurus_arnhemensis,Trichosurus_vulpecula_PHALANGERIDAE_DIPROTODONTIA,1,1,Species synonym (junior),https://www.mammaldiversity.org/explore.html#genus=Trichosurus&species=vulpecula&id=1000402,NA
+GCF_003584765.2,ASM358476v2,Ursus arctos horribilis,2328625186,Scaffold,2018-09-20,QXTK01,314844,36708181,Ursus_arctos_horribilis,Ursus_arctos_URSIDAE_CARNIVORA,1,1,Subspecies synonym,NA,NA
+GCA_014364545.1,U_thibetanus_scaffold_01,Ursus thibetanus japonicus,2211141772,Scaffold,2020-08-23,BMBK01,39753,117197,Ursus_thibetanus_japonicus,Ursus_thibetanus_URSIDAE_CARNIVORA,1,1,Subspecies synonym,NA,NA
