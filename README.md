@@ -19,51 +19,51 @@ Query: https://www.ncbi.nlm.nih.gov/data-hub/genome/?taxon=40674
 
 ### Summary of taxonomic sampling of genome species (taxonomy of mammal tree)
 
-| Higher taxon     | GENOME SP | TOTAL SP |
-| ---------------- | --------- | -------- |
-| Afrotheria       | 12        | 92       |
-| Euarchontoglires | 208       | 2963     |
-| Laurasiatheria   | 277       | 2456     |
-| Marsupialia      | 168 **      | 362      | 
-| Monotremata      | 2         | 5        |
-| Xenarthra        | 8         | 33       |
+| Higher taxon     | GENOME SP | TOTAL SP | % SP |
+| ---------------- | --------- | -------- | ---- |
+| Afrotheria       | 12        | 92       | 13%  |
+| Euarchontoglires | 208       | 2963     | 7%   |
+| Laurasiatheria   | 277       | 2456     | 11%  |
+| Marsupialia      | 168 \*\*  | 362      | 46%  |
+| Monotremata      | 2         | 5        | 40%  |
+| Xenarthra        | 8         | 33       | 24%  |
 
 ** There was only 7 marsupial genomes before 2021; then 11 + 148 + 2 added in 2021 (= 161 genomes) for the current total of 168
 
-| Order            | GENOME SP | TOTAL SP |
-| ---------------- | --------- | -------- |
-| AFROSORICIDA     | 3         | 55       |
-| ARTIODACTYLA     | 128       | 348      |
-| CARNIVORA        | 74        | 298      |
-| CHIROPTERA       | 49        | 1287     |
-| CINGULATA        | 3         | 21       |
-| DASYUROMORPHIA   | 63        | 78       |
-| DERMOPTERA       | 2         | 2        |
-| DIDELPHIMORPHIA  | 3         | 106      |
-| DIPROTODONTIA    | 85        | 146      |
-| EULIPOTYPHLA     | 12        | 491      |
-| HYRACOIDEA       | 2         | 5        |
-| LAGOMORPHA       | 6         | 91       |
-| MACROSCELIDEA    | 1         | 19       |
-| MICROBIOTHERIA   | 1         | 1        |
-| MONOTREMATA      | 2         | 5        |
-| OTORYCTEMORPHIA  | 2         | 2        |
-| PAUCITUBERCULATA | 0 **      | 7        |
-| PERAMELEMORPHIA  | 14        | 22       |
-| PERISSODACTYLA   | 10        | 24       |
-| PHOLIDOTA        | 4         | 8        |
-| PILOSA           | 5         | 12       |
-| PRIMATES         | 83        | 458      |
-| PROBOSCIDEA      | 2         | 7        |
-| RODENTIA         | 115       | 2392     |
-| SCANDENTIA       | 2         | 20       |
-| SIRENIA          | 3         | 5        |
-| TUBULIDENTATA    | 1         | 1        |
+| Order            | GENOME SP | TOTAL SP | % SP |
+| ---------------- | --------- | -------- | ---- |
+| AFROSORICIDA     | 3         | 55       | 5%   |
+| ARTIODACTYLA     | 128       | 348      | 37%  |
+| CARNIVORA        | 74        | 298      | 25%  |
+| CHIROPTERA       | 49        | 1287     | 4%   |
+| CINGULATA        | 3         | 21       | 14%  |
+| DASYUROMORPHIA   | 63        | 78       | 81%  |
+| DERMOPTERA       | 2         | 2        | 100% |
+| DIDELPHIMORPHIA  | 3         | 106      | 3%   |
+| DIPROTODONTIA    | 85        | 146      | 58%  |
+| EULIPOTYPHLA     | 12        | 491      | 2%   |
+| HYRACOIDEA       | 2         | 5        | 40%  |
+| LAGOMORPHA       | 6         | 91       | 7%   |
+| MACROSCELIDEA    | 1         | 19       | 5%   |
+| MICROBIOTHERIA   | 1         | 1        | 100% |
+| MONOTREMATA      | 2         | 5        | 40%  |
+| OTORYCTEMORPHIA  | 2         | 2        | 100% |
+| PAUCITUBERCULATA | 0 \*\*    | 7        | 0%   |
+| PERAMELEMORPHIA  | 14        | 22       | 64%  |
+| PERISSODACTYLA   | 10        | 24       | 42%  |
+| PHOLIDOTA        | 4         | 8        | 50%  |
+| PILOSA           | 5         | 12       | 42%  |
+| PRIMATES         | 83        | 458      | 18%  |
+| PROBOSCIDEA      | 2         | 7        | 29%  |
+| RODENTIA         | 115       | 2392     | 5%   |
+| SCANDENTIA       | 2         | 20       | 10%  |
+| SIRENIA          | 3         | 5        | 60%  |
+| TUBULIDENTATA    | 1         | 1        | 100% |
 
 ** Paucituberculata is the only extant mammal order yet without a genome! The extant marsupial family Caenolestidae (shrew-opossums) is represented by 7 species in the Andes mountains of South America.
 
 ### Summary of genomes by attributes 
-- body size (adult average body mass of sequenced species; modified from Faurby and Svenning 2016 http://www.journals.uchicago.edu/doi/10.1086/686268)
+- body size (adult average body mass of sequenced species, log kg; modified from Faurby and Svenning 2016 http://www.journals.uchicago.edu/doi/10.1086/686268)
 - latitude (absolute value of centroid of species geographic range polygon; modified from IUCN 2016 https://www.iucnredlist.org/resources/spatial-data-download)
 
 | variable           | med   | low95 | up95    | low50 | up50  |
