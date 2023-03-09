@@ -23,7 +23,7 @@ Query: https://www.ncbi.nlm.nih.gov/data-hub/genome/?taxon=40674
 | Afrotheria       | 12        | 92       |
 | Euarchontoglires | 208       | 2963     |
 | Laurasiatheria   | 277       | 2456     |
-| Marsupialia      | 168       | 362      | << << only 7 marsupial genomes before 2021
+| Marsupialia      | 168 (note: only 7 marsupial genomes before 2021)      | 362      | 
 | Monotremata      | 2         | 5        |
 | Xenarthra        | 8         | 33       |
 
