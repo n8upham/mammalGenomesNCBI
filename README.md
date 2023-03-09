@@ -61,15 +61,17 @@ Query: https://www.ncbi.nlm.nih.gov/data-hub/genome/?taxon=40674
 
 ** Paucituberculata is the only extant mammal order yet without a genome! The extant marsupial family Caenolestidae (shrew-opossums) is represented 7 species in the Andes mountains of South America.
 
-### Summary of genomes by body size (adult average body mass of sequenced species)
+### Summary of genomes by attributes 
+- body size (adult average body mass of sequenced species; modified from Faurby and Svenning 2016 http://www.journals.uchicago.edu/doi/10.1086/686268)
+- latitude (absolute value of centroid of species geographic range polygon; modified from IUCN 2016 https://www.iucnredlist.org/resources/spatial-data-download)
 
-All mammals (5911 species)
-			#     med     low95      up95     low50      up50 
- 			# 0.07500   0.00480 180.38840   0.02050   0.62845 
+| variable           | med   | low95 | up95    | low50 | up50  |
+| ------------------ | ----- | ----- | ------- | ----- | ----- |
+| Body mass (all)    | 0.08  | 0.00  | 180.39  | 0.02  | 0.63  |
+| Body mass (genome) | 2.07  | 0.01  | 2392.26 | 0.08  | 22.42 |
+| Latitude (all)     | 15.35 | 0.52  | 52.44   | 5.87  | 28.06 |
+| Latitude (genome)  | 22.30 | 0.64  | 58.69   | 8.39  | 34.90 |
 
-Genomes sequenced (675 species)
-			#      med      low95       up95      low50       up50 
- 			#  2.06670    0.00760 2392.25600    0.08015   22.41660 
  			
  			
 
