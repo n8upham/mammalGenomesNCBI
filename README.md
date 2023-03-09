@@ -72,7 +72,9 @@ Query: https://www.ncbi.nlm.nih.gov/data-hub/genome/?taxon=40674
 | Latitude (all)     | 15.35 | 0.52  | 52.44   | 5.87  | 28.06 |
 | Latitude (genome)  | 22.30 | 0.64  | 58.69   | 8.39  | 34.90 |
 
- 			
+ * Wilcoxon rank sum tests with continuity correction:  
+ 	- Body mass: W = 1150239, p-value < 2.2e-16
+	- Latitude: W = 1404678, p-value = 3.09e-14
  			
 
 
