@@ -60,7 +60,7 @@ Query: https://www.ncbi.nlm.nih.gov/data-hub/genome/?taxon=40674
 | SIRENIA          | 3         | 5        |
 | TUBULIDENTATA    | 1         | 1        |
 
-** Paucituberculata is the only extant mammal order yet without a genome! The extant marsupial family Caenolestidae (shrew-opossums) is represented 7 species in the Andes mountains of South America.
+** Paucituberculata is the only extant mammal order yet without a genome! The extant marsupial family Caenolestidae (shrew-opossums) is represented by 7 species in the Andes mountains of South America.
 
 ### Summary of genomes by attributes 
 - body size (adult average body mass of sequenced species; modified from Faurby and Svenning 2016 http://www.journals.uchicago.edu/doi/10.1086/686268)
