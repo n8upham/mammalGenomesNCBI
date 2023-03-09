@@ -23,10 +23,11 @@ Query: https://www.ncbi.nlm.nih.gov/data-hub/genome/?taxon=40674
 | Afrotheria       | 12        | 92       |
 | Euarchontoglires | 208       | 2963     |
 | Laurasiatheria   | 277       | 2456     |
-| Marsupialia      | 168 (note: only 7 marsupial genomes before 2021)      | 362      | 
+| Marsupialia      | 168 **      | 362      | 
 | Monotremata      | 2         | 5        |
 | Xenarthra        | 8         | 33       |
 
+** There was only 7 marsupial genomes before 2021; then 11 + 148 + 2 added in 2021 (= 161 genomes) for the current total of 168
 
 | Order            | GENOME SP | TOTAL SP |
 | ---------------- | --------- | -------- |
@@ -46,7 +47,7 @@ Query: https://www.ncbi.nlm.nih.gov/data-hub/genome/?taxon=40674
 | MICROBIOTHERIA   | 1         | 1        |
 | MONOTREMATA      | 2         | 5        |
 | OTORYCTEMORPHIA  | 2         | 2        |
-| PAUCITUBERCULATA | 0 << !    | 7        |
+| PAUCITUBERCULATA | 0 **      | 7        |
 | PERAMELEMORPHIA  | 14        | 22       |
 | PERISSODACTYLA   | 10        | 24       |
 | PHOLIDOTA        | 4         | 8        |
@@ -58,7 +59,7 @@ Query: https://www.ncbi.nlm.nih.gov/data-hub/genome/?taxon=40674
 | SIRENIA          | 3         | 5        |
 | TUBULIDENTATA    | 1         | 1        |
 
-
+** Paucituberculata (extant family Caenolestidae) is the only mammal order yet without a genome!
 
 ### Summary of genomes by body size (adult average body mass of sequenced species)
 
