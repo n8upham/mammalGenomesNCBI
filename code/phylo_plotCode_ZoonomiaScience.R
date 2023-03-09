@@ -110,9 +110,11 @@ ZoonomiaMatched<-read.csv(file="Zoonomia-SuppTable2_mamPhyMatched.csv")
 			# 168
 		dim(as.data.frame(table(allAssemb[which(allAssemb$Assembly.Level=="Scaffold"), "Organism.Name"])))[1]
 			# 489
+		dim(as.data.frame(table(allAssemb[which(allAssemb$Assembly.Level=="Contig"), "Organism.Name"])))[1]
 
 			# 2800 total genomes (= 264 RefSeq + 2,536 assemblies) <<<
 			# 754 unique taxa (species, subsp, hybrid)
+				# 254 contigLevel unique taxa
 				# 489 scaffoldLevel unique taxa
 				# 168 chromoLevel unique taxa
 			# 675 species after aligning with the mammal tree taxonomy
@@ -232,34 +234,34 @@ ZoonomiaMatched<-read.csv(file="Zoonomia-SuppTable2_mamPhyMatched.csv")
 				# 6          Xenart.    8
 
 			as.data.frame(table(varsToPlot_wTax_all$ord))
-				#                Var1 GENOME SP		               Var1 TOTAL SP
-				# 1      AFROSORICIDA    3			1      AFROSORICIDA   55
-				# 2         CARNIVORA   74			2         CARNIVORA  298
-				# 3   CETARTIODACTYLA  128			3   CETARTIODACTYLA  348
-				# 4        CHIROPTERA   49			4        CHIROPTERA 1287
-				# 5         CINGULATA    3			5         CINGULATA   21
-				# 6    DASYUROMORPHIA   63			6    DASYUROMORPHIA   78
-				# 7        DERMOPTERA    2			7        DERMOPTERA    2
-				# 8   DIDELPHIMORPHIA    3			8   DIDELPHIMORPHIA  106
-				# 9     DIPROTODONTIA   85			9     DIPROTODONTIA  146
-				# 10     EULIPOTYPHLA   12			10     EULIPOTYPHLA  491
-				# 11       HYRACOIDEA    2			11       HYRACOIDEA    5
-				# 12       LAGOMORPHA    6			12       LAGOMORPHA   91
-				# 13    MACROSCELIDEA    1			13    MACROSCELIDEA   19
-				# 14   MICROBIOTHERIA    1			14   MICROBIOTHERIA    1
-				# 15      MONOTREMATA    2			15      MONOTREMATA    5
-				# 16 NOTORYCTEMORPHIA    2			16 NOTORYCTEMORPHIA    2
-				# PAUCITUBERCULATA		 0 << !		17 PAUCITUBERCULATA    7
-				# 17  PERAMELEMORPHIA   14			18  PERAMELEMORPHIA   22
-				# 18   PERISSODACTYLA   10			19   PERISSODACTYLA   24
-				# 19        PHOLIDOTA    4			20        PHOLIDOTA    8
-				# 20           PILOSA    5			21           PILOSA   12
-				# 21         PRIMATES   83			22         PRIMATES  458
-				# 22      PROBOSCIDEA    2			23      PROBOSCIDEA    7
-				# 23         RODENTIA  115			24         RODENTIA 2392
-				# 24       SCANDENTIA    2			25       SCANDENTIA   20
-				# 25          SIRENIA    3			26          SIRENIA    5
-				# 26    TUBULIDENTATA    1			27    TUBULIDENTATA    1
+				#                Var1 	GENOME SP		TOTAL SP
+				# 1      AFROSORICIDA 	   3			  55
+				# 2         CARNIVORA 	  74			 298
+				# 3   CETARTIODACTYLA 	 128			 348
+				# 4        CHIROPTERA 	  49			1287
+				# 5         CINGULATA 	   3			  21
+				# 6    DASYUROMORPHIA 	  63			  78
+				# 7        DERMOPTERA 	   2			   2
+				# 8   DIDELPHIMORPHIA 	   3			 106
+				# 9     DIPROTODONTIA 	  85			 146
+				# 10     EULIPOTYPHLA 	  12			 491
+				# 11       HYRACOIDEA 	   2			   5
+				# 12       LAGOMORPHA 	   6			  91
+				# 13    MACROSCELIDEA 	   1			  19
+				# 14   MICROBIOTHERIA 	   1			   1
+				# 15      MONOTREMATA 	   2			   5
+				# 16 NOTORYCTEMORPHIA 	   2			   2
+				# 17 PAUCITUBERCULATA 	   0 << !		   7
+				# 18  PERAMELEMORPHIA 	  14			  22
+				# 19   PERISSODACTYLA 	  10			  24
+				# 20        PHOLIDOTA 	   4			   8
+				# 21           PILOSA 	   5			  12
+				# 22         PRIMATES 	  83			 458
+				# 23      PROBOSCIDEA 	   2			   7
+				# 24         RODENTIA 	 115			2392
+				# 25       SCANDENTIA 	   2			  20
+				# 26          SIRENIA 	   3			   5
+				# 27    TUBULIDENTATA 	   1			   1
 
 					## PAUCITUBERCULATA is unsampled <<< !!!
 
@@ -276,6 +278,7 @@ ZoonomiaMatched<-read.csv(file="Zoonomia-SuppTable2_mamPhyMatched.csv")
 				# of the contig genomes, how many have contig N50 < 1,000,000 (1 megabase)?
 				length(which(varsToPlot_wTax_all[which(varsToPlot_wTax_all$Assembly.Level=="Contig"),]$Assembly.Stats.Contig.N50 < 1000000))
 					# 171 contigs
+
 
 
 		# evaluating BODY MASS
@@ -316,12 +319,14 @@ ZoonomiaMatched<-read.csv(file="Zoonomia-SuppTable2_mamPhyMatched.csv")
 				lines(density(x=(massSeq)))
 		library(plotrix)
 
-			pdf(file="plotMass_all-vs-sequenced_675genomes_mid50.pdf", width=5, height=3.5)
+			pdf(file="plotMass_all-vs-sequenced_675genomes_mid50_log.pdf", width=5, height=3.5)
 				# all mammals
-				plot(density(massAll), col="dark grey", main="", bty="n", xlab="", ylab="",axes=F, xlim=range(massAll))
-				polygon(density(massAll), col="light grey", border="black", bty="n",main="")
+				plot(density(massAll), col="dark grey", main="", bty="n", xlab="", ylab="",axes=F, xlim=range(massAll))#, log="x")
+				polygon(density(massAll), col="light grey", border="black", bty="n",main="")#, log="x")
 				x.tick <- c(round(quantile(massAll, c(0.01,0.5)),0), 0, round(quantile(massAll, c(0.99,1)),0))
-				axis(at=c(0,x.tick), labels=c(NA,round(x.tick,2)), side=1, line=1.3, cex=2.5, lwd=1, tck=-0.05, cex.axis=1.0, mgp=c(1,1,0))
+				x.tick_labels <- exp(c(round(quantile(massAll, c(0.01,0.5)),0), 0, round(quantile(massAll, c(0.99,1)),0)))*1000
+
+				axis(at=c(0,x.tick), labels=c(NA,round(x.tick_labels,0)), side=1, line=1.3, cex=2.5, lwd=1, tck=-0.05, cex.axis=1.0, mgp=c(1,1,0))
 				dens.rate <- density(massAll)$y
 				axis(at=c(min(dens.rate),0.45*max(dens.rate),0.9*max(dens.rate)), labels=c(0,0.45,0.9), side=2, cex=2.5, las=1, lwd=1, cex.axis=1.0, tck=-0.05, mgp=c(1,1,0))
 
