@@ -76,5 +76,7 @@ Query: https://www.ncbi.nlm.nih.gov/data-hub/genome/?taxon=40674
  	- Body mass: W = 1150239, p-value < 2.2e-16
 	- Latitude: W = 1404678, p-value = 3.09e-14
  			
+### Plotted
 
+![alt text](https://github.com/n8upham/mammalGenomesNCBI/blob/main/figures/Fig1_newSciencePerspective_genomeDist_Mar2023_675genomes.jpg?raw=true)
 
