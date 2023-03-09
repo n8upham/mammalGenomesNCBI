@@ -16,7 +16,17 @@ Query: https://www.ncbi.nlm.nih.gov/data-hub/genome/?taxon=40674
 	- 414 scaffoldLevel species (= 418 - 4 from above)
 	- 185 contigLevel species (= 189 - 4 from above)
 
-### Summary of taxonomic sampling
+### Summary of taxonomic sampling of genome species (taxonomy of mammal tree)
+
+| Higher taxon     | GENOME SP | TOTAL SP |
+| ---------------- | --------- | -------- |
+| Afrotheria       | 12        | 92       |
+| Euarchontoglires | 208       | 2963     |
+| Laurasiatheria   | 277       | 2456     |
+| Marsupialia      | 168       | 362      | << << only 7 marsupial genomes before 2021
+| Monotremata      | 2         | 5        |
+| Xenarthra        | 8         | 33       |
+
 
 | Order            | GENOME SP | TOTAL SP |
 | ---------------- | --------- | -------- |
