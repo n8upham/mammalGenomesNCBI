@@ -1,5 +1,6 @@
 # Perspective in _Science_ (2023): "Genomics expands the mammalverse"
 ## Nathan S. Upham and Michael J. Landis
+[![DOI](https://zenodo.org/badge/611810976.svg)](https://zenodo.org/badge/latestdoi/611810976)
 ### Code for parsing NCBI mammal genome metadata
 
 ### Download from NCBI Genome on 9 Feb 2023
